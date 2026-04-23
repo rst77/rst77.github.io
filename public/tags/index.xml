@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on RenatoTeixeira.com</title>
+    <link>http://www.renatoteixeira.com/tags/</link>
+    <description>Recent content in Tags on RenatoTeixeira.com</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 23 Apr 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://www.renatoteixeira.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Emoji</title>
+      <link>http://www.renatoteixeira.com/tags/emoji/</link>
+      <pubDate>Thu, 23 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>http://www.renatoteixeira.com/tags/emoji/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hugo</title>
+      <link>http://www.renatoteixeira.com/tags/hugo/</link>
+      <pubDate>Thu, 23 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>http://www.renatoteixeira.com/tags/hugo/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Markdown</title>
+      <link>http://www.renatoteixeira.com/tags/markdown/</link>
+      <pubDate>Thu, 23 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>http://www.renatoteixeira.com/tags/markdown/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Css</title>
+      <link>http://www.renatoteixeira.com/tags/css/</link>
+      <pubDate>Thu, 13 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>http://www.renatoteixeira.com/tags/css/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Html</title>
+      <link>http://www.renatoteixeira.com/tags/html/</link>
+      <pubDate>Thu, 13 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>http://www.renatoteixeira.com/tags/html/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Shortcodes</title>
+      <link>http://www.renatoteixeira.com/tags/shortcodes/</link>
+      <pubDate>Wed, 12 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>http://www.renatoteixeira.com/tags/shortcodes/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Text</title>
+      <link>http://www.renatoteixeira.com/tags/text/</link>
+      <pubDate>Wed, 05 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>http://www.renatoteixeira.com/tags/text/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
