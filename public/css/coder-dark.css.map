@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "coder-dark.css",
-	"sourceRoot": "/home/rst/dev/quickstart",
+	"sourceRoot": "/home/rst/dev/rst77.github.io",
 	"sources": [
 		"themes/hugo-coder/assets/scss/coder-dark.scss",
 		"themes/hugo-coder/assets/scss/_variables.scss",

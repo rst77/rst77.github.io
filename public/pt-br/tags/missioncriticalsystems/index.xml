@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>MissionCriticalSystems on RenatoTeixeira.com</title>
+    <link>http://localhost:1313/pt-br/tags/missioncriticalsystems/</link>
+    <description>Recent content in MissionCriticalSystems on RenatoTeixeira.com</description>
+    <generator>Hugo</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Mon, 06 Apr 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/pt-br/tags/missioncriticalsystems/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Modernizar sistemas legados não é uma disputa entre o velho e o novo. É uma disciplina do discernimento</title>
+      <link>http://localhost:1313/pt-br/posts/modernization-not-dispute/</link>
+      <pubDate>Mon, 06 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/pt-br/posts/modernization-not-dispute/</guid>
+      <description>&lt;p&gt;Existe uma tendência recorrente de tratar o legado como um erro histórico a ser corrigido. Como se identificar uma tecnologia mais atual, projetar uma arquitetura mais elegante e iniciar uma jornada de substituição fossem o suficiente para resolver o problema de uma vez por todas.&lt;/p&gt;&#xA;&lt;p&gt;Mas a realidade raramente se organiza dessa forma.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Sistemas legados&lt;/strong&gt; não persistem simplesmente porque as organizações resistem à mudança. Eles persistem porque, em algum momento, foram bem-sucedidos em sustentar operações críticas, absorvendo a complexidade real do negócio e acomodando, ao longo do tempo, decisões, exceções, adaptações e trade-offs que dificilmente podem ser capturados em um diagrama arquitetural limpo.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

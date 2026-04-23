@@ -2,380 +2,292 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://www.renatoteixeira.com/pt-br/authors/</loc>
-    <lastmod>2023-07-13T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/pt-br/authors/</loc>
+    <lastmod>2026-04-14T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.renatoteixeira.com/authors/"
+                href="http://localhost:1313/authors/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://www.renatoteixeira.com/pt-br/authors/"
+                href="http://localhost:1313/pt-br/authors/"
                 />
   </url><url>
-    <loc>http://www.renatoteixeira.com/pt-br/categories/</loc>
-    <lastmod>2023-07-13T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/pt-br/categories/</loc>
+    <lastmod>2026-04-14T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.renatoteixeira.com/categories/"
+                href="http://localhost:1313/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://www.renatoteixeira.com/pt-br/categories/"
+                href="http://localhost:1313/pt-br/categories/"
                 />
   </url><url>
-    <loc>http://www.renatoteixeira.com/pt-br/tags/css/</loc>
-    <lastmod>2023-07-13T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/pt-br/tags/enterprisearchitecture/</loc>
+    <lastmod>2026-04-14T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.renatoteixeira.com/tags/css/"
+                href="http://localhost:1313/tags/enterprisearchitecture/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://www.renatoteixeira.com/pt-br/tags/css/"
+                href="http://localhost:1313/pt-br/tags/enterprisearchitecture/"
                 />
   </url><url>
-    <loc>http://www.renatoteixeira.com/pt-br/categories/demonstra%C3%A7%C3%A3o-do-tema/</loc>
-    <lastmod>2023-07-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://www.renatoteixeira.com/pt-br/series/demonstra%C3%A7%C3%A3o-do-tema/</loc>
-    <lastmod>2023-07-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://www.renatoteixeira.com/pt-br/posts/markdown-syntax/</loc>
-    <lastmod>2023-07-13T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/pt-br/tags/legacymodernization/</loc>
+    <lastmod>2026-04-14T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.renatoteixeira.com/posts/markdown-syntax/"
+                href="http://localhost:1313/tags/legacymodernization/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://www.renatoteixeira.com/pt-br/posts/markdown-syntax/"
+                href="http://localhost:1313/pt-br/tags/legacymodernization/"
                 />
   </url><url>
-    <loc>http://www.renatoteixeira.com/pt-br/tags/html/</loc>
-    <lastmod>2023-07-13T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/pt-br/tags/meirlehman/</loc>
+    <lastmod>2026-04-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/pt-br/categories/modernization/</loc>
+    <lastmod>2026-04-14T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.renatoteixeira.com/tags/html/"
+                href="http://localhost:1313/categories/modernization/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://www.renatoteixeira.com/pt-br/tags/html/"
+                href="http://localhost:1313/pt-br/categories/modernization/"
                 />
   </url><url>
-    <loc>http://www.renatoteixeira.com/pt-br/tags/hugo/</loc>
-    <lastmod>2023-07-13T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/pt-br/series/modernization/</loc>
+    <lastmod>2026-04-14T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.renatoteixeira.com/tags/hugo/"
+                href="http://localhost:1313/series/modernization/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://www.renatoteixeira.com/pt-br/tags/hugo/"
+                href="http://localhost:1313/pt-br/series/modernization/"
                 />
   </url><url>
-    <loc>http://www.renatoteixeira.com/pt-br/tags/markdown/</loc>
-    <lastmod>2023-07-13T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/pt-br/posts/legacy-does-no-happen-by-accident/</loc>
+    <lastmod>2026-04-14T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.renatoteixeira.com/tags/markdown/"
+                href="http://localhost:1313/posts/legacy-does-no-happen-by-accident/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://www.renatoteixeira.com/pt-br/tags/markdown/"
+                href="http://localhost:1313/pt-br/posts/legacy-does-no-happen-by-accident/"
                 />
   </url><url>
-    <loc>http://www.renatoteixeira.com/pt-br/posts/</loc>
-    <lastmod>2023-07-13T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/pt-br/posts/</loc>
+    <lastmod>2026-04-14T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.renatoteixeira.com/posts/"
+                href="http://localhost:1313/posts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://www.renatoteixeira.com/pt-br/posts/"
+                href="http://localhost:1313/pt-br/posts/"
                 />
   </url><url>
-    <loc>http://www.renatoteixeira.com/pt-br/authors/programador-solit%C3%A1rio/</loc>
-    <lastmod>2023-07-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://www.renatoteixeira.com/pt-br/</loc>
-    <lastmod>2023-07-13T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/pt-br/authors/renato-teixeira/</loc>
+    <lastmod>2026-04-14T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.renatoteixeira.com/"
+                href="http://localhost:1313/authors/renato-teixeira/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://www.renatoteixeira.com/pt-br/"
+                href="http://localhost:1313/pt-br/authors/renato-teixeira/"
                 />
   </url><url>
-    <loc>http://www.renatoteixeira.com/pt-br/series/</loc>
-    <lastmod>2023-07-13T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/pt-br/</loc>
+    <lastmod>2026-04-14T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.renatoteixeira.com/series/"
+                href="http://localhost:1313/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://www.renatoteixeira.com/pt-br/series/"
+                href="http://localhost:1313/pt-br/"
                 />
   </url><url>
-    <loc>http://www.renatoteixeira.com/pt-br/categories/sintaxe/</loc>
-    <lastmod>2023-07-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://www.renatoteixeira.com/pt-br/tags/</loc>
-    <lastmod>2023-07-13T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/pt-br/series/</loc>
+    <lastmod>2026-04-14T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.renatoteixeira.com/tags/"
+                href="http://localhost:1313/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://www.renatoteixeira.com/pt-br/tags/"
+                href="http://localhost:1313/pt-br/series/"
                 />
   </url><url>
-    <loc>http://www.renatoteixeira.com/pt-br/posts/rich-content/</loc>
-    <lastmod>2023-07-12T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/pt-br/tags/softwareengineering/</loc>
+    <lastmod>2026-04-14T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.renatoteixeira.com/posts/rich-content/"
+                href="http://localhost:1313/tags/softwareengineering/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://www.renatoteixeira.com/pt-br/posts/rich-content/"
+                href="http://localhost:1313/pt-br/tags/softwareengineering/"
                 />
   </url><url>
-    <loc>http://www.renatoteixeira.com/pt-br/posts/more-rich-content/</loc>
-    <lastmod>2023-07-11T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/pt-br/tags/softwareevolution/</loc>
+    <lastmod>2026-04-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/pt-br/tags/softwarelifecycle/</loc>
+    <lastmod>2026-04-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/pt-br/tags/</loc>
+    <lastmod>2026-04-14T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.renatoteixeira.com/posts/more-rich-content/"
+                href="http://localhost:1313/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://www.renatoteixeira.com/pt-br/posts/more-rich-content/"
+                href="http://localhost:1313/pt-br/tags/"
                 />
   </url><url>
-    <loc>http://www.renatoteixeira.com/pt-br/posts/math-typesetting/</loc>
-    <lastmod>2023-07-10T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/pt-br/tags/digitaltransformation/</loc>
+    <lastmod>2026-04-06T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.renatoteixeira.com/posts/math-typesetting/"
+                href="http://localhost:1313/tags/digitaltransformation/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://www.renatoteixeira.com/pt-br/posts/math-typesetting/"
+                href="http://localhost:1313/pt-br/tags/digitaltransformation/"
                 />
   </url><url>
-    <loc>http://www.renatoteixeira.com/pt-br/posts/html-and-css-only-tabs/</loc>
-    <lastmod>2023-07-09T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/pt-br/tags/missioncriticalsystems/</loc>
+    <lastmod>2026-04-06T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.renatoteixeira.com/posts/html-and-css-only-tabs/"
+                href="http://localhost:1313/tags/missioncriticalsystems/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://www.renatoteixeira.com/pt-br/posts/html-and-css-only-tabs/"
+                href="http://localhost:1313/pt-br/tags/missioncriticalsystems/"
                 />
   </url><url>
-    <loc>http://www.renatoteixeira.com/pt-br/authors/lone-coder/</loc>
-    <lastmod>2023-07-08T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/pt-br/posts/modernization-not-dispute/</loc>
+    <lastmod>2026-04-06T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.renatoteixeira.com/authors/lone-coder/"
+                href="http://localhost:1313/posts/modernization-not-dispute/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://www.renatoteixeira.com/pt-br/authors/lone-coder/"
+                href="http://localhost:1313/pt-br/posts/modernization-not-dispute/"
                 />
   </url><url>
-    <loc>http://www.renatoteixeira.com/pt-br/posts/mermaid-support/</loc>
-    <lastmod>2023-07-08T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/pt-br/tags/softwarearchitecture/</loc>
+    <lastmod>2026-04-06T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.renatoteixeira.com/posts/mermaid-support/"
+                href="http://localhost:1313/tags/softwarearchitecture/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://www.renatoteixeira.com/pt-br/posts/mermaid-support/"
+                href="http://localhost:1313/pt-br/tags/softwarearchitecture/"
                 />
   </url><url>
-    <loc>http://www.renatoteixeira.com/pt-br/tags/emoji/</loc>
-    <lastmod>2023-07-07T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://www.renatoteixeira.com/tags/emoji/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="http://www.renatoteixeira.com/pt-br/tags/emoji/"
-                />
-  </url><url>
-    <loc>http://www.renatoteixeira.com/pt-br/posts/emoji-support/</loc>
-    <lastmod>2023-07-07T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://www.renatoteixeira.com/posts/emoji-support/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="http://www.renatoteixeira.com/pt-br/posts/emoji-support/"
-                />
-  </url><url>
-    <loc>http://www.renatoteixeira.com/pt-br/posts/hugo-coder-wiki/</loc>
-    <lastmod>2023-07-06T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://www.renatoteixeira.com/posts/hugo-coder-wiki/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="http://www.renatoteixeira.com/pt-br/posts/hugo-coder-wiki/"
-                />
-  </url><url>
-    <loc>http://www.renatoteixeira.com/pt-br/tags/text/</loc>
-    <lastmod>2023-07-05T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://www.renatoteixeira.com/tags/text/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="http://www.renatoteixeira.com/pt-br/tags/text/"
-                />
-  </url><url>
-    <loc>http://www.renatoteixeira.com/pt-br/posts/placeholder-text/</loc>
-    <lastmod>2023-07-05T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://www.renatoteixeira.com/posts/placeholder-text/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="http://www.renatoteixeira.com/pt-br/posts/placeholder-text/"
-                />
-  </url><url>
-    <loc>http://www.renatoteixeira.com/pt-br/autores/autores-de-hugo/</loc>
+    <loc>http://localhost:1313/pt-br/autores/autores-de-hugo/</loc>
     <lastmod>2023-01-05T01:15:52+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.renatoteixeira.com/authors/hugo-authors/"
+                href="http://localhost:1313/authors/hugo-authors/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://www.renatoteixeira.com/pt-br/autores/autores-de-hugo/"
+                href="http://localhost:1313/pt-br/autores/autores-de-hugo/"
                 />
   </url><url>
-    <loc>http://www.renatoteixeira.com/pt-br/categoria/temas/</loc>
+    <loc>http://localhost:1313/pt-br/categoria/temas/</loc>
     <lastmod>2023-01-04T23:21:18+01:00</lastmod>
   </url><url>
-    <loc>http://www.renatoteixeira.com/pt-br/categoria/sintaxe/</loc>
+    <loc>http://localhost:1313/pt-br/categoria/sintaxe/</loc>
     <lastmod>2023-01-04T23:21:06+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://www.renatoteixeira.com/categories/syntax/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="http://www.renatoteixeira.com/pt-br/categoria/sintaxe/"
-                />
   </url><url>
-    <loc>http://www.renatoteixeira.com/pt-br/tags/shortcodes/</loc>
+    <loc>http://localhost:1313/pt-br/tags/shortcodes/</loc>
     <lastmod>2023-01-04T11:51:36+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/pt-br/about/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.renatoteixeira.com/tags/shortcodes/"
+                href="http://localhost:1313/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://www.renatoteixeira.com/pt-br/tags/shortcodes/"
+                href="http://localhost:1313/pt-br/about/"
                 />
   </url><url>
-    <loc>http://www.renatoteixeira.com/pt-br/about/</loc>
+    <loc>http://localhost:1313/pt-br/contact/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.renatoteixeira.com/about/"
+                href="http://localhost:1313/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://www.renatoteixeira.com/pt-br/about/"
+                href="http://localhost:1313/pt-br/contact/"
                 />
   </url><url>
-    <loc>http://www.renatoteixeira.com/pt-br/contact/</loc>
+    <loc>http://localhost:1313/pt-br/projects/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.renatoteixeira.com/contact/"
+                href="http://localhost:1313/projects/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://www.renatoteixeira.com/pt-br/contact/"
-                />
-  </url><url>
-    <loc>http://www.renatoteixeira.com/pt-br/projects/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://www.renatoteixeira.com/projects/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="http://www.renatoteixeira.com/pt-br/projects/"
+                href="http://localhost:1313/pt-br/projects/"
                 />
   </url>
 </urlset>

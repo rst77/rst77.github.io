@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>EnterpriseArchitecture on RenatoTeixeira.com</title>
+    <link>http://localhost:1313/pt-br/tags/enterprisearchitecture/</link>
+    <description>Recent content in EnterpriseArchitecture on RenatoTeixeira.com</description>
+    <generator>Hugo</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Tue, 14 Apr 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/pt-br/tags/enterprisearchitecture/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>O Legado Não Acontece por Acaso: O Que Lehman Ainda Nos Ensina Sobre Evolução de Software</title>
+      <link>http://localhost:1313/pt-br/posts/legacy-does-no-happen-by-accident/</link>
+      <pubDate>Tue, 14 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/pt-br/posts/legacy-does-no-happen-by-accident/</guid>
+      <description>&lt;p&gt;O legado não emerge como uma falha isolada, nem como uma simples consequência da idade. Na maioria dos sistemas importantes, ele é o resultado de uma adaptação contínua sob pressões reais: novos requisitos, restrições operacionais, decisões acumuladas e a necessidade constante de permanecer útil em um ambiente em mudança.&lt;/p&gt;&#xA;&lt;p&gt;É por isso que o artigo de &lt;strong&gt;Meir Lehman (1980)&lt;/strong&gt; permanece tão valioso para mim. Ele não trata o software como um artefato estático, mas como algo moldado por uma evolução contínua. E por essa razão, acredito que ele merece ser muito mais conhecido por aqueles que trabalham na prática cotidiana da TI.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Modernizar sistemas legados não é uma disputa entre o velho e o novo. É uma disciplina do discernimento</title>
+      <link>http://localhost:1313/pt-br/posts/modernization-not-dispute/</link>
+      <pubDate>Mon, 06 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/pt-br/posts/modernization-not-dispute/</guid>
+      <description>&lt;p&gt;Existe uma tendência recorrente de tratar o legado como um erro histórico a ser corrigido. Como se identificar uma tecnologia mais atual, projetar uma arquitetura mais elegante e iniciar uma jornada de substituição fossem o suficiente para resolver o problema de uma vez por todas.&lt;/p&gt;&#xA;&lt;p&gt;Mas a realidade raramente se organiza dessa forma.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Sistemas legados&lt;/strong&gt; não persistem simplesmente porque as organizações resistem à mudança. Eles persistem porque, em algum momento, foram bem-sucedidos em sustentar operações críticas, absorvendo a complexidade real do negócio e acomodando, ao longo do tempo, decisões, exceções, adaptações e trade-offs que dificilmente podem ser capturados em um diagrama arquitetural limpo.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

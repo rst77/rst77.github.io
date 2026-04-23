@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>DigitalTransformation on RenatoTeixeira.com</title>
+    <link>http://localhost:1313/tags/digitaltransformation/</link>
+    <description>Recent content in DigitalTransformation on RenatoTeixeira.com</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 23 Apr 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/digitaltransformation/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Modernizing legacy systems is not a dispute between the old and the new. It is a discipline of discernment</title>
+      <link>http://localhost:1313/posts/modernization-not-dispute/</link>
+      <pubDate>Thu, 23 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/modernization-not-dispute/</guid>
+      <description>&lt;p&gt;There is a recurring tendency to treat legacy as a historical mistake to be corrected. As if identifying a more current technology, designing a more elegant architecture, and starting a replacement journey were enough to solve the problem once and for all.&lt;/p&gt;&#xA;&lt;p&gt;But reality rarely organizes itself that way.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Legacy systems&lt;/strong&gt; do not persist simply because organizations resist change. They persist because, at some point, they were successful in sustaining critical operations, absorbing real business complexity, and accommodating, over time, decisions, exceptions, adaptations, and trade-offs that can hardly be captured in a clean architectural diagram.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

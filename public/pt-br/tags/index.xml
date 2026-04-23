@@ -1,60 +1,81 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Renato Teixeira</title>
-    <link>http://www.renatoteixeira.com/pt-br/tags/</link>
-    <description>Recent content in Tags on Renato Teixeira</description>
+    <title>Tags on RenatoTeixeira.com</title>
+    <link>http://localhost:1313/pt-br/tags/</link>
+    <description>Recent content in Tags on RenatoTeixeira.com</description>
     <generator>Hugo</generator>
     <language>pt-br</language>
-    <lastBuildDate>Thu, 13 Jul 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://www.renatoteixeira.com/pt-br/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 14 Apr 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/pt-br/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Css</title>
-      <link>http://www.renatoteixeira.com/pt-br/tags/css/</link>
-      <pubDate>Thu, 13 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>http://www.renatoteixeira.com/pt-br/tags/css/</guid>
+      <title>EnterpriseArchitecture</title>
+      <link>http://localhost:1313/pt-br/tags/enterprisearchitecture/</link>
+      <pubDate>Tue, 14 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/pt-br/tags/enterprisearchitecture/</guid>
       <description></description>
     </item>
     <item>
-      <title>Html</title>
-      <link>http://www.renatoteixeira.com/pt-br/tags/html/</link>
-      <pubDate>Thu, 13 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>http://www.renatoteixeira.com/pt-br/tags/html/</guid>
+      <title>LegacyModernization</title>
+      <link>http://localhost:1313/pt-br/tags/legacymodernization/</link>
+      <pubDate>Tue, 14 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/pt-br/tags/legacymodernization/</guid>
       <description></description>
     </item>
     <item>
-      <title>Hugo</title>
-      <link>http://www.renatoteixeira.com/pt-br/tags/hugo/</link>
-      <pubDate>Thu, 13 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>http://www.renatoteixeira.com/pt-br/tags/hugo/</guid>
+      <title>MeirLehman</title>
+      <link>http://localhost:1313/pt-br/tags/meirlehman/</link>
+      <pubDate>Tue, 14 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/pt-br/tags/meirlehman/</guid>
       <description></description>
     </item>
     <item>
-      <title>Markdown</title>
-      <link>http://www.renatoteixeira.com/pt-br/tags/markdown/</link>
-      <pubDate>Thu, 13 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>http://www.renatoteixeira.com/pt-br/tags/markdown/</guid>
+      <title>SoftwareEngineering</title>
+      <link>http://localhost:1313/pt-br/tags/softwareengineering/</link>
+      <pubDate>Tue, 14 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/pt-br/tags/softwareengineering/</guid>
       <description></description>
     </item>
     <item>
-      <title>Emoji</title>
-      <link>http://www.renatoteixeira.com/pt-br/tags/emoji/</link>
-      <pubDate>Fri, 07 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>http://www.renatoteixeira.com/pt-br/tags/emoji/</guid>
+      <title>SoftwareEvolution</title>
+      <link>http://localhost:1313/pt-br/tags/softwareevolution/</link>
+      <pubDate>Tue, 14 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/pt-br/tags/softwareevolution/</guid>
       <description></description>
     </item>
     <item>
-      <title>Text</title>
-      <link>http://www.renatoteixeira.com/pt-br/tags/text/</link>
-      <pubDate>Wed, 05 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>http://www.renatoteixeira.com/pt-br/tags/text/</guid>
+      <title>SoftwareLifecycle</title>
+      <link>http://localhost:1313/pt-br/tags/softwarelifecycle/</link>
+      <pubDate>Tue, 14 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/pt-br/tags/softwarelifecycle/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>DigitalTransformation</title>
+      <link>http://localhost:1313/pt-br/tags/digitaltransformation/</link>
+      <pubDate>Mon, 06 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/pt-br/tags/digitaltransformation/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>MissionCriticalSystems</title>
+      <link>http://localhost:1313/pt-br/tags/missioncriticalsystems/</link>
+      <pubDate>Mon, 06 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/pt-br/tags/missioncriticalsystems/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>SoftwareArchitecture</title>
+      <link>http://localhost:1313/pt-br/tags/softwarearchitecture/</link>
+      <pubDate>Mon, 06 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/pt-br/tags/softwarearchitecture/</guid>
       <description></description>
     </item>
     <item>
       <title>Códigos curtos</title>
-      <link>http://www.renatoteixeira.com/pt-br/tags/shortcodes/</link>
+      <link>http://localhost:1313/pt-br/tags/shortcodes/</link>
       <pubDate>Wed, 04 Jan 2023 11:51:36 +0100</pubDate>
-      <guid>http://www.renatoteixeira.com/pt-br/tags/shortcodes/</guid>
+      <guid>http://localhost:1313/pt-br/tags/shortcodes/</guid>
       <description></description>
     </item>
   </channel>
