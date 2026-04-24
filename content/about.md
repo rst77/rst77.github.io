@@ -1,7 +1,14 @@
+
+
 # About
 
 I am a specialist in **Legacy Modernization** and **Mission-Critical Systems Architecture**, with a career spanning over 25 years helping organizations evolve complex technology environments.
 Currently, I serve as a **Distinguished Solution Engineer at Oracle**, supporting enterprises across Latin America in defining modernization strategies for core systems where resilience and security are non-negotiable.
+
+## Contact
+
+- Email: renato@renatoteixeira.com
+- Country: Brazil
 
 ## Professional Expertise
 My career is built at the intersection of cloud strategy and software architecture.

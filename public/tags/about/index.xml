@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>About on RenatoTeixeira.com</title>
+    <link>http://localhost:1313/tags/about/</link>
+    <description>Recent content in About on RenatoTeixeira.com</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 09 Feb 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/about/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Wed, 09 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;h1 id=&#34;about&#34;&gt;&#xA;  About&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#about&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;I am a specialist in &lt;strong&gt;Legacy Modernization&lt;/strong&gt; and &lt;strong&gt;Mission-Critical Systems Architecture&lt;/strong&gt;, with a career spanning over 25 years helping organizations evolve complex technology environments.&#xA;Currently, I serve as a &lt;strong&gt;Distinguished Solution Engineer at Oracle&lt;/strong&gt;, supporting enterprises across Latin America in defining modernization strategies for core systems where resilience and security are non-negotiable.&lt;/p&gt;&#xA;&lt;h2 id=&#34;professional-expertise&#34;&gt;&#xA;  Professional Expertise&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#professional-expertise&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;My career is built at the intersection of cloud strategy and software architecture.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -28,7 +28,7 @@ description = "Renato Teixeira's personal website"
 keywords = "blog,developer,personal"
 info = ["Legacy Modernization Specialist", "Researcher in Modernization of MC Systems"]
 avatarURL = "images/avatar2.jpg"
-#gravatar = "john.doe@example.com"
+#gravatar = "renato@renatoteixeira.com"
 dateFormat = "January 2, 2006"
 since = 2019
 # Git Commit in Footer, uncomment the line below to enable it

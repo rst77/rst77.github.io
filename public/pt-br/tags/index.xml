@@ -6,8 +6,43 @@
     <description>Recent content in Tags on RenatoTeixeira.com</description>
     <generator>Hugo</generator>
     <language>pt-br</language>
-    <lastBuildDate>Tue, 14 Apr 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 Apr 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/pt-br/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>EvidenceBasedSoftwareEngineering</title>
+      <link>http://localhost:1313/pt-br/tags/evidencebasedsoftwareengineering/</link>
+      <pubDate>Fri, 24 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/pt-br/tags/evidencebasedsoftwareengineering/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>LegacyModernization</title>
+      <link>http://localhost:1313/pt-br/tags/legacymodernization/</link>
+      <pubDate>Fri, 24 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/pt-br/tags/legacymodernization/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>SoftwareArchitecture</title>
+      <link>http://localhost:1313/pt-br/tags/softwarearchitecture/</link>
+      <pubDate>Fri, 24 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/pt-br/tags/softwarearchitecture/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>SoftwareEngineering</title>
+      <link>http://localhost:1313/pt-br/tags/softwareengineering/</link>
+      <pubDate>Fri, 24 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/pt-br/tags/softwareengineering/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>TechnologyDecisionMaking</title>
+      <link>http://localhost:1313/pt-br/tags/technologydecisionmaking/</link>
+      <pubDate>Fri, 24 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/pt-br/tags/technologydecisionmaking/</guid>
+      <description></description>
+    </item>
     <item>
       <title>EnterpriseArchitecture</title>
       <link>http://localhost:1313/pt-br/tags/enterprisearchitecture/</link>
@@ -16,24 +51,10 @@
       <description></description>
     </item>
     <item>
-      <title>LegacyModernization</title>
-      <link>http://localhost:1313/pt-br/tags/legacymodernization/</link>
-      <pubDate>Tue, 14 Apr 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/pt-br/tags/legacymodernization/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>MeirLehman</title>
       <link>http://localhost:1313/pt-br/tags/meirlehman/</link>
       <pubDate>Tue, 14 Apr 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/pt-br/tags/meirlehman/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>SoftwareEngineering</title>
-      <link>http://localhost:1313/pt-br/tags/softwareengineering/</link>
-      <pubDate>Tue, 14 Apr 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/pt-br/tags/softwareengineering/</guid>
       <description></description>
     </item>
     <item>
@@ -62,13 +83,6 @@
       <link>http://localhost:1313/pt-br/tags/missioncriticalsystems/</link>
       <pubDate>Mon, 06 Apr 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/pt-br/tags/missioncriticalsystems/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>SoftwareArchitecture</title>
-      <link>http://localhost:1313/pt-br/tags/softwarearchitecture/</link>
-      <pubDate>Mon, 06 Apr 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/pt-br/tags/softwarearchitecture/</guid>
       <description></description>
     </item>
     <item>

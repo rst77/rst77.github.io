@@ -3,6 +3,12 @@
 Sou um especialista em **Modernização de Sistemas Legados** e **Arquitetura de Missão Crítica**, com uma trajetória de mais de 25 anos ajudando organizações a evoluir ambientes tecnológicos complexos.
 Atualmente, atuo como **Distinguished Solution Engineer na Oracle**, onde apoio empresas em toda a América Latina na definição de estratégias de modernização para sistemas core, especialmente em setores onde resiliência e segurança são inegociáveis.
 
+## Contato
+
+- Email: renato@renatoteixeira.com
+- País: Brasil
+
+
 ## Especialização e Atuação Profissional
 Minha carreira é pautada pela intersecção entre estratégia de nuvem e arquitetura de software.
 * **Liderança Técnica:** Atuo diretamente com líderes de tecnologia para avaliar caminhos de modernização e adotar capacidades de nuvem nativa.

@@ -6,14 +6,14 @@
     <description>Recent content in LegacyModernization on RenatoTeixeira.com</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 23 Apr 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 Apr 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/legacymodernization/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Modernizing legacy systems is not a dispute between the old and the new. It is a discipline of discernment</title>
-      <link>http://localhost:1313/posts/modernization-not-dispute/</link>
-      <pubDate>Thu, 23 Apr 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/modernization-not-dispute/</guid>
-      <description>&lt;p&gt;There is a recurring tendency to treat legacy as a historical mistake to be corrected. As if identifying a more current technology, designing a more elegant architecture, and starting a replacement journey were enough to solve the problem once and for all.&lt;/p&gt;&#xA;&lt;p&gt;But reality rarely organizes itself that way.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Legacy systems&lt;/strong&gt; do not persist simply because organizations resist change. They persist because, at some point, they were successful in sustaining critical operations, absorbing real business complexity, and accommodating, over time, decisions, exceptions, adaptations, and trade-offs that can hardly be captured in a clean architectural diagram.&lt;/p&gt;</description>
+      <title>The Quiet Normalization of Unfounded Decisions in Software Engineering</title>
+      <link>http://localhost:1313/posts/the-quiet-normalization/</link>
+      <pubDate>Fri, 24 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/the-quiet-normalization/</guid>
+      <description>&lt;p&gt;One of the most curious — and perhaps most uncomfortable — things about software engineering is that we still make many important decisions on grounds that are far too fragile.&lt;/p&gt;&#xA;&lt;p&gt;Of course, we rarely call this an “unfounded decision.”&lt;/p&gt;&#xA;&lt;p&gt;We prefer better names:&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Strategy.&lt;/strong&gt;&lt;br&gt;&#xA;&lt;strong&gt;Transformation.&lt;/strong&gt;&lt;br&gt;&#xA;&lt;strong&gt;Modernization.&lt;/strong&gt;&lt;br&gt;&#xA;&lt;strong&gt;Best practice.&lt;/strong&gt;&lt;br&gt;&#xA;&lt;strong&gt;Vision for the future.&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;But, quite often, beneath these elegant labels, there is something less noble: imitation, enthusiasm, market pressure, personal preference, or the comfortable belief that what sounds modern must also be correct.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Legacy Does Not Happen by Accident: What Lehman Still Teaches Us About Software Evolution</title>
@@ -21,6 +21,13 @@
       <pubDate>Tue, 14 Apr 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/legacy-does-no-happen-by-accident/</guid>
       <description>&lt;p&gt;Legacy does not emerge as an isolated failure, nor as a simple consequence of age. In most important systems, it is the result of continuous adaptation under real pressures: new requirements, operational constraints, accumulated decisions, and the constant need to remain useful in a changing environment.&lt;/p&gt;&#xA;&lt;p&gt;That is why &lt;strong&gt;Meir Lehman’s (1980)&lt;/strong&gt; article remains so valuable to me. It does not treat software as a static artifact, but as something shaped by ongoing evolution. And for that reason, I believe it deserves to be much better known by those who work in the day-to-day practice of IT.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Modernizing legacy systems is not a dispute between the old and the new. It is a discipline of discernment</title>
+      <link>http://localhost:1313/posts/modernization-not-dispute/</link>
+      <pubDate>Mon, 06 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/modernization-not-dispute/</guid>
+      <description>&lt;p&gt;There is a recurring tendency to treat legacy as a historical mistake to be corrected. As if identifying a more current technology, designing a more elegant architecture, and starting a replacement journey were enough to solve the problem once and for all.&lt;/p&gt;&#xA;&lt;p&gt;But reality rarely organizes itself that way.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Legacy systems&lt;/strong&gt; do not persist simply because organizations resist change. They persist because, at some point, they were successful in sustaining critical operations, absorbing real business complexity, and accommodating, over time, decisions, exceptions, adaptations, and trade-offs that can hardly be captured in a clean architectural diagram.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

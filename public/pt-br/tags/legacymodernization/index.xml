@@ -6,8 +6,15 @@
     <description>Recent content in LegacyModernization on RenatoTeixeira.com</description>
     <generator>Hugo</generator>
     <language>pt-br</language>
-    <lastBuildDate>Tue, 14 Apr 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 Apr 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/pt-br/tags/legacymodernization/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A normalização silenciosa de decisões sem fundamento na engenharia de software</title>
+      <link>http://localhost:1313/pt-br/posts/the-quiet-normalization/</link>
+      <pubDate>Fri, 24 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/pt-br/posts/the-quiet-normalization/</guid>
+      <description>&lt;p&gt;Uma das coisas mais curiosas — e talvez mais incômodas — da engenharia de software é que ainda tomamos muitas decisões importantes com bases frágeis demais.&lt;/p&gt;&#xA;&lt;p&gt;É claro que raramente chamamos isso de “decisão sem fundamento”.&lt;/p&gt;&#xA;&lt;p&gt;Preferimos nomes melhores:&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Estratégia.&lt;/strong&gt;&lt;br&gt;&#xA;&lt;strong&gt;Transformação.&lt;/strong&gt;&lt;br&gt;&#xA;&lt;strong&gt;Modernização.&lt;/strong&gt;&lt;br&gt;&#xA;&lt;strong&gt;Boa prática.&lt;/strong&gt;&lt;br&gt;&#xA;&lt;strong&gt;Visão de futuro.&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Mas, muitas vezes, por baixo desses rótulos elegantes, existe algo menos nobre: imitação, entusiasmo, pressão de mercado, preferência pessoal ou a crença confortável de que aquilo que soa moderno também deve ser correto.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>O Legado Não Acontece por Acaso: O Que Lehman Ainda Nos Ensina Sobre Evolução de Software</title>
       <link>http://localhost:1313/pt-br/posts/legacy-does-no-happen-by-accident/</link>

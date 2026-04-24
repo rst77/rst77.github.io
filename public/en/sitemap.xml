@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/authors/</loc>
-    <lastmod>2026-04-23T00:00:00+00:00</lastmod>
+    <lastmod>2026-04-24T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
@@ -16,7 +16,7 @@
                 />
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
-    <lastmod>2026-04-23T00:00:00+00:00</lastmod>
+    <lastmod>2026-04-24T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
@@ -28,34 +28,21 @@
                 href="http://localhost:1313/categories/"
                 />
   </url><url>
-    <loc>http://localhost:1313/tags/digitaltransformation/</loc>
-    <lastmod>2026-04-23T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/tags/evidencebasedsoftwareengineering/</loc>
+    <lastmod>2026-04-24T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://localhost:1313/pt-br/tags/digitaltransformation/"
+                href="http://localhost:1313/pt-br/tags/evidencebasedsoftwareengineering/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/tags/digitaltransformation/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/tags/enterprisearchitecture/</loc>
-    <lastmod>2026-04-23T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="http://localhost:1313/pt-br/tags/enterprisearchitecture/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/tags/enterprisearchitecture/"
+                href="http://localhost:1313/tags/evidencebasedsoftwareengineering/"
                 />
   </url><url>
     <loc>http://localhost:1313/tags/legacymodernization/</loc>
-    <lastmod>2026-04-23T00:00:00+00:00</lastmod>
+    <lastmod>2026-04-24T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
@@ -67,21 +54,8 @@
                 href="http://localhost:1313/tags/legacymodernization/"
                 />
   </url><url>
-    <loc>http://localhost:1313/tags/missioncriticalsystems/</loc>
-    <lastmod>2026-04-23T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="http://localhost:1313/pt-br/tags/missioncriticalsystems/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/tags/missioncriticalsystems/"
-                />
-  </url><url>
     <loc>http://localhost:1313/categories/modernization/</loc>
-    <lastmod>2026-04-23T00:00:00+00:00</lastmod>
+    <lastmod>2026-04-24T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
@@ -94,7 +68,7 @@
                 />
   </url><url>
     <loc>http://localhost:1313/series/modernization/</loc>
-    <lastmod>2026-04-23T00:00:00+00:00</lastmod>
+    <lastmod>2026-04-24T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
@@ -106,21 +80,8 @@
                 href="http://localhost:1313/series/modernization/"
                 />
   </url><url>
-    <loc>http://localhost:1313/posts/modernization-not-dispute/</loc>
-    <lastmod>2026-04-23T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="http://localhost:1313/pt-br/posts/modernization-not-dispute/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/posts/modernization-not-dispute/"
-                />
-  </url><url>
     <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2026-04-23T00:00:00+00:00</lastmod>
+    <lastmod>2026-04-24T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
@@ -133,7 +94,7 @@
                 />
   </url><url>
     <loc>http://localhost:1313/authors/renato-teixeira/</loc>
-    <lastmod>2026-04-23T00:00:00+00:00</lastmod>
+    <lastmod>2026-04-24T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
@@ -146,7 +107,7 @@
                 />
   </url><url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-04-23T00:00:00+00:00</lastmod>
+    <lastmod>2026-04-24T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
@@ -159,7 +120,7 @@
                 />
   </url><url>
     <loc>http://localhost:1313/series/</loc>
-    <lastmod>2026-04-23T00:00:00+00:00</lastmod>
+    <lastmod>2026-04-24T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
@@ -172,7 +133,7 @@
                 />
   </url><url>
     <loc>http://localhost:1313/tags/softwarearchitecture/</loc>
-    <lastmod>2026-04-23T00:00:00+00:00</lastmod>
+    <lastmod>2026-04-24T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
@@ -185,7 +146,7 @@
                 />
   </url><url>
     <loc>http://localhost:1313/tags/softwareengineering/</loc>
-    <lastmod>2026-04-23T00:00:00+00:00</lastmod>
+    <lastmod>2026-04-24T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
@@ -198,7 +159,7 @@
                 />
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2026-04-23T00:00:00+00:00</lastmod>
+    <lastmod>2026-04-24T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
@@ -208,6 +169,45 @@
                 rel="alternate"
                 hreflang="en"
                 href="http://localhost:1313/tags/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/tags/technologydecisionmaking/</loc>
+    <lastmod>2026-04-24T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="http://localhost:1313/pt-br/tags/technologydecisionmaking/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/tags/technologydecisionmaking/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/posts/the-quiet-normalization/</loc>
+    <lastmod>2026-04-24T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="http://localhost:1313/pt-br/posts/the-quiet-normalization/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/posts/the-quiet-normalization/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/tags/enterprisearchitecture/</loc>
+    <lastmod>2026-04-14T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="http://localhost:1313/pt-br/tags/enterprisearchitecture/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/tags/enterprisearchitecture/"
                 />
   </url><url>
     <loc>http://localhost:1313/posts/legacy-does-no-happen-by-accident/</loc>
@@ -262,6 +262,45 @@
                 href="http://localhost:1313/tags/softwarelifecycle/"
                 />
   </url><url>
+    <loc>http://localhost:1313/tags/digitaltransformation/</loc>
+    <lastmod>2026-04-06T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="http://localhost:1313/pt-br/tags/digitaltransformation/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/tags/digitaltransformation/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/tags/missioncriticalsystems/</loc>
+    <lastmod>2026-04-06T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="http://localhost:1313/pt-br/tags/missioncriticalsystems/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/tags/missioncriticalsystems/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/posts/modernization-not-dispute/</loc>
+    <lastmod>2026-04-06T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="http://localhost:1313/pt-br/posts/modernization-not-dispute/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/posts/modernization-not-dispute/"
+                />
+  </url><url>
     <loc>http://localhost:1313/authors/hugo-authors/</loc>
     <lastmod>2023-01-05T01:15:29+01:00</lastmod>
     <xhtml:link
@@ -285,18 +324,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="http://localhost:1313/about/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/posts/the-quiet-normalization/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="http://localhost:1313/pt-br/posts/the-quiet-normalization/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/posts/the-quiet-normalization/"
                 />
   </url><url>
     <loc>http://localhost:1313/contact/</loc>
