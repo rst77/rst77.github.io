@@ -9,6 +9,9 @@ enableEmoji = true
 pagerSize = 12
 
 [services]
+  [services.googleAnalytics]
+    id = 'G-8LNJPPKGJ1'
+
 [services.disqus]
 # Enable Disqus comments
 # shortname = "yourdiscussshortname"
