@@ -1,7 +1,7 @@
 +++
 authors = ["Renato Teixeira"]
 title = "Modernizing legacy systems is not a dispute between the old and the new. It is a discipline of discernment"
-date = "2026-04-23"
+date = "2026-04-06"
 description = "A strategic view of legacy modernization as organizational lucidity. It explores the responsibility and maturity required to evolve complex systems beyond simple technical replacement."
 tags = [
     "LegacyModernization",

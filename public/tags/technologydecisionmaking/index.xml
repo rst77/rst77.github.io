@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>TechnologyDecisionMaking on RenatoTeixeira.com</title>
+    <link>http://localhost:1313/tags/technologydecisionmaking/</link>
+    <description>Recent content in TechnologyDecisionMaking on RenatoTeixeira.com</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 24 Apr 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/technologydecisionmaking/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Quiet Normalization of Unfounded Decisions in Software Engineering</title>
+      <link>http://localhost:1313/posts/the-quiet-normalization/</link>
+      <pubDate>Fri, 24 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/the-quiet-normalization/</guid>
+      <description>&lt;p&gt;One of the most curious — and perhaps most uncomfortable — things about software engineering is that we still make many important decisions on grounds that are far too fragile.&lt;/p&gt;&#xA;&lt;p&gt;Of course, we rarely call this an “unfounded decision.”&lt;/p&gt;&#xA;&lt;p&gt;We prefer better names:&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Strategy.&lt;/strong&gt;&lt;br&gt;&#xA;&lt;strong&gt;Transformation.&lt;/strong&gt;&lt;br&gt;&#xA;&lt;strong&gt;Modernization.&lt;/strong&gt;&lt;br&gt;&#xA;&lt;strong&gt;Best practice.&lt;/strong&gt;&lt;br&gt;&#xA;&lt;strong&gt;Vision for the future.&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;But, quite often, beneath these elegant labels, there is something less noble: imitation, enthusiasm, market pressure, personal preference, or the comfortable belief that what sounds modern must also be correct.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

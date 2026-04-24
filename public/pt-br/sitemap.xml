@@ -56,6 +56,16 @@
   </url><url>
     <loc>http://localhost:1313/pt-br/tags/meirlehman/</loc>
     <lastmod>2026-04-14T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/tags/meirlehman/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="http://localhost:1313/pt-br/tags/meirlehman/"
+                />
   </url><url>
     <loc>http://localhost:1313/pt-br/categories/modernization/</loc>
     <lastmod>2026-04-14T00:00:00+00:00</lastmod>
@@ -163,9 +173,29 @@
   </url><url>
     <loc>http://localhost:1313/pt-br/tags/softwareevolution/</loc>
     <lastmod>2026-04-14T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/tags/softwareevolution/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="http://localhost:1313/pt-br/tags/softwareevolution/"
+                />
   </url><url>
     <loc>http://localhost:1313/pt-br/tags/softwarelifecycle/</loc>
     <lastmod>2026-04-14T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/tags/softwarelifecycle/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="http://localhost:1313/pt-br/tags/softwarelifecycle/"
+                />
   </url><url>
     <loc>http://localhost:1313/pt-br/tags/</loc>
     <lastmod>2026-04-14T00:00:00+00:00</lastmod>
@@ -264,6 +294,18 @@
                 rel="alternate"
                 hreflang="pt-br"
                 href="http://localhost:1313/pt-br/about/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/pt-br/posts/the-quiet-normalization/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/posts/the-quiet-normalization/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="http://localhost:1313/pt-br/posts/the-quiet-normalization/"
                 />
   </url><url>
     <loc>http://localhost:1313/pt-br/contact/</loc>

@@ -223,6 +223,45 @@
                 href="http://localhost:1313/posts/legacy-does-no-happen-by-accident/"
                 />
   </url><url>
+    <loc>http://localhost:1313/tags/meirlehman/</loc>
+    <lastmod>2026-04-14T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="http://localhost:1313/pt-br/tags/meirlehman/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/tags/meirlehman/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/tags/softwareevolution/</loc>
+    <lastmod>2026-04-14T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="http://localhost:1313/pt-br/tags/softwareevolution/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/tags/softwareevolution/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/tags/softwarelifecycle/</loc>
+    <lastmod>2026-04-14T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="http://localhost:1313/pt-br/tags/softwarelifecycle/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/tags/softwarelifecycle/"
+                />
+  </url><url>
     <loc>http://localhost:1313/authors/hugo-authors/</loc>
     <lastmod>2023-01-05T01:15:29+01:00</lastmod>
     <xhtml:link
@@ -246,6 +285,18 @@
                 rel="alternate"
                 hreflang="en"
                 href="http://localhost:1313/about/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/posts/the-quiet-normalization/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="http://localhost:1313/pt-br/posts/the-quiet-normalization/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/posts/the-quiet-normalization/"
                 />
   </url><url>
     <loc>http://localhost:1313/contact/</loc>

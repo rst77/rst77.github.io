@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SoftwareEvolution on RenatoTeixeira.com</title>
+    <link>http://localhost:1313/tags/softwareevolution/</link>
+    <description>Recent content in SoftwareEvolution on RenatoTeixeira.com</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 14 Apr 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/softwareevolution/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Legacy Does Not Happen by Accident: What Lehman Still Teaches Us About Software Evolution</title>
+      <link>http://localhost:1313/posts/legacy-does-no-happen-by-accident/</link>
+      <pubDate>Tue, 14 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/legacy-does-no-happen-by-accident/</guid>
+      <description>&lt;p&gt;Legacy does not emerge as an isolated failure, nor as a simple consequence of age. In most important systems, it is the result of continuous adaptation under real pressures: new requirements, operational constraints, accumulated decisions, and the constant need to remain useful in a changing environment.&lt;/p&gt;&#xA;&lt;p&gt;That is why &lt;strong&gt;Meir Lehman’s (1980)&lt;/strong&gt; article remains so valuable to me. It does not treat software as a static artifact, but as something shaped by ongoing evolution. And for that reason, I believe it deserves to be much better known by those who work in the day-to-day practice of IT.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

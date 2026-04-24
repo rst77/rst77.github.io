@@ -1,0 +1,570 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+  <title>
+  A normalização silenciosa de decisões sem fundamento na engenharia de software · RenatoTeixeira.com
+</title>
+  <meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="color-scheme" content="light dark">
+
+
+
+
+<meta name="author" content="Renato Teixeira">
+<meta name="description" content="Uma reflexão crítica sobre por que a engenharia de software precisa de mais evidência, menos hype e melhor julgamento por trás das decisões que moldam arquitetura, modernização e evolução de sistemas a longo prazo.">
+<meta name="keywords" content="blog,desenvolvedor,pessoal">
+
+
+
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="A normalização silenciosa de decisões sem fundamento na engenharia de software">
+  <meta name="twitter:description" content="Uma reflexão crítica sobre por que a engenharia de software precisa de mais evidência, menos hype e melhor julgamento por trás das decisões que moldam arquitetura, modernização e evolução de sistemas a longo prazo.">
+
+<meta property="og:url" content="http://localhost:1313/pt-br/posts/the-quiet-normalization/">
+  <meta property="og:site_name" content="RenatoTeixeira.com">
+  <meta property="og:title" content="A normalização silenciosa de decisões sem fundamento na engenharia de software">
+  <meta property="og:description" content="Uma reflexão crítica sobre por que a engenharia de software precisa de mais evidência, menos hype e melhor julgamento por trás das decisões que moldam arquitetura, modernização e evolução de sistemas a longo prazo.">
+  <meta property="og:locale" content="pt_br">
+  <meta property="og:type" content="article">
+    <meta property="article:section" content="posts">
+    <meta property="article:published_time" content="2026-04-24T00:00:00+00:00">
+    <meta property="article:modified_time" content="2026-04-24T00:00:00+00:00">
+    <meta property="article:tag" content="LegacyModernization">
+    <meta property="article:tag" content="SoftwareArchitecture">
+    <meta property="article:tag" content="TechnologyDecisionMaking">
+    <meta property="article:tag" content="EvidenceBasedSoftwareEngineering">
+    <meta property="article:tag" content="SoftwareEngineering">
+      <meta property="og:see_also" content="http://localhost:1313/pt-br/posts/legacy-does-no-happen-by-accident/">
+      <meta property="og:see_also" content="http://localhost:1313/pt-br/posts/modernization-not-dispute/">
+
+
+
+
+<link rel="canonical" href="http://localhost:1313/pt-br/posts/the-quiet-normalization/">
+
+
+<link rel="preload" href="/fonts/fa-brands-400.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="/fonts/fa-regular-400.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="/fonts/fa-solid-900.woff2" as="font" type="font/woff2" crossorigin>
+
+
+  
+  
+  <link rel="stylesheet" href="/css/coder.css" media="screen">
+
+
+
+
+
+
+  
+    
+    
+    <link rel="stylesheet" href="/css/coder-dark.css" media="screen">
+  
+
+
+
+ 
+
+
+
+
+<link rel="icon" type="image/svg+xml" href="/images/favicon.svg" sizes="any">
+<link rel="icon" type="image/png" href="/images/favicon-32x32.png" sizes="32x32">
+<link rel="icon" type="image/png" href="/images/favicon-16x16.png" sizes="16x16">
+
+<link rel="apple-touch-icon" href="/images/apple-touch-icon.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
+
+<link rel="manifest" href="/site.webmanifest">
+<link rel="mask-icon" href="/images/safari-pinned-tab.svg" color="#5bbad5">
+
+
+
+
+
+
+
+
+
+
+</head>
+
+
+
+
+
+
+<body class="preload-transitions colorscheme-auto">
+  
+<div class="float-container">
+    <a id="dark-mode-toggle" class="colorscheme-toggle">
+        <i class="fa-solid fa-adjust fa-fw" aria-hidden="true"></i>
+    </a>
+</div>
+
+
+  <main class="wrapper">
+    <nav class="navigation">
+  <section class="container">
+    
+    <a class="navigation-title" href="http://localhost:1313/pt-br/">
+      RenatoTeixeira.com
+    </a>
+    
+    
+      <input type="checkbox" id="menu-toggle" />
+      <label class="menu-button float-right" for="menu-toggle">
+        <i class="fa-solid fa-bars fa-fw" aria-hidden="true"></i>
+      </label>
+      <ul class="navigation-list">
+        
+          
+            <li class="navigation-item">
+              <a class="navigation-link " href="/pt-br/about/">Sobre</a>
+            </li>
+          
+            <li class="navigation-item">
+              <a class="navigation-link " href="/pt-br/posts/">Blog</a>
+            </li>
+          
+        
+        
+          
+          
+          
+            
+              
+                <li class="navigation-item menu-separator">
+                  <span>|</span>
+                </li>
+                
+              
+              <li class="navigation-item">
+                <a href="/posts/the-quiet-normalization/">🇬🇧</a>
+              </li>
+            
+          
+        
+      </ul>
+    
+  </section>
+</nav>
+
+
+    <div class="content">
+      
+  <section class="container post">
+    <article>
+      <header>
+        <div class="post-title">
+          <h1 class="title">
+            <a class="title-link" href="http://localhost:1313/pt-br/posts/the-quiet-normalization/">
+              A normalização silenciosa de decisões sem fundamento na engenharia de software
+            </a>
+          </h1>
+        </div>
+        <div class="post-meta">
+          <div class="date">
+            <span class="posted-on">
+              <i class="fa-solid fa-calendar" aria-hidden="true"></i>
+              <time datetime="2026-04-24T00:00:00Z">
+                abril 24, 2026
+              </time>
+            </span>
+            <span class="reading-time">
+              <i class="fa-solid fa-clock" aria-hidden="true"></i>
+              7 minutos de leitura
+            </span>
+          </div>
+          <div class="authors">
+  <i class="fa-solid fa-user" aria-hidden="true"></i>
+    <a href="/pt-br/authors/renato-teixeira/">Renato Teixeira</a></div>
+
+          <div class="categories">
+  <i class="fa-solid fa-folder" aria-hidden="true"></i>
+    <a href="/pt-br/categories/modernization/">Modernization</a></div>
+
+          <div class="tags">
+  <i class="fa-solid fa-tag" aria-hidden="true"></i>
+    <span class="tag">
+      <a href="/pt-br/tags/legacymodernization/">LegacyModernization</a>
+    </span>
+      <span class="separator">•</span>
+    <span class="tag">
+      <a href="/pt-br/tags/softwarearchitecture/">SoftwareArchitecture</a>
+    </span>
+      <span class="separator">•</span>
+    <span class="tag">
+      <a href="/pt-br/tags/technologydecisionmaking/">TechnologyDecisionMaking</a>
+    </span>
+      <span class="separator">•</span>
+    <span class="tag">
+      <a href="/pt-br/tags/evidencebasedsoftwareengineering/">EvidenceBasedSoftwareEngineering</a>
+    </span>
+      <span class="separator">•</span>
+    <span class="tag">
+      <a href="/pt-br/tags/softwareengineering/">SoftwareEngineering</a>
+    </span></div>
+
+        </div>
+      </header>
+
+      
+
+
+      <div class="post-content">
+        
+        <p>Uma das coisas mais curiosas — e talvez mais incômodas — da engenharia de software é que ainda tomamos muitas decisões importantes com bases frágeis demais.</p>
+<p>É claro que raramente chamamos isso de “decisão sem fundamento”.</p>
+<p>Preferimos nomes melhores:</p>
+<p><strong>Estratégia.</strong><br>
+<strong>Transformação.</strong><br>
+<strong>Modernização.</strong><br>
+<strong>Boa prática.</strong><br>
+<strong>Visão de futuro.</strong></p>
+<p>Mas, muitas vezes, por baixo desses rótulos elegantes, existe algo menos nobre: imitação, entusiasmo, pressão de mercado, preferência pessoal ou a crença confortável de que aquilo que soa moderno também deve ser correto.</p>
+<p>E isso deveria nos preocupar mais.</p>
+<p>Software deixou de ser uma ferramenta periférica. Ele sustenta bancos, hospitais, logística, governos, comunicação, varejo, indústria e boa parte da vida cotidiana.</p>
+<p>Quando uma decisão ruim é tomada em software, o custo não aparece apenas como dívida técnica ou como um diagrama de arquitetura confuso.</p>
+<p>Ele pode se transformar em fragilidade operacional, desperdício de investimento, perda de confiança, dependência desnecessária e risco real para o negócio.</p>
+<p>E, ainda assim, para uma área que gosta tanto de se chamar engenharia, toleramos uma quantidade impressionante de decisões que, vistas de perto, parecem mais <strong>improvisação bem apresentada</strong> do que engenharia propriamente dita.</p>
+<blockquote>
+<p>Em teoria, somos disciplinados.<br>
+Na prática, muitas vezes somos apenas articulados.</p>
+</blockquote>
+<h2 id="quando-falta-evidência-algo-ocupa-o-lugar-dela">
+  Quando falta evidência, algo ocupa o lugar dela
+  <a class="heading-link" href="#quando-falta-evid%c3%aancia-algo-ocupa-o-lugar-dela">
+    <i class="fa-solid fa-link" aria-hidden="true" title="Link para o cabeçalho"></i>
+    <span class="sr-only">Link para o cabeçalho</span>
+  </a>
+</h2>
+<p>É por isso que a ideia de <strong>engenharia de software baseada em evidências</strong> me parece tão importante.</p>
+<p>A premissa é simples: decisões sobre desenvolvimento, manutenção, arquitetura e modernização deveriam combinar três elementos:</p>
+<ul>
+<li>a melhor evidência disponível;</li>
+<li>a experiência prática dos profissionais;</li>
+<li>os valores e restrições do contexto envolvido.</li>
+</ul>
+<p>Não é pesquisa isolada.<br>
+Não é experiência isolada.<br>
+Não é intuição isolada.</p>
+<p>É a combinação séria dessas dimensões.</p>
+<p>Parece óbvio.</p>
+<p>Mas, se fosse realmente óbvio na prática, nossa indústria tomaria decisões muito diferentes.</p>
+<p>Porque, quando a evidência não ocupa espaço suficiente, outras coisas ocupam.</p>
+<p>E elas raramente são neutras.</p>
+<h2 id="o-primeiro-substituto-é-o-hype">
+  O primeiro substituto é o hype
+  <a class="heading-link" href="#o-primeiro-substituto-%c3%a9-o-hype">
+    <i class="fa-solid fa-link" aria-hidden="true" title="Link para o cabeçalho"></i>
+    <span class="sr-only">Link para o cabeçalho</span>
+  </a>
+</h2>
+<p>O hype é poderoso porque raramente se apresenta como hype.</p>
+<p>Ele aparece como inevitabilidade.</p>
+<p>“O futuro do software.”<br>
+“A nova forma de construir.”<br>
+“A arquitetura que todo mundo está adotando.”<br>
+“A ferramenta que muda tudo.”<br>
+“O processo que equipes modernas usam.”</p>
+<p>Para quem está começando na área, isso é especialmente perigoso.</p>
+<p>Não por falta de inteligência, mas porque a indústria é muito boa em confundir <strong>novidade</strong> com <strong>legitimidade</strong>.</p>
+<p>Quando uma ideia aparece em todos os lugares ao mesmo tempo, a repetição começa a parecer prova.</p>
+<p>Mas repetição não é prova.</p>
+<p>Uma prática não se torna sólida porque domina conferências, posts, apresentações comerciais ou descrições de vaga.</p>
+<p>Às vezes, “boa prática” é apenas <strong>preferência com melhor marketing</strong>.</p>
+<h2 id="o-segundo-substituto-é-a-convicção-forte">
+  O segundo substituto é a convicção forte
+  <a class="heading-link" href="#o-segundo-substituto-%c3%a9-a-convic%c3%a7%c3%a3o-forte">
+    <i class="fa-solid fa-link" aria-hidden="true" title="Link para o cabeçalho"></i>
+    <span class="sr-only">Link para o cabeçalho</span>
+  </a>
+</h2>
+<p>Esse é mais difícil de perceber, porque muitas vezes vem de pessoas competentes.</p>
+<p>Um engenheiro sênior defende um método.<br>
+Um arquiteto respeitado acredita em um padrão.<br>
+Um líder viu algo funcionar uma vez e passa a tratar aquilo como verdade universal.</p>
+<p>Experiência importa muito.</p>
+<p>Mas experiência, sozinha, não vira evidência apenas porque vem de alguém experiente.</p>
+<p>Sem comparação, sem contraste, sem análise crítica e sem contexto, a experiência pode se transformar em algo bem menos útil:</p>
+<p><strong>viés elegante.</strong></p>
+<p>Na engenharia de software, a certeza costuma ser recompensada socialmente muito antes de ser merecida intelectualmente.</p>
+<p>E isso cria um problema.</p>
+<p>Começamos a confundir segurança no discurso com qualidade da decisão.</p>
+<h2 id="o-terceiro-substituto-é-a-pressão-por-adoção">
+  O terceiro substituto é a pressão por adoção
+  <a class="heading-link" href="#o-terceiro-substituto-%c3%a9-a-press%c3%a3o-por-ado%c3%a7%c3%a3o">
+    <i class="fa-solid fa-link" aria-hidden="true" title="Link para o cabeçalho"></i>
+    <span class="sr-only">Link para o cabeçalho</span>
+  </a>
+</h2>
+<p>Nem toda decisão tecnológica nasce de uma análise cuidadosa do problema, das alternativas, dos riscos e das evidências disponíveis.</p>
+<p>Às vezes, uma tecnologia é adotada porque a organização se sente atrasada por ainda não adotá-la.</p>
+<p>O mercado está se movendo.<br>
+Os concorrentes estão se movendo.<br>
+A liderança quer uma narrativa de modernização.<br>
+As equipes querem se sentir atuais.<br>
+Os fornecedores estão pressionando.<br>
+Os slides estão prontos.</p>
+<p>De repente, a pergunta deixa de ser:</p>
+<blockquote>
+<p>“Essa é a melhor escolha para o nosso contexto?”</p>
+</blockquote>
+<p>E passa a ser:</p>
+<blockquote>
+<p>“Com que rapidez conseguimos dizer que estamos fazendo isso?”</p>
+</blockquote>
+<p>Isso não é engenharia.</p>
+<p>É <strong>performance sob ansiedade estratégica</strong>.</p>
+<p>E a engenharia de software está cheia disso.</p>
+<h2 id="o-quarto-substituto-é-a-linguagem-de-mercado">
+  O quarto substituto é a linguagem de mercado
+  <a class="heading-link" href="#o-quarto-substituto-%c3%a9-a-linguagem-de-mercado">
+    <i class="fa-solid fa-link" aria-hidden="true" title="Link para o cabeçalho"></i>
+    <span class="sr-only">Link para o cabeçalho</span>
+  </a>
+</h2>
+<p>Esse talvez seja o mais perigoso, porque soa sofisticado o suficiente para não ser questionado.</p>
+<p>Usamos expressões como:</p>
+<ul>
+<li>cloud-first;</li>
+<li>AI-native;</li>
+<li>future-proof;</li>
+<li>enterprise-grade;</li>
+<li>escalável por design;</li>
+<li>padrão da indústria;</li>
+<li>pronto para transformação.</li>
+</ul>
+<p>Alguns desses termos podem significar algo real.</p>
+<p>Mas muitos funcionam como atalhos retóricos. Eles criam a aparência de rigor justamente onde o rigor está faltando.</p>
+<p>E nos poupam de perguntas mais difíceis:</p>
+<p><strong>Melhor para quem?</strong><br>
+<strong>Em que condições?</strong><br>
+<strong>A que custo?</strong><br>
+<strong>Com qual evidência?</strong><br>
+<strong>Comparado a quê?</strong><br>
+<strong>Com quais riscos transferidos para o futuro?</strong></p>
+<p>Um vocabulário sofisticado pode esconder uma decisão frágil com muita eficiência.</p>
+<h2 id="o-problema-não-está-apenas-em-mudar-demais">
+  O problema não está apenas em mudar demais
+  <a class="heading-link" href="#o-problema-n%c3%a3o-est%c3%a1-apenas-em-mudar-demais">
+    <i class="fa-solid fa-link" aria-hidden="true" title="Link para o cabeçalho"></i>
+    <span class="sr-only">Link para o cabeçalho</span>
+  </a>
+</h2>
+<p>Aqui a conversa fica mais desconfortável.</p>
+<p>Decisões sem fundamento não aparecem apenas quando adotamos novidades cedo demais.</p>
+<p>Elas também aparecem quando preservamos o que já existe sem exame suficiente.</p>
+<p>Às vezes, uma organização mantém sistemas, práticas e arquiteturas por razões tão frágeis quanto aquelas usadas para justificar uma adoção precipitada.</p>
+<p>O hábito se disfarça de prudência.<br>
+A familiaridade se disfarça de confiabilidade.<br>
+O medo se disfarça de cautela estratégica.</p>
+<p>Então o problema não é simplesmente adotar demais.</p>
+<p>Também é <strong>preservar demais sem perguntar o suficiente</strong>.</p>
+<p>Em um extremo, idolatramos a novidade.<br>
+No outro, idolatramos a sobrevivência.</p>
+<p>Ambos podem ser intelectualmente preguiçosos.</p>
+<p>A questão central não é se estamos mudando ou permanecendo.</p>
+<p>A questão é: <strong>qual é a qualidade das razões por trás da decisão?</strong></p>
+<h2 id="evidência-não-elimina-julgamento">
+  Evidência não elimina julgamento
+  <a class="heading-link" href="#evid%c3%aancia-n%c3%a3o-elimina-julgamento">
+    <i class="fa-solid fa-link" aria-hidden="true" title="Link para o cabeçalho"></i>
+    <span class="sr-only">Link para o cabeçalho</span>
+  </a>
+</h2>
+<p>É importante dizer: evidência não promete certeza.</p>
+<p>E qualquer abordagem que prometa certeza absoluta em software deveria ser vista com desconfiança.</p>
+<p>Evidência não elimina julgamento.<br>
+Não apaga contexto.<br>
+Não resolve trade-offs automaticamente.<br>
+Não substitui experiência.</p>
+<p>Mas ela impõe um padrão maior de seriedade.</p>
+<p>Ela nos obriga a fazer perguntas que frequentemente pulamos:</p>
+<ul>
+<li>Que problema estamos realmente tentando resolver?</li>
+<li>Que evidência existe?</li>
+<li>Essa evidência é forte ou fraca?</li>
+<li>Ela se aplica ao nosso contexto?</li>
+<li>O que estamos chamando de conhecimento?</li>
+<li>O que é apenas moda, medo, pressão ou preferência?</li>
+</ul>
+<p>Essas perguntas não são luxo acadêmico.</p>
+<p>São obrigações práticas.</p>
+<p>Elas importam ao escolher uma arquitetura.<br>
+Importam ao adotar um processo.<br>
+Importam ao modernizar um sistema legado.<br>
+Importam sempre que uma decisão redistribui custo, risco, fragilidade e opções futuras.</p>
+<h2 id="para-quem-está-começando-na-área">
+  Para quem está começando na área
+  <a class="heading-link" href="#para-quem-est%c3%a1-come%c3%a7ando-na-%c3%a1rea">
+    <i class="fa-solid fa-link" aria-hidden="true" title="Link para o cabeçalho"></i>
+    <span class="sr-only">Link para o cabeçalho</span>
+  </a>
+</h2>
+<p>Uma das armadilhas mais fáceis no início da carreira é confundir confiança com verdade.</p>
+<p>A indústria está cheia de pessoas que soam absolutamente certas.</p>
+<p>Mas soar certo é barato.</p>
+<p>Maturidade em engenharia de software não começa com discurso confiante.</p>
+<p>Começa com perguntas melhores.</p>
+<p>Começa com uma desconfiança saudável diante de conclusões mal sustentadas.</p>
+<p>Começa quando você entende que nem toda ideia popular é boa, nem toda prática antiga é ruim, nem toda novidade é evolução e nem toda estabilidade é sabedoria.</p>
+<p>Você não precisa saber tudo para pensar melhor.</p>
+<p>Mas precisa resistir à tentação de tratar toda tendência como verdade.</p>
+<h2 id="o-que-amadurece-uma-disciplina">
+  O que amadurece uma disciplina
+  <a class="heading-link" href="#o-que-amadurece-uma-disciplina">
+    <i class="fa-solid fa-link" aria-hidden="true" title="Link para o cabeçalho"></i>
+    <span class="sr-only">Link para o cabeçalho</span>
+  </a>
+</h2>
+<p>Uma disciplina não amadurece quando fica mais rápida em repetir o que está na moda.</p>
+<p>Ela amadurece quando se torna menos tolerante a decisões fáceis de defender retoricamente, mas difíceis de justificar intelectualmente.</p>
+<p>A engenharia de software não sofre apenas por falta de inovação.</p>
+<p>Às vezes, sofre de algo mais constrangedor:</p>
+<blockquote>
+<p><strong>a normalização silenciosa de decisões sem fundamento.</strong></p>
+</blockquote>
+<p>Talvez um sinal real de maturidade em nossa área não seja parar de mudar.</p>
+<p>É mudar com mais critério.</p>
+<p>É preservar com mais consciência.</p>
+<p>É adotar com mais evidência.</p>
+<p>É reconhecer que, em software, a pergunta mais importante raramente é:</p>
+<blockquote>
+<p>“Qual é a tecnologia mais moderna?”</p>
+</blockquote>
+<p>Muitas vezes, a pergunta mais importante é:</p>
+<blockquote>
+<p>“Com base em quê estamos tomando essa decisão?”</p>
+</blockquote>
+<p>E talvez seja aí que a engenharia de software comece, de fato, a merecer mais o nome que carrega.</p>
+
+      </div>
+
+
+      <footer>
+        
+
+<section class="see-also">
+  
+    
+    
+    
+      <h3 id="veja-também-em-modernization">
+        Veja também em Modernization
+        <a class="heading-link" href="#veja-tamb%c3%a9m-em-modernization">
+          <i class="fa-solid fa-link" aria-hidden="true" title="Link para o cabeçalho"></i>
+          <span class="sr-only">Link para o cabeçalho</span>
+        </a>
+      </h3>
+      <nav>
+        <ul>
+        
+        
+          
+        
+          
+            <li>
+              <a href="/pt-br/posts/legacy-does-no-happen-by-accident/">O Legado Não Acontece por Acaso: O Que Lehman Ainda Nos Ensina Sobre Evolução de Software</a>
+            </li>
+          
+        
+          
+            <li>
+              <a href="/pt-br/posts/modernization-not-dispute/">Modernizar sistemas legados não é uma disputa entre o velho e o novo. É uma disciplina do discernimento</a>
+            </li>
+          
+        
+        </ul>
+      </nav>
+    
+  
+</section>
+
+
+        
+        
+        
+        
+        
+        
+        
+      </footer>
+    </article>
+
+    
+  </section>
+
+    </div>
+
+    <footer class="footer">
+  <section class="container">
+    ©
+    
+      2019 -
+    
+    2026
+     Renato Teixeira 
+    ·
+    
+    Promovido por <a href="https://gohugo.io/" target="_blank" rel="noopener">Hugo</a> & <a href="https://github.com/luizdepra/hugo-coder/" target="_blank" rel="noopener">Coder</a>.
+    
+  </section>
+</footer>
+
+  </main>
+
+  
+
+  
+  
+  <script src="/js/coder.js"></script>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+</body>
+
+</html>
