@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/authors/</loc>
-    <lastmod>2026-04-24T00:00:00+00:00</lastmod>
+    <lastmod>2026-04-29T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
@@ -16,7 +16,7 @@
                 />
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
-    <lastmod>2026-04-24T00:00:00+00:00</lastmod>
+    <lastmod>2026-04-29T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
@@ -26,6 +26,188 @@
                 rel="alternate"
                 hreflang="en"
                 href="http://localhost:1313/categories/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/categories/education/</loc>
+    <lastmod>2026-04-29T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="http://localhost:1313/pt-br/categories/education/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/categories/education/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/series/education/</loc>
+    <lastmod>2026-04-29T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="http://localhost:1313/pt-br/series/education/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/series/education/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/tags/enterprisearchitecture/</loc>
+    <lastmod>2026-04-29T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="http://localhost:1313/pt-br/tags/enterprisearchitecture/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/tags/enterprisearchitecture/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/tags/legacymodernization/</loc>
+    <lastmod>2026-04-29T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="http://localhost:1313/pt-br/tags/legacymodernization/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/tags/legacymodernization/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/posts/master-degree/</loc>
+    <lastmod>2026-04-29T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="http://localhost:1313/pt-br/posts/master-degree/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/posts/master-degree/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/tags/meirlehman/</loc>
+    <lastmod>2026-04-29T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="http://localhost:1313/pt-br/tags/meirlehman/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/tags/meirlehman/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2026-04-29T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="http://localhost:1313/pt-br/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/posts/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/authors/renato-teixeira/</loc>
+    <lastmod>2026-04-29T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="http://localhost:1313/pt-br/authors/renato-teixeira/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/authors/renato-teixeira/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2026-04-29T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="http://localhost:1313/pt-br/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/series/</loc>
+    <lastmod>2026-04-29T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="http://localhost:1313/pt-br/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/series/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/tags/softwareengineering/</loc>
+    <lastmod>2026-04-29T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="http://localhost:1313/pt-br/tags/softwareengineering/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/tags/softwareengineering/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/tags/softwareevolution/</loc>
+    <lastmod>2026-04-29T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="http://localhost:1313/pt-br/tags/softwareevolution/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/tags/softwareevolution/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/tags/softwarelifecycle/</loc>
+    <lastmod>2026-04-29T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="http://localhost:1313/pt-br/tags/softwarelifecycle/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/tags/softwarelifecycle/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2026-04-29T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="http://localhost:1313/pt-br/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/tags/"
                 />
   </url><url>
     <loc>http://localhost:1313/tags/evidencebasedsoftwareengineering/</loc>
@@ -39,19 +221,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="http://localhost:1313/tags/evidencebasedsoftwareengineering/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/tags/legacymodernization/</loc>
-    <lastmod>2026-04-24T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="http://localhost:1313/pt-br/tags/legacymodernization/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/tags/legacymodernization/"
                 />
   </url><url>
     <loc>http://localhost:1313/categories/modernization/</loc>
@@ -80,58 +249,6 @@
                 href="http://localhost:1313/series/modernization/"
                 />
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2026-04-24T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="http://localhost:1313/pt-br/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/posts/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/authors/renato-teixeira/</loc>
-    <lastmod>2026-04-24T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="http://localhost:1313/pt-br/authors/renato-teixeira/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/authors/renato-teixeira/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2026-04-24T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="http://localhost:1313/pt-br/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/series/</loc>
-    <lastmod>2026-04-24T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="http://localhost:1313/pt-br/series/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/series/"
-                />
-  </url><url>
     <loc>http://localhost:1313/tags/softwarearchitecture/</loc>
     <lastmod>2026-04-24T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -143,32 +260,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="http://localhost:1313/tags/softwarearchitecture/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/tags/softwareengineering/</loc>
-    <lastmod>2026-04-24T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="http://localhost:1313/pt-br/tags/softwareengineering/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/tags/softwareengineering/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2026-04-24T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="http://localhost:1313/pt-br/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/tags/"
                 />
   </url><url>
     <loc>http://localhost:1313/tags/technologydecisionmaking/</loc>
@@ -197,19 +288,6 @@
                 href="http://localhost:1313/posts/the-quiet-normalization/"
                 />
   </url><url>
-    <loc>http://localhost:1313/tags/enterprisearchitecture/</loc>
-    <lastmod>2026-04-14T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="http://localhost:1313/pt-br/tags/enterprisearchitecture/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/tags/enterprisearchitecture/"
-                />
-  </url><url>
     <loc>http://localhost:1313/posts/legacy-does-no-happen-by-accident/</loc>
     <lastmod>2026-04-14T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -221,45 +299,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="http://localhost:1313/posts/legacy-does-no-happen-by-accident/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/tags/meirlehman/</loc>
-    <lastmod>2026-04-14T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="http://localhost:1313/pt-br/tags/meirlehman/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/tags/meirlehman/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/tags/softwareevolution/</loc>
-    <lastmod>2026-04-14T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="http://localhost:1313/pt-br/tags/softwareevolution/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/tags/softwareevolution/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/tags/softwarelifecycle/</loc>
-    <lastmod>2026-04-14T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="http://localhost:1313/pt-br/tags/softwarelifecycle/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/tags/softwarelifecycle/"
                 />
   </url><url>
     <loc>http://localhost:1313/tags/digitaltransformation/</loc>
@@ -301,17 +340,17 @@
                 href="http://localhost:1313/posts/modernization-not-dispute/"
                 />
   </url><url>
-    <loc>http://localhost:1313/authors/hugo-authors/</loc>
-    <lastmod>2023-01-05T01:15:29+01:00</lastmod>
+    <loc>http://localhost:1313/authors/renato-teixeira/</loc>
+    <lastmod>2023-04-01T01:15:29+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://localhost:1313/pt-br/autores/autores-de-hugo/"
+                href="http://localhost:1313/pt-br/autores/renato-teixeira/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/authors/hugo-authors/"
+                href="http://localhost:1313/authors/renato-teixeira/"
                 />
   </url><url>
     <loc>http://localhost:1313/about/</loc>

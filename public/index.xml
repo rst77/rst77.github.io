@@ -6,8 +6,15 @@
     <description>Recent content on RenatoTeixeira.com</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 24 Apr 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Apr 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Master&#39;s Dissertation</title>
+      <link>http://localhost:1313/posts/master-degree/</link>
+      <pubDate>Wed, 29 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/master-degree/</guid>
+      <description>&lt;p&gt;Today I experienced a very special moment: the defense of my master’s dissertation.&lt;/p&gt;&#xA;&lt;p&gt;Entering the academic and scientific world close to the age of 50 was an enchanting, challenging, and deeply transformative experience. Throughout this journey, I learned so much from every professor, from my colleagues, from the examination committee, and, above all, from the opportunity to conduct research that allowed me to look at professional practice with greater method, depth, and scientific curiosity.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>The Quiet Normalization of Unfounded Decisions in Software Engineering</title>
       <link>http://localhost:1313/posts/the-quiet-normalization/</link>
