@@ -17,7 +17,7 @@ Minha carreira é pautada pela intersecção entre estratégia de nuvem e arquit
 
 ## Rigor Acadêmico e Científico
 Minha prática profissional é fundamentada por uma base educacional robusta e contínua:
-* **Mestrado em Ciência da Computação (Engenharia de Software):** Em conclusão pela UTFPR, minha pesquisa foca especificamente na modernização de legados, visando uma abordagem baseada em evidências para o setor.
+* **Mestrado em Ciência da Computação (Engenharia de Software):** Pesquisador na UTFPR, focado especificamente na modernização de legados, visando uma abordagem baseada em evidências para o setor.
 * **Especialista em Dados e Estatística:** Possuo pós-graduação em **Estatística Aplicada e Probabilidade** e um **MBA em Data Science**, o que me permite aplicar rigor analítico à tomada de decisões arquiteturais.
 * **Visão de Negócios:** Complemento minha formação técnica com um **MBA em Estratégias de Negócio**, garantindo que as soluções tecnológicas impulsionem a competitividade organizacional.
 * **Bacharelado em Big Data:** Graduado em Big Data e Inteligência Analítica, consolidando minha compreensão sobre o ciclo de vida da informação.

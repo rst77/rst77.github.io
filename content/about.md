@@ -18,7 +18,7 @@ My career is built at the intersection of cloud strategy and software architectu
 
 ## Academic & Scientific Rigor
 My professional practice is supported by a robust and continuous educational foundation:
-* **Master of Computer Science (Software Engineering):** Concluding my research at UTFPR, focused on legacy modernization to contribute evidence-based approaches to the industry.
+* **Master of Computer Science (Software Engineering):** Research focused on legacy system modernization, evidence-based software engineering, and decision-making in complex enterprise environments.
 * **Data & Statistics Specialist:** I hold a postgraduate degree in **Applied Statistics and Probability** and an **MBA in Data Science**, allowing me to apply analytical rigor to architectural decision-making.
 * **Business Vision:** My technical background is complemented by an **MBA in Business Strategy**, ensuring that technological solutions drive organizational competitiveness.
 * **Bachelor’s in Big Data:** Degree in Big Data and Analytic Intelligence, solidifying my understanding of the information lifecycle.
