@@ -6,8 +6,15 @@
     <description>Recent content in Modernization on RenatoTeixeira.com</description>
     <generator>Hugo</generator>
     <language>pt-br</language>
-    <lastBuildDate>Fri, 24 Apr 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 04 May 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/pt-br/categories/modernization/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Evidência é necessária. Na engenharia de software, também é difícil.</title>
+      <link>http://localhost:1313/pt-br/posts/evidence-is-necessary/</link>
+      <pubDate>Mon, 04 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/pt-br/posts/evidence-is-necessary/</guid>
+      <description>&lt;p&gt;No artigo anterior, defendi que a engenharia de software normalizou decisões importantes tomadas sobre bases frágeis demais. &lt;strong&gt;Hype, pressão de mercado, convicção pessoal, linguagem sofisticada e ansiedade por adoção&lt;/strong&gt; ainda ocupam espaço demais em um campo que gosta de se apresentar como engenharia. Mas existe uma resposta fácil — e perigosa — para essa crítica: “então basta seguir a evidência”. Seria ótimo se fosse tão simples. Não é. E talvez uma das maiores maturidades que possamos desenvolver em engenharia de software seja justamente reconhecer essa tensão: &lt;strong&gt;precisamos de mais evidência, mas produzir, interpretar e aplicar evidência em software é muito mais difícil do que normalmente admitimos&lt;/strong&gt;.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>A normalização silenciosa de decisões sem fundamento na engenharia de software</title>
       <link>http://localhost:1313/pt-br/posts/the-quiet-normalization/</link>

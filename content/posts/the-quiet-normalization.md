@@ -276,3 +276,13 @@ Very often, the most important question is:
 > “On what basis are we making this decision?”
 
 And perhaps that is where software engineering truly begins to deserve the name it carries.
+   
+<br>
+
+---
+
+<br>
+   
+This article is based on *Evidence-Based Software Engineering*, by Barbara A. Kitchenham, Tore Dybå, and Magne Jørgensen, presented at ICSE 2004. The paper proposes that software engineering decisions should integrate the best available research evidence, practical experience, and human values, while also recognizing the specific difficulties of producing and applying evidence in software contexts.
+
+Reference: https://www.simula.no/research/evidence-based-software-engineering

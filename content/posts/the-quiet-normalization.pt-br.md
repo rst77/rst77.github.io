@@ -278,3 +278,13 @@ Muitas vezes, a pergunta mais importante é:
 > “Com base em quê estamos tomando essa decisão?”
 
 E talvez seja aí que a engenharia de software comece, de fato, a merecer mais o nome que carrega.
+
+<br>
+
+---
+
+<br>
+
+Este artigo é baseado em *Evidence-Based Software Engineering*, de Barbara A. Kitchenham, Tore Dybå e Magne Jørgensen, apresentado na ICSE 2004. O artigo propõe que decisões em engenharia de software devem integrar a melhor evidência de pesquisa disponível, a experiência prática e os valores humanos, ao mesmo tempo em que reconhece as dificuldades específicas de produzir e aplicar evidências em contextos de software.
+
+Referência: Kitchenham, B. A., Dybå, T., & Jørgensen, M. (2004). *Evidence-Based Software Engineering*. Proceedings of the 26th International Conference on Software Engineering (ICSE 2004). https://www.simula.no/research/evidence-based-software-engineering
