@@ -6,8 +6,15 @@
     <description>Recent content in Modernization on RenatoTeixeira.com</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 04 May 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 11 May 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/series/modernization/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Series: The Legacy Roadmap - A conversation between academia and industry on legacy system modernization</title>
+      <link>http://localhost:1313/posts/legacy-roadmap/</link>
+      <pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/legacy-roadmap/</guid>
+      <description>&lt;h1 id=&#34;series-the-legacy-roadmap&#34;&gt;&#xA;  Series: The Legacy Roadmap&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#series-the-legacy-roadmap&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;h2 id=&#34;a-conversation-between-academia-and-industry-on-legacy-system-modernization&#34;&gt;&#xA;  A conversation between academia and industry on legacy system modernization&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#a-conversation-between-academia-and-industry-on-legacy-system-modernization&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;On &lt;strong&gt;April 29, 2026&lt;/strong&gt;, my master’s dissertation was approved by the academic committee. The work is titled &lt;strong&gt;“Legacy Roadmap: A Sociotechnical Framework for Decision-Making in Legacy System Modernization in Latin America.”&lt;/strong&gt; Now, I want to do something I consider as important as completing the research itself: turning part of this knowledge into a more accessible conversation for those who live technology in practice.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Evidence is necessary. In software engineering, it is also difficult</title>
       <link>http://localhost:1313/posts/evidence-is-necessary/</link>

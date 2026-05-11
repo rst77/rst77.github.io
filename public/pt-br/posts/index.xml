@@ -6,8 +6,15 @@
     <description>Recent content in Posts on RenatoTeixeira.com</description>
     <generator>Hugo</generator>
     <language>pt-br</language>
-    <lastBuildDate>Mon, 04 May 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 11 May 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/pt-br/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Series: The Legacy Roadmap - A conversation between academia and industry on legacy system modernization</title>
+      <link>http://localhost:1313/pt-br/posts/legacy-roadmap/</link>
+      <pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/pt-br/posts/legacy-roadmap/</guid>
+      <description>&lt;p&gt;On &lt;strong&gt;April 29, 2026&lt;/strong&gt;, my master’s dissertation was approved by the academic committee. The work is titled &lt;strong&gt;“Legacy Roadmap: A Sociotechnical Framework for Decision-Making in Legacy System Modernization in Latin America.”&lt;/strong&gt; Now, I want to do something I consider as important as completing the research itself: turning part of this knowledge into a more accessible conversation for those who live technology in practice.&lt;/p&gt;&#xA;&lt;p&gt;Starting on &lt;strong&gt;05/15/2026&lt;/strong&gt;, I will publish a weekly series of articles based on the dissertation. The idea is not simply to summarize the academic work, because that would be of limited use to those dealing with the industry’s day-to-day reality. The goal is to translate its main findings into more direct language, connecting research, professional practice, architecture, modernization, risk, and decision-making.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Evidência é necessária. Na engenharia de software, também é difícil.</title>
       <link>http://localhost:1313/pt-br/posts/evidence-is-necessary/</link>

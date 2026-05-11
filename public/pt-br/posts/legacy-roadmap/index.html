@@ -1,0 +1,460 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+  <title>
+  Série: O Mapa do Legado - Uma conversa entre academia e indústria sobre modernização de sistemas legados · RenatoTeixeira.com
+</title>
+  <meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="color-scheme" content="light dark">
+
+
+
+
+<meta name="author" content="Renato Teixeira">
+<meta name="description" content="Uma introdução à série O Mapa do Legado, discutindo a distância entre academia e indústria na modernização de sistemas legados.">
+<meta name="keywords" content="blog,desenvolvedor,pessoal">
+
+
+
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="Série: O Mapa do Legado - Uma conversa entre academia e indústria sobre modernização de sistemas legados">
+  <meta name="twitter:description" content="Uma introdução à série O Mapa do Legado, discutindo a distância entre academia e indústria na modernização de sistemas legados.">
+
+<meta property="og:url" content="http://localhost:1313/pt-br/posts/legacy-roadmap/">
+  <meta property="og:site_name" content="RenatoTeixeira.com">
+  <meta property="og:title" content="Série: O Mapa do Legado - Uma conversa entre academia e indústria sobre modernização de sistemas legados">
+  <meta property="og:description" content="Uma introdução à série O Mapa do Legado, discutindo a distância entre academia e indústria na modernização de sistemas legados.">
+  <meta property="og:locale" content="pt_br">
+  <meta property="og:type" content="article">
+    <meta property="article:section" content="posts">
+    <meta property="article:published_time" content="2026-05-11T00:00:00+00:00">
+    <meta property="article:modified_time" content="2026-05-11T00:00:00+00:00">
+    <meta property="article:tag" content="LegacyModernization">
+    <meta property="article:tag" content="SoftwareArchitecture">
+    <meta property="article:tag" content="TechnologyDecisionMaking">
+    <meta property="article:tag" content="EvidenceBasedSoftwareEngineering">
+    <meta property="article:tag" content="SoftwareEngineering">
+      <meta property="og:see_also" content="http://localhost:1313/pt-br/posts/evidence-is-necessary/">
+      <meta property="og:see_also" content="http://localhost:1313/pt-br/posts/the-quiet-normalization/">
+      <meta property="og:see_also" content="http://localhost:1313/pt-br/posts/legacy-does-no-happen-by-accident/">
+      <meta property="og:see_also" content="http://localhost:1313/pt-br/posts/modernization-not-dispute/">
+
+
+
+
+<link rel="canonical" href="http://localhost:1313/pt-br/posts/legacy-roadmap/">
+
+
+<link rel="preload" href="/fonts/fa-brands-400.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="/fonts/fa-regular-400.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="/fonts/fa-solid-900.woff2" as="font" type="font/woff2" crossorigin>
+
+
+  
+  
+  <link rel="stylesheet" href="/css/coder.css" media="screen">
+
+
+
+
+
+
+  
+    
+    
+    <link rel="stylesheet" href="/css/coder-dark.css" media="screen">
+  
+
+
+
+ 
+
+
+
+
+<link rel="icon" type="image/svg+xml" href="/images/favicon.svg" sizes="any">
+<link rel="icon" type="image/png" href="/images/favicon-32x32.png" sizes="32x32">
+<link rel="icon" type="image/png" href="/images/favicon-16x16.png" sizes="16x16">
+
+<link rel="apple-touch-icon" href="/images/apple-touch-icon.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
+
+<link rel="manifest" href="/site.webmanifest">
+<link rel="mask-icon" href="/images/safari-pinned-tab.svg" color="#5bbad5">
+
+
+
+
+
+
+
+
+
+
+</head>
+
+
+
+
+
+
+<body class="preload-transitions colorscheme-dark">
+  
+<div class="float-container">
+    <a id="dark-mode-toggle" class="colorscheme-toggle">
+        <i class="fa-solid fa-adjust fa-fw" aria-hidden="true"></i>
+    </a>
+</div>
+
+
+  <main class="wrapper">
+    <nav class="navigation">
+  <section class="container">
+    
+    <a class="navigation-title" href="http://localhost:1313/pt-br/">
+      RenatoTeixeira.com
+    </a>
+    
+    
+      <input type="checkbox" id="menu-toggle" />
+      <label class="menu-button float-right" for="menu-toggle">
+        <i class="fa-solid fa-bars fa-fw" aria-hidden="true"></i>
+      </label>
+      <ul class="navigation-list">
+        
+          
+            <li class="navigation-item">
+              <a class="navigation-link " href="/pt-br/about/">Sobre</a>
+            </li>
+          
+            <li class="navigation-item">
+              <a class="navigation-link " href="/pt-br/posts/">Blog</a>
+            </li>
+          
+        
+        
+          
+          
+          
+            
+              
+                <li class="navigation-item menu-separator">
+                  <span>|</span>
+                </li>
+                
+              
+              <li class="navigation-item">
+                <a href="/posts/legacy-roadmap/">🇬🇧</a>
+              </li>
+            
+          
+        
+      </ul>
+    
+  </section>
+</nav>
+
+
+    <div class="content">
+      
+  <section class="container post">
+    <article>
+      <header>
+        <div class="post-title">
+          <h1 class="title">
+            <a class="title-link" href="http://localhost:1313/pt-br/posts/legacy-roadmap/">
+              Série: O Mapa do Legado - Uma conversa entre academia e indústria sobre modernização de sistemas legados
+            </a>
+          </h1>
+        </div>
+        <div class="post-meta">
+          <div class="date">
+            <span class="posted-on">
+              <i class="fa-solid fa-calendar" aria-hidden="true"></i>
+              <time datetime="2026-05-11T00:00:00Z">
+                maio 11, 2026
+              </time>
+            </span>
+            <span class="reading-time">
+              <i class="fa-solid fa-clock" aria-hidden="true"></i>
+              6 minutos de leitura
+            </span>
+          </div>
+          <div class="authors">
+  <i class="fa-solid fa-user" aria-hidden="true"></i>
+    <a href="/pt-br/authors/renato-teixeira/">Renato Teixeira</a></div>
+
+          <div class="categories">
+  <i class="fa-solid fa-folder" aria-hidden="true"></i>
+    <a href="/pt-br/categories/modernization/">Modernization</a></div>
+
+          <div class="tags">
+  <i class="fa-solid fa-tag" aria-hidden="true"></i>
+    <span class="tag">
+      <a href="/pt-br/tags/legacymodernization/">LegacyModernization</a>
+    </span>
+      <span class="separator">•</span>
+    <span class="tag">
+      <a href="/pt-br/tags/softwarearchitecture/">SoftwareArchitecture</a>
+    </span>
+      <span class="separator">•</span>
+    <span class="tag">
+      <a href="/pt-br/tags/technologydecisionmaking/">TechnologyDecisionMaking</a>
+    </span>
+      <span class="separator">•</span>
+    <span class="tag">
+      <a href="/pt-br/tags/evidencebasedsoftwareengineering/">EvidenceBasedSoftwareEngineering</a>
+    </span>
+      <span class="separator">•</span>
+    <span class="tag">
+      <a href="/pt-br/tags/softwareengineering/">SoftwareEngineering</a>
+    </span></div>
+
+        </div>
+      </header>
+
+      
+
+
+      <div class="post-content">
+        
+        <p>No dia <strong>29 de abril de 2026</strong>, minha dissertação de mestrado foi aprovada pela academia. O trabalho se chama <strong>“Mapa do Legado: Um Arcabouço Sociotécnico para a Tomada de Decisão na Modernização de Sistemas Legados na América Latina”</strong>. Agora, quero fazer algo que considero tão importante quanto concluir a pesquisa: transformar parte desse conhecimento em uma conversa mais acessível para quem vive tecnologia na prática.</p>
+<p>A partir do dia <strong>15/05/2026</strong>, vou publicar semanalmente uma série de artigos baseada na dissertação. A ideia não é simplesmente resumir o trabalho acadêmico, porque isso seria pouco útil para quem está no dia a dia da indústria. O objetivo é traduzir seus principais achados para uma linguagem mais direta, conectando pesquisa, prática profissional, arquitetura, modernização, risco e tomada de decisão.</p>
+<p>Na minha visão, existe um ponto que a Engenharia de Software ainda precisa tratar com mais seriedade: <strong>a distância entre o que a academia investiga e o que a indústria enfrenta todos os dias</strong>. Essa distância não deveria ser naturalizada. A academia produz conceitos, métodos, evidências e formas estruturadas de compreender problemas complexos. A indústria, por outro lado, lida com pressão real, sistemas críticos, orçamento limitado, riscos operacionais, urgência de entrega, legado acumulado e decisões que nem sempre cabem em modelos ideais.</p>
+<p>Quando esses dois mundos não conversam, todos perdem. A academia corre o risco de produzir conhecimento que não chega onde o software é construído, mantido e modernizado. A indústria corre o risco de repetir decisões baseadas apenas em intuição, urgência, hype ou experiência local, sem aproveitar evidências que poderiam tornar suas práticas mais maduras. A proposta desta série é contribuir um pouco para essa aproximação.</p>
+<p>Minha dissertação parte de uma premissa simples, mas com implicações profundas: <strong>modernizar sistemas legados não é apenas uma decisão técnica</strong>. É uma decisão sociotécnica. Envolve arquitetura e tecnologia, naturalmente, mas também envolve risco, memória organizacional, experiência acumulada, dependência operacional, fatores cognitivos, conhecimento tácito, cultura e estratégia. A pesquisa mostrou que a decisão de modernizar sistemas legados raramente é motivada apenas por fatores tecnológicos. Ela é fortemente influenciada por elementos organizacionais, pela percepção de risco e pela experiência acumulada dos profissionais envolvidos.</p>
+<p>É sobre isso que a série vai tratar: modernização não como simples troca de tecnologia, mas como processo de decisão; legado não como “software velho”, mas como dependência, patrimônio, risco e continuidade; transformação não como promessa genérica, mas como escolha difícil entre o que preservar, o que evoluir, quando agir e como reduzir incertezas. A intenção é discutir modernização sem recorrer a soluções mágicas, mas também sem transformar o tema em um debate excessivamente acadêmico e distante da prática.</p>
+<h2 id="o-que-será-publicado-na-série">
+  O que será publicado na série
+  <a class="heading-link" href="#o-que-ser%c3%a1-publicado-na-s%c3%a9rie">
+    <i class="fa-solid fa-link" aria-hidden="true" title="Link para o cabeçalho"></i>
+    <span class="sr-only">Link para o cabeçalho</span>
+  </a>
+</h2>
+<h3 id="parte-1--legado-não-é-idade-é-dependência">
+  Parte 1 — Legado não é idade. É dependência.
+  <a class="heading-link" href="#parte-1--legado-n%c3%a3o-%c3%a9-idade-%c3%a9-depend%c3%aancia">
+    <i class="fa-solid fa-link" aria-hidden="true" title="Link para o cabeçalho"></i>
+    <span class="sr-only">Link para o cabeçalho</span>
+  </a>
+</h3>
+<p>O primeiro artigo vai discutir por que definir legado apenas pela idade da tecnologia é uma armadilha. Um sistema pode usar tecnologia antiga e ainda ser essencial. Outro pode usar tecnologia recente e já nascer difícil de evoluir. A questão central será: <strong>quando um sistema deixa de ser apenas antigo e passa a representar uma dependência estrutural para a organização?</strong></p>
+<h3 id="parte-2--sistemas-legados-sobrevivem-porque-ainda-importam">
+  Parte 2 — Sistemas legados sobrevivem porque ainda importam
+  <a class="heading-link" href="#parte-2--sistemas-legados-sobrevivem-porque-ainda-importam">
+    <i class="fa-solid fa-link" aria-hidden="true" title="Link para o cabeçalho"></i>
+    <span class="sr-only">Link para o cabeçalho</span>
+  </a>
+</h3>
+<p>O segundo artigo parte de uma provocação importante: muitos sistemas legados não permanecem porque “ninguém teve coragem de trocar”. Eles permanecem porque funcionam, sustentam operações críticas, carregam regras de negócio e preservam conhecimento acumulado. Antes de tratar o legado como obstáculo, talvez seja necessário reconhecer o valor que ele ainda entrega.</p>
+<h3 id="parte-3--o-risco-de-mudar-é-visível-o-risco-de-não-mudar-nem-sempre-é">
+  Parte 3 — O risco de mudar é visível. O risco de não mudar nem sempre é.
+  <a class="heading-link" href="#parte-3--o-risco-de-mudar-%c3%a9-vis%c3%advel-o-risco-de-n%c3%a3o-mudar-nem-sempre-%c3%a9">
+    <i class="fa-solid fa-link" aria-hidden="true" title="Link para o cabeçalho"></i>
+    <span class="sr-only">Link para o cabeçalho</span>
+  </a>
+</h3>
+<p>Toda modernização envolve risco, mas a indústria costuma discutir muito mais o risco da mudança do que o risco da permanência. Este artigo vai explorar a ideia de que <strong>não modernizar também é uma escolha de risco</strong>, mesmo quando a organização prefere tratar essa postura como prudência, estabilidade ou simples continuidade operacional.</p>
+<h3 id="parte-4--quando-o-software-vira-parte-da-organização">
+  Parte 4 — Quando o software vira parte da organização
+  <a class="heading-link" href="#parte-4--quando-o-software-vira-parte-da-organiza%c3%a7%c3%a3o">
+    <i class="fa-solid fa-link" aria-hidden="true" title="Link para o cabeçalho"></i>
+    <span class="sr-only">Link para o cabeçalho</span>
+  </a>
+</h3>
+<p>Este artigo vai tratar do conceito de <strong>entranhamento sistema-organização</strong>: situações em que o sistema legado deixa de apenas apoiar processos e passa a moldar a forma como a empresa opera. Nesses casos, modernizar não é apenas mexer em código. É mexer em processos, rotinas, decisões, conhecimento tácito e, em alguns casos, na própria identidade operacional da organização.</p>
+<h3 id="parte-5--modernização-adiada-também-é-uma-decisão">
+  Parte 5 — Modernização adiada também é uma decisão
+  <a class="heading-link" href="#parte-5--moderniza%c3%a7%c3%a3o-adiada-tamb%c3%a9m-%c3%a9-uma-decis%c3%a3o">
+    <i class="fa-solid fa-link" aria-hidden="true" title="Link para o cabeçalho"></i>
+    <span class="sr-only">Link para o cabeçalho</span>
+  </a>
+</h3>
+<p>Nem toda organização decide claramente manter ou modernizar. Muitas apenas adiam. Criam remendos, camadas adicionais, exceções, integrações provisórias e justificativas razoáveis no curto prazo. O problema é que a postergação também acumula custo, complexidade e risco. Este artigo vai discutir a modernização adiada como uma forma silenciosa de decisão.</p>
+<h3 id="parte-6--quando-o-sistema-só-funciona-porque-alguém-ainda-lembra">
+  Parte 6 — Quando o sistema só funciona porque alguém ainda lembra
+  <a class="heading-link" href="#parte-6--quando-o-sistema-s%c3%b3-funciona-porque-algu%c3%a9m-ainda-lembra">
+    <i class="fa-solid fa-link" aria-hidden="true" title="Link para o cabeçalho"></i>
+    <span class="sr-only">Link para o cabeçalho</span>
+  </a>
+</h3>
+<p>Um dos riscos mais críticos de sistemas legados não está apenas no código, mas no conhecimento que nunca virou patrimônio organizacional. Regras de negócio, exceções, dependências e decisões históricas muitas vezes vivem na memória de poucas pessoas. Quando essas pessoas saem, o sistema pode se tornar uma caixa-preta operacional. Este artigo será sobre conhecimento tácito, memória técnica e arqueologia de software.</p>
+<h3 id="parte-7--antes-de-automatizar-a-mudança-automatize-o-entendimento">
+  Parte 7 — Antes de automatizar a mudança, automatize o entendimento
+  <a class="heading-link" href="#parte-7--antes-de-automatizar-a-mudan%c3%a7a-automatize-o-entendimento">
+    <i class="fa-solid fa-link" aria-hidden="true" title="Link para o cabeçalho"></i>
+    <span class="sr-only">Link para o cabeçalho</span>
+  </a>
+</h3>
+<p>Automação e IA têm um papel importante na modernização, mas existe um risco evidente: acelerar mudanças em sistemas que ainda não foram compreendidos. Este artigo vai defender uma ideia central da série: em sistemas legados, a automação mais valiosa não começa pela transformação, mas pela recuperação do entendimento. Antes de automatizar a mudança, é preciso automatizar, ou pelo menos ampliar, a compreensão.</p>
+<h3 id="parte-8--modernizar-não-é-trocar-tecnologia-é-governar-a-continuidade">
+  Parte 8 — Modernizar não é trocar tecnologia. É governar a continuidade.
+  <a class="heading-link" href="#parte-8--modernizar-n%c3%a3o-%c3%a9-trocar-tecnologia-%c3%a9-governar-a-continuidade">
+    <i class="fa-solid fa-link" aria-hidden="true" title="Link para o cabeçalho"></i>
+    <span class="sr-only">Link para o cabeçalho</span>
+  </a>
+</h3>
+<p>O último artigo fecha a série apresentando a lógica do <strong>Mapa do Legado</strong>: um modelo para organizar decisões de modernização a partir de diagnóstico, explicitação de risco, reflexão cognitiva, diretrizes decisórias e execução técnica situacional. A tese final será direta: <strong>a tecnologia importa, mas ela não deveria entrar antes da compreensão do contexto, do risco e das consequências da decisão</strong>.</p>
+<h2 id="por-que-publicar-essa-série">
+  Por que publicar essa série
+  <a class="heading-link" href="#por-que-publicar-essa-s%c3%a9rie">
+    <i class="fa-solid fa-link" aria-hidden="true" title="Link para o cabeçalho"></i>
+    <span class="sr-only">Link para o cabeçalho</span>
+  </a>
+</h2>
+<p>Minha intenção é contribuir para uma conversa mais madura sobre modernização de sistemas legados. Uma conversa menos orientada por modismos e mais orientada por evidência; menos centrada apenas em ferramentas e mais atenta às decisões que antecedem qualquer ferramenta; menos preocupada em repetir discursos genéricos de transformação e mais interessada em compreender por que tantas organizações continuam presas a sistemas que sabem que precisam evoluir.</p>
+<p>A modernização de sistemas legados é um dos temas mais importantes da Engenharia de Software contemporânea, não porque seja novo, mas justamente porque continua persistente. Talvez parte dessa persistência venha do fato de ainda tratarmos como problema puramente técnico algo que, na prática, é também organizacional, cognitivo, estratégico e humano.</p>
+<p>A partir de <strong>15/05/2026</strong>, começo a publicar a série <strong>“O Mapa do Legado — modernização de sistemas legados como decisão, risco e evolução sociotécnica”</strong>. A proposta é aproximar um pouco mais a pesquisa da prática e, quem sabe, ajudar profissionais e organizações a tomarem decisões melhores sobre os sistemas que sustentam o presente — e que podem limitar ou viabilizar o futuro.</p>
+
+      </div>
+
+
+      <footer>
+        
+
+<section class="see-also">
+  
+    
+    
+    
+      <h3 id="veja-também-em-modernization">
+        Veja também em Modernization
+        <a class="heading-link" href="#veja-tamb%c3%a9m-em-modernization">
+          <i class="fa-solid fa-link" aria-hidden="true" title="Link para o cabeçalho"></i>
+          <span class="sr-only">Link para o cabeçalho</span>
+        </a>
+      </h3>
+      <nav>
+        <ul>
+        
+        
+          
+        
+          
+            <li>
+              <a href="/pt-br/posts/evidence-is-necessary/">Evidência é necessária. Na engenharia de software, também é difícil.</a>
+            </li>
+          
+        
+          
+            <li>
+              <a href="/pt-br/posts/the-quiet-normalization/">A normalização silenciosa de decisões sem fundamento na engenharia de software</a>
+            </li>
+          
+        
+          
+            <li>
+              <a href="/pt-br/posts/legacy-does-no-happen-by-accident/">O Legado Não Acontece por Acaso: O Que Lehman Ainda Nos Ensina Sobre Evolução de Software</a>
+            </li>
+          
+        
+          
+            <li>
+              <a href="/pt-br/posts/modernization-not-dispute/">Modernizar sistemas legados não é uma disputa entre o velho e o novo. É uma disciplina do discernimento</a>
+            </li>
+          
+        
+        </ul>
+      </nav>
+    
+  
+</section>
+
+
+        
+        
+        
+        
+        
+        
+        
+      </footer>
+    </article>
+
+    
+  </section>
+
+    </div>
+
+    <footer class="footer">
+  <section class="container">
+    ©
+    
+      2019 -
+    
+    2026
+     Renato Teixeira 
+    ·
+    
+    Promovido por <a href="https://gohugo.io/" target="_blank" rel="noopener">Hugo</a> & <a href="https://github.com/luizdepra/hugo-coder/" target="_blank" rel="noopener">Coder</a>.
+    
+  </section>
+</footer>
+
+  </main>
+
+  
+
+  
+  
+  <script src="/js/coder.js"></script>
+  
+
+  
+
+  
+
+  
+      <script async src="https://www.googletagmanager.com/gtag/js?id=G-8LNJPPKGJ1"></script>
+      <script>
+        var doNotTrack = false;
+        if ( true ) {
+          var dnt = (navigator.doNotTrack || window.doNotTrack || navigator.msDoNotTrack);
+          var doNotTrack = (dnt == "1" || dnt == "yes");
+        }
+        if (!doNotTrack) {
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+          gtag('config', 'G-8LNJPPKGJ1');
+        }
+      </script>
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+</body>
+
+</html>
