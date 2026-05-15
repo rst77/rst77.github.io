@@ -9,11 +9,11 @@
     <lastBuildDate>Mon, 11 May 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/pt-br/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Series: The Legacy Roadmap - A conversation between academia and industry on legacy system modernization</title>
+      <title>Série: O Mapa do Legado - Uma conversa entre academia e indústria sobre modernização de sistemas legados</title>
       <link>http://localhost:1313/pt-br/posts/legacy-roadmap/</link>
       <pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/pt-br/posts/legacy-roadmap/</guid>
-      <description>&lt;p&gt;On &lt;strong&gt;April 29, 2026&lt;/strong&gt;, my master’s dissertation was approved by the academic committee. The work is titled &lt;strong&gt;“Legacy Roadmap: A Sociotechnical Framework for Decision-Making in Legacy System Modernization in Latin America.”&lt;/strong&gt; Now, I want to do something I consider as important as completing the research itself: turning part of this knowledge into a more accessible conversation for those who live technology in practice.&lt;/p&gt;&#xA;&lt;p&gt;Starting on &lt;strong&gt;05/15/2026&lt;/strong&gt;, I will publish a weekly series of articles based on the dissertation. The idea is not simply to summarize the academic work, because that would be of limited use to those dealing with the industry’s day-to-day reality. The goal is to translate its main findings into more direct language, connecting research, professional practice, architecture, modernization, risk, and decision-making.&lt;/p&gt;</description>
+      <description>&lt;p&gt;No dia &lt;strong&gt;29 de abril de 2026&lt;/strong&gt;, minha dissertação de mestrado foi aprovada pela academia. O trabalho se chama &lt;strong&gt;“Mapa do Legado: Um Arcabouço Sociotécnico para a Tomada de Decisão na Modernização de Sistemas Legados na América Latina”&lt;/strong&gt;. Agora, quero fazer algo que considero tão importante quanto concluir a pesquisa: transformar parte desse conhecimento em uma conversa mais acessível para quem vive tecnologia na prática.&lt;/p&gt;&#xA;&lt;p&gt;A partir do dia &lt;strong&gt;15/05/2026&lt;/strong&gt;, vou publicar semanalmente uma série de artigos baseada na dissertação. A ideia não é simplesmente resumir o trabalho acadêmico, porque isso seria pouco útil para quem está no dia a dia da indústria. O objetivo é traduzir seus principais achados para uma linguagem mais direta, conectando pesquisa, prática profissional, arquitetura, modernização, risco e tomada de decisão.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Evidência é necessária. Na engenharia de software, também é difícil.</title>
