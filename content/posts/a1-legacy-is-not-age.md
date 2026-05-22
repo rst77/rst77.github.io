@@ -16,7 +16,12 @@ categories = [
 series = ["Modernization"]
 +++
 
+![image](/images/ml/part1.png)
+
 *Series: The Legacy Roadmap — Part 1*
+
+
+Read Part 2 [Legacy systems survive because they still matter](/posts/a2-survive-because-matter)
 
 When we talk about legacy systems, it is common for the first image to be that of an old technology: an unpopular language, an outdated visual interface, a server that is difficult to maintain, a database that few professionals still master, or an application that seems to have crossed several generations of architecture. This association is understandable, but incomplete. A system does not become legacy only because it is old. Age may be a signal, but it is not the essence of the problem. There are old systems that remain stable, well understood, well documented, and economically sustainable. Likewise, there are relatively recent systems that are already born difficult to evolve, strongly coupled, poorly understood, and dangerously central to the operation.
 

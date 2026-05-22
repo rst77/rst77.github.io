@@ -16,9 +16,11 @@ categories = [
 series = ["Modernization"]
 +++
 
-# Legado não é idade. É dependência.
+![image](/images/ml/part1.png)
 
 *Série: O Mapa do Legado — Parte 1*
+
+Read Part 2 [Sistemas legados sobrevivem porque ainda importam](/pt-br/posts/a2-survive-because-matter)
 
 Quando falamos em sistemas legados, é comum que a primeira imagem seja a de uma tecnologia antiga: uma linguagem pouco popular, uma interface visual ultrapassada, um servidor difícil de manter, um banco de dados que poucos profissionais ainda dominam ou uma aplicação que parece ter atravessado várias gerações de arquitetura. Essa associação é compreensível, mas incompleta. Um sistema não se torna legado apenas porque é antigo. A idade pode ser um sinal, mas não é a essência do problema. Existem sistemas antigos que continuam estáveis, bem compreendidos, bem documentados e economicamente sustentáveis. Da mesma forma, existem sistemas relativamente recentes que já nascem difíceis de evoluir, fortemente acoplados, mal compreendidos e perigosamente centrais para a operação.
 

@@ -16,6 +16,8 @@ categories = [
 series = ["Modernization"]
 +++
 
+![image](/images/202605/ev.png)
+
 No artigo anterior, defendi que a engenharia de software normalizou decisões importantes tomadas sobre bases frágeis demais. **Hype, pressão de mercado, convicção pessoal, linguagem sofisticada e ansiedade por adoção** ainda ocupam espaço demais em um campo que gosta de se apresentar como engenharia. Mas existe uma resposta fácil — e perigosa — para essa crítica: “então basta seguir a evidência”. Seria ótimo se fosse tão simples. Não é. E talvez uma das maiores maturidades que possamos desenvolver em engenharia de software seja justamente reconhecer essa tensão: **precisamos de mais evidência, mas produzir, interpretar e aplicar evidência em software é muito mais difícil do que normalmente admitimos**.
 
 Essa dificuldade não torna a evidência menos importante. **Torna a nossa responsabilidade maior.** A ideia de uma engenharia de software baseada em evidências nasce de uma analogia com a medicina baseada em evidências. Na medicina, um médico não decide apenas com base em intuição: ele deve combinar a melhor evidência disponível, sua experiência clínica e os valores e circunstâncias do paciente. Esse ponto é fundamental, porque o médico não se relaciona com a evidência de forma abstrata. Ele está diante de um paciente específico, com sintomas específicos, histórico específico, riscos específicos e valores próprios. A evidência importa, mas precisa ser interpretada à luz da realidade daquele paciente.

@@ -17,6 +17,8 @@ categories = [
 series = ["Modernization"]
 +++
 
+![image](/images/202604/lehman.jpg)
+
 O legado não emerge como uma falha isolada, nem como uma simples consequência da idade. Na maioria dos sistemas importantes, ele é o resultado de uma adaptação contínua sob pressões reais: novos requisitos, restrições operacionais, decisões acumuladas e a necessidade constante de permanecer útil em um ambiente em mudança. 
 
 É por isso que o artigo de **Meir Lehman (1980)** permanece tão valioso para mim. Ele não trata o software como um artefato estático, mas como algo moldado por uma evolução contínua. E por essa razão, acredito que ele merece ser muito mais conhecido por aqueles que trabalham na prática cotidiana da TI.

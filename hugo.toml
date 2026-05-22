@@ -33,7 +33,7 @@ info = ["Legacy Modernization Specialist", "Researcher in Modernization of MC Sy
 avatarURL = "images/avatar2.jpg"
 #gravatar = "renato@renatoteixeira.com"
 dateFormat = "January 2, 2006"
-since = 2019
+since = 1977
 # Git Commit in Footer, uncomment the line below to enable it
 commit = "https://github.com/luizdepra/hugo-coder/tree/"
 # Right To Left, shift content direction for languages such as Arabic

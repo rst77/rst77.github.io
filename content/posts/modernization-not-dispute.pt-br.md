@@ -17,6 +17,8 @@ categories = [
 series = ["Modernization"]
 +++
 
+![image](/images/202604/dispute.jpg)
+
 Existe uma tendência recorrente de tratar o legado como um erro histórico a ser corrigido. Como se identificar uma tecnologia mais atual, projetar uma arquitetura mais elegante e iniciar uma jornada de substituição fossem o suficiente para resolver o problema de uma vez por todas.
 
 Mas a realidade raramente se organiza dessa forma.

@@ -16,7 +16,7 @@ categories = [
 series = ["Modernization"]
 +++
 
-
+![image](/images/202604/qn.jpg)
 
 Uma das coisas mais curiosas — e talvez mais incômodas — da engenharia de software é que ainda tomamos muitas decisões importantes com bases frágeis demais.
 

@@ -17,6 +17,8 @@ categories = [
 series = ["Modernization"]
 +++
 
+![image](/images/202604/lehman.jpg)
+
 Legacy does not emerge as an isolated failure, nor as a simple consequence of age. In most important systems, it is the result of continuous adaptation under real pressures: new requirements, operational constraints, accumulated decisions, and the constant need to remain useful in a changing environment. 
 
 That is why **Meir Lehman’s (1980)** article remains so valuable to me. It does not treat software as a static artifact, but as something shaped by ongoing evolution. And for that reason, I believe it deserves to be much better known by those who work in the day-to-day practice of IT.

@@ -6,14 +6,14 @@
     <description>Recent content in DigitalTransformation on RenatoTeixeira.com</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 04 May 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 15 May 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/digitaltransformation/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Legacy is not age. It is dependency</title>
       <link>http://localhost:1313/posts/a1-legacy-is-not-age/</link>
-      <pubDate>Mon, 04 May 2026 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 15 May 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/a1-legacy-is-not-age/</guid>
-      <description>&lt;p&gt;&lt;em&gt;Series: The Legacy Roadmap — Part 1&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;When we talk about legacy systems, it is common for the first image to be that of an old technology: an unpopular language, an outdated visual interface, a server that is difficult to maintain, a database that few professionals still master, or an application that seems to have crossed several generations of architecture. This association is understandable, but incomplete. A system does not become legacy only because it is old. Age may be a signal, but it is not the essence of the problem. There are old systems that remain stable, well understood, well documented, and economically sustainable. Likewise, there are relatively recent systems that are already born difficult to evolve, strongly coupled, poorly understood, and dangerously central to the operation.&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/ml/part1.png&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;Series: The Legacy Roadmap — Part 1&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;Read Part 2 &lt;a href=&#34;http://localhost:1313/posts/a2-survive-because-matter&#34; &gt;Legacy systems survive because they still matter&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;When we talk about legacy systems, it is common for the first image to be that of an old technology: an unpopular language, an outdated visual interface, a server that is difficult to maintain, a database that few professionals still master, or an application that seems to have crossed several generations of architecture. This association is understandable, but incomplete. A system does not become legacy only because it is old. Age may be a signal, but it is not the essence of the problem. There are old systems that remain stable, well understood, well documented, and economically sustainable. Likewise, there are relatively recent systems that are already born difficult to evolve, strongly coupled, poorly understood, and dangerously central to the operation.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Modernizing legacy systems is not a dispute between the old and the new. It is a discipline of discernment</title>

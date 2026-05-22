@@ -16,6 +16,8 @@ categories = [
 series = ["Modernization"]
 +++
 
+![image](/images/ml/roadmap.png)
+
 No dia **29 de abril de 2026**, minha dissertação de mestrado foi aprovada pela academia. O trabalho se chama **“Mapa do Legado: Um Arcabouço Sociotécnico para a Tomada de Decisão na Modernização de Sistemas Legados na América Latina”**. Agora, quero fazer algo que considero tão importante quanto concluir a pesquisa: transformar parte desse conhecimento em uma conversa mais acessível para quem vive tecnologia na prática.
 
 A partir do dia **15/05/2026**, vou publicar semanalmente uma série de artigos baseada na dissertação. A ideia não é simplesmente resumir o trabalho acadêmico, porque isso seria pouco útil para quem está no dia a dia da indústria. O objetivo é traduzir seus principais achados para uma linguagem mais direta, conectando pesquisa, prática profissional, arquitetura, modernização, risco e tomada de decisão.

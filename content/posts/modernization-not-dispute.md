@@ -17,6 +17,8 @@ categories = [
 series = ["Modernization"]
 +++
 
+![image](/images/202604/dispute.jpg)
+
 There is a recurring tendency to treat legacy as a historical mistake to be corrected. As if identifying a more current technology, designing a more elegant architecture, and starting a replacement journey were enough to solve the problem once and for all.
 
 But reality rarely organizes itself that way.

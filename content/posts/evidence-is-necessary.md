@@ -16,6 +16,8 @@ categories = [
 series = ["Modernization"]
 +++
 
+![image](/images/202605/ev.png)
+
 In the previous article, I argued that software engineering has normalized important decisions made on grounds that are far too fragile. **Hype, market pressure, personal conviction, sophisticated language, and adoption anxiety** still occupy too much space in a field that likes to present itself as engineering. But there is an easy — and dangerous — answer to this criticism: “then just follow the evidence.” It would be great if it were that simple. It is not. And perhaps one of the greatest forms of maturity we can develop in software engineering is precisely to recognize this tension: **we need more evidence, but producing, interpreting, and applying evidence in software is much more difficult than we usually admit**.
 
 This difficulty does not make evidence less important. **It makes our responsibility greater.** The idea of evidence-based software engineering comes from an analogy with evidence-based medicine. In medicine, a doctor does not decide only based on intuition: they must combine the best available evidence, their clinical experience, and the patient’s values and circumstances. This point is fundamental, because the doctor does not relate to evidence in an abstract way. They are facing a specific patient, with specific symptoms, a specific history, specific risks, and their own values. Evidence matters, but it needs to be interpreted in light of that patient’s reality.

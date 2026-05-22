@@ -6,14 +6,21 @@
     <description>Recent content on RenatoTeixeira.com</description>
     <generator>Hugo</generator>
     <language>pt-br</language>
-    <lastBuildDate>Mon, 11 May 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 15 May 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/pt-br/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Legado não é idade. É dependência.</title>
+      <link>http://localhost:1313/pt-br/posts/a1-legacy-is-not-age/</link>
+      <pubDate>Fri, 15 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/pt-br/posts/a1-legacy-is-not-age/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/ml/part1.png&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;Série: O Mapa do Legado — Parte 1&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;Read Part 2 &lt;a href=&#34;http://localhost:1313/pt-br/posts/a2-survive-because-matter&#34; &gt;Sistemas legados sobrevivem porque ainda importam&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Quando falamos em sistemas legados, é comum que a primeira imagem seja a de uma tecnologia antiga: uma linguagem pouco popular, uma interface visual ultrapassada, um servidor difícil de manter, um banco de dados que poucos profissionais ainda dominam ou uma aplicação que parece ter atravessado várias gerações de arquitetura. Essa associação é compreensível, mas incompleta. Um sistema não se torna legado apenas porque é antigo. A idade pode ser um sinal, mas não é a essência do problema. Existem sistemas antigos que continuam estáveis, bem compreendidos, bem documentados e economicamente sustentáveis. Da mesma forma, existem sistemas relativamente recentes que já nascem difíceis de evoluir, fortemente acoplados, mal compreendidos e perigosamente centrais para a operação.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Série: O Mapa do Legado - Uma conversa entre academia e indústria sobre modernização de sistemas legados</title>
       <link>http://localhost:1313/pt-br/posts/legacy-roadmap/</link>
       <pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/pt-br/posts/legacy-roadmap/</guid>
-      <description>&lt;p&gt;No dia &lt;strong&gt;29 de abril de 2026&lt;/strong&gt;, minha dissertação de mestrado foi aprovada pela academia. O trabalho se chama &lt;strong&gt;“Mapa do Legado: Um Arcabouço Sociotécnico para a Tomada de Decisão na Modernização de Sistemas Legados na América Latina”&lt;/strong&gt;. Agora, quero fazer algo que considero tão importante quanto concluir a pesquisa: transformar parte desse conhecimento em uma conversa mais acessível para quem vive tecnologia na prática.&lt;/p&gt;&#xA;&lt;p&gt;A partir do dia &lt;strong&gt;15/05/2026&lt;/strong&gt;, vou publicar semanalmente uma série de artigos baseada na dissertação. A ideia não é simplesmente resumir o trabalho acadêmico, porque isso seria pouco útil para quem está no dia a dia da indústria. O objetivo é traduzir seus principais achados para uma linguagem mais direta, conectando pesquisa, prática profissional, arquitetura, modernização, risco e tomada de decisão.&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/ml/roadmap.png&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;No dia &lt;strong&gt;29 de abril de 2026&lt;/strong&gt;, minha dissertação de mestrado foi aprovada pela academia. O trabalho se chama &lt;strong&gt;“Mapa do Legado: Um Arcabouço Sociotécnico para a Tomada de Decisão na Modernização de Sistemas Legados na América Latina”&lt;/strong&gt;. Agora, quero fazer algo que considero tão importante quanto concluir a pesquisa: transformar parte desse conhecimento em uma conversa mais acessível para quem vive tecnologia na prática.&lt;/p&gt;&#xA;&lt;p&gt;A partir do dia &lt;strong&gt;15/05/2026&lt;/strong&gt;, vou publicar semanalmente uma série de artigos baseada na dissertação. A ideia não é simplesmente resumir o trabalho acadêmico, porque isso seria pouco útil para quem está no dia a dia da indústria. O objetivo é traduzir seus principais achados para uma linguagem mais direta, conectando pesquisa, prática profissional, arquitetura, modernização, risco e tomada de decisão.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Evidência é necessária. Na engenharia de software, também é difícil.</title>

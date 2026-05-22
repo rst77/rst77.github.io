@@ -16,6 +16,9 @@ categories = [
 series = ["Modernization"]
 +++
 
+![image](/images/ml/roadmap.png)
+
+
 On **April 29, 2026**, my master’s dissertation was approved by the academic committee. The work is titled **“Legacy Roadmap: A Sociotechnical Framework for Decision-Making in Legacy System Modernization in Latin America.”** Now, I want to do something I consider as important as completing the research itself: turning part of this knowledge into a more accessible conversation for those who live technology in practice.
 
 Starting on **05/15/2026**, I will publish a weekly series of articles based on the dissertation. The idea is not simply to summarize the academic work, because that would be of limited use to those dealing with the industry’s day-to-day reality. The goal is to translate its main findings into more direct language, connecting research, professional practice, architecture, modernization, risk, and decision-making.

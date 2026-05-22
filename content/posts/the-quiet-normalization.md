@@ -16,6 +16,8 @@ categories = [
 series = ["Modernization"]
 +++
 
+![image](/images/202604/qn.jpg)
+
 One of the most curious — and perhaps most uncomfortable — things about software engineering is that we still make many important decisions on grounds that are far too fragile.
 
 Of course, we rarely call this an “unfounded decision.”
