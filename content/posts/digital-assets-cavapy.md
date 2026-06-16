@@ -25,6 +25,7 @@ In this context, Oracle plays a critical role in providing the infrastructure an
 
 I thank the organizers and Giuliano Aversano for the invitation and for the opportunity to share perspectives on a topic so relevant to the future of digital markets.
 
-![image](/images/202606/ucpy1.jpg)
-![image](/images/202606/ucpy2.jpg)
-![image](/images/202606/ucpy3.jpg)
+
+![image](/images/202606/cvpy1.jpg)
+![image](/images/202606/cvpy2.jpg)
+![image](/images/202606/cvpy3.jpg)
