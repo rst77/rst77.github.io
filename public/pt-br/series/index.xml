@@ -22,5 +22,12 @@
       <guid>http://localhost:1313/pt-br/series/education/</guid>
       <description></description>
     </item>
+    <item>
+      <title>Speach</title>
+      <link>http://localhost:1313/pt-br/series/speach/</link>
+      <pubDate>Tue, 09 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/pt-br/series/speach/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>

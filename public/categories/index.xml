@@ -22,5 +22,12 @@
       <guid>http://localhost:1313/categories/education/</guid>
       <description></description>
     </item>
+    <item>
+      <title>Event</title>
+      <link>http://localhost:1313/categories/event/</link>
+      <pubDate>Tue, 09 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/event/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>

@@ -16,7 +16,7 @@ categories = [
 series = ["Modernization"]
 +++
 
-![image](/images/ml/part3.png)
+![image](/images/ml/part3.jpg)
 
 *Série: O Mapa do Legado — Parte 3*
 

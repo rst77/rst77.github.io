@@ -23,6 +23,13 @@
       <description></description>
     </item>
     <item>
+      <title>Event</title>
+      <link>http://localhost:1313/pt-br/categories/event/</link>
+      <pubDate>Tue, 09 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/pt-br/categories/event/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>temas</title>
       <link>http://localhost:1313/pt-br/categoria/temas/</link>
       <pubDate>Wed, 04 Jan 2023 23:21:18 +0100</pubDate>

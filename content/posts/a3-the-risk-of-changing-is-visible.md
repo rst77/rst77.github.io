@@ -16,7 +16,7 @@ categories = [
 series = ["Modernization"]
 +++
 
-![image](/images/ml/part3.png)
+![image](/images/ml/part3.jpg)
 
 
 *Series: The Legacy Roadmap — Part 3*
