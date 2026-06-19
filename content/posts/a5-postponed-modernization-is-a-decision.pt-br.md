@@ -20,7 +20,7 @@ series = ["Modernization"]
 
 *Série: O Mapa do Legado — Parte 5*
 
-Leia a Parte 1 [Legado não é idade. É dependência](/posts/a1-legacy-is-not-age), a Parte 2 [Sistemas legados sobrevivem porque ainda importam](/posts/a2-survive-because-matter), a Parte 3 [O risco de mudar é visível. O risco de não mudar nem sempre é](/posts/a3-the-risk-of-changing-is-visible) e a Parte 4 [Quando o software vira parte da organização](/posts/a4-when-software-becomes-organization).
+Leia a Parte 1 [Legado não é idade. É dependência](/pt-br/posts/a1-legacy-is-not-age), a Parte 2 [Sistemas legados sobrevivem porque ainda importam](/pt-br/posts/a2-survive-because-matter), a Parte 3 [O risco de mudar é visível. O risco de não mudar nem sempre é](/pt-br/posts/a3-the-risk-of-changing-is-visible) e a Parte 4 [Quando o software vira parte da organização](/pt-br/posts/a4-when-software-becomes-organization).
 
 Nos artigos anteriores desta série, tratei de algumas ideias que ajudam a mudar a forma como olhamos para sistemas legados. Primeiro, discuti que **legado não é idade, é dependência**. Depois, argumentei que **sistemas legados sobrevivem porque ainda importam**. Em seguida, abordei a assimetria entre o risco de mudar e o risco de permanecer. No quarto artigo, aprofundei o conceito de entranhamento: o momento em que o software deixa de ser apenas uma aplicação e passa a participar da forma como a própria organização funciona.
 
