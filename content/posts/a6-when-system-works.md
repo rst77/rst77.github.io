@@ -20,7 +20,7 @@ series = ["Modernization"]
 
 *Series: The Legacy Roadmap — Part 6*
 
-Read Part 1 [Legacy is not age. It is dependency](/posts/a1-legacy-is-not-age), Part 2 [Legacy systems survive because they still matter](/posts/a2-survive-because-matter), Part 3 [The risk of changing is visible. The risk of not changing is not always visible](/posts/a3-the-risk-of-changing-is-visible) and Part 4 [When software becomes part of the organization](/posts/a4-when-software-becomes-organization).
+Read Part 1 [Legacy is not age. It is dependency](/posts/a1-legacy-is-not-age), Part 2 [Legacy systems survive because they still matter](/posts/a2-survive-because-matter), Part 3 [The risk of changing is visible. The risk of not changing is not always visible](/posts/a3-the-risk-of-changing-is-visible), Part 4 [When software becomes part of the organization](/posts/a4-when-software-becomes-organization) and Part 5 [When the system only works because someone still remembers](/posts/a5-postponed-modernization).
 
 In the previous articles of this series, I addressed some ideas that help change the way we look at legacy systems. First, I discussed that **legacy is not age, it is dependency**. Then, I argued that **legacy systems survive because they still matter**. Next, I addressed the asymmetry between the risk of changing and the risk of remaining. In the fourth article, I deepened the concept of entanglement: the moment when software stops being only an application and starts to participate in the way the organization itself functions.
 
