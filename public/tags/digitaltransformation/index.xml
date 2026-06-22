@@ -9,6 +9,13 @@
     <lastBuildDate>Fri, 19 Jun 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/digitaltransformation/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Before automating change, automate understanding</title>
+      <link>http://localhost:1313/posts/a7-automate-understanding/</link>
+      <pubDate>Fri, 19 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/a7-automate-understanding/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/ml/part6.jpg&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;Series: The Legacy Roadmap — Part 7&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;Read Part 1 &lt;a href=&#34;http://localhost:1313/posts/a1-legacy-is-not-age&#34; &gt;Legacy is not age. It is dependency&lt;/a&gt;, Part 2 &lt;a href=&#34;http://localhost:1313/posts/a2-survive-because-matter&#34; &gt;Legacy systems survive because they still matter&lt;/a&gt;, Part 3 &lt;a href=&#34;http://localhost:1313/posts/a3-the-risk-of-changing-is-visible&#34; &gt;The risk of changing is visible. The risk of not changing is not always visible&lt;/a&gt;, Part 4 &lt;a href=&#34;http://localhost:1313/posts/a4-when-software-becomes-organization&#34; &gt;When software becomes part of the organization&lt;/a&gt;, Part 5 &lt;a href=&#34;http://localhost:1313/posts/a5-postponed-modernization-is-a-decision&#34; &gt;Postponed modernization is also a decision&lt;/a&gt; and Part 6 &lt;a href=&#34;http://localhost:1313/posts/a6-when-system-works&#34; &gt;When the system only works because someone still remembers&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>When the system only works because someone still remembers</title>
       <link>http://localhost:1313/posts/a6-when-system-works/</link>
       <pubDate>Fri, 19 Jun 2026 00:00:00 +0000</pubDate>
