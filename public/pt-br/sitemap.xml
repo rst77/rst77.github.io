@@ -2,21 +2,8 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/pt-br/posts/a7-automate-understanding/</loc>
-    <lastmod>2026-06-26T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/posts/a7-automate-understanding/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="http://localhost:1313/pt-br/posts/a7-automate-understanding/"
-                />
-  </url><url>
     <loc>http://localhost:1313/pt-br/authors/</loc>
-    <lastmod>2026-06-26T00:00:00+00:00</lastmod>
+    <lastmod>2026-07-03T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -29,7 +16,7 @@
                 />
   </url><url>
     <loc>http://localhost:1313/pt-br/categories/</loc>
-    <lastmod>2026-06-26T00:00:00+00:00</lastmod>
+    <lastmod>2026-07-03T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -42,7 +29,7 @@
                 />
   </url><url>
     <loc>http://localhost:1313/pt-br/tags/digitaltransformation/</loc>
-    <lastmod>2026-06-26T00:00:00+00:00</lastmod>
+    <lastmod>2026-07-03T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -55,7 +42,7 @@
                 />
   </url><url>
     <loc>http://localhost:1313/pt-br/tags/legacymodernization/</loc>
-    <lastmod>2026-06-26T00:00:00+00:00</lastmod>
+    <lastmod>2026-07-03T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -67,8 +54,21 @@
                 href="http://localhost:1313/pt-br/tags/legacymodernization/"
                 />
   </url><url>
+    <loc>http://localhost:1313/pt-br/posts/a8-modernizing-is-not-replacing-technology/</loc>
+    <lastmod>2026-07-03T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/posts/a8-modernizing-is-not-replacing-technology/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="http://localhost:1313/pt-br/posts/a8-modernizing-is-not-replacing-technology/"
+                />
+  </url><url>
     <loc>http://localhost:1313/pt-br/categories/modernization/</loc>
-    <lastmod>2026-06-26T00:00:00+00:00</lastmod>
+    <lastmod>2026-07-03T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -81,7 +81,7 @@
                 />
   </url><url>
     <loc>http://localhost:1313/pt-br/series/modernization/</loc>
-    <lastmod>2026-06-26T00:00:00+00:00</lastmod>
+    <lastmod>2026-07-03T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -94,7 +94,7 @@
                 />
   </url><url>
     <loc>http://localhost:1313/pt-br/posts/</loc>
-    <lastmod>2026-06-26T00:00:00+00:00</lastmod>
+    <lastmod>2026-07-03T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -107,7 +107,7 @@
                 />
   </url><url>
     <loc>http://localhost:1313/pt-br/authors/renato-teixeira/</loc>
-    <lastmod>2026-06-26T00:00:00+00:00</lastmod>
+    <lastmod>2026-07-03T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -120,7 +120,7 @@
                 />
   </url><url>
     <loc>http://localhost:1313/pt-br/</loc>
-    <lastmod>2026-06-26T00:00:00+00:00</lastmod>
+    <lastmod>2026-07-03T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -133,7 +133,7 @@
                 />
   </url><url>
     <loc>http://localhost:1313/pt-br/series/</loc>
-    <lastmod>2026-06-26T00:00:00+00:00</lastmod>
+    <lastmod>2026-07-03T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -146,7 +146,7 @@
                 />
   </url><url>
     <loc>http://localhost:1313/pt-br/tags/softwarearchitecture/</loc>
-    <lastmod>2026-06-26T00:00:00+00:00</lastmod>
+    <lastmod>2026-07-03T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -159,7 +159,7 @@
                 />
   </url><url>
     <loc>http://localhost:1313/pt-br/tags/softwareengineering/</loc>
-    <lastmod>2026-06-26T00:00:00+00:00</lastmod>
+    <lastmod>2026-07-03T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -172,7 +172,7 @@
                 />
   </url><url>
     <loc>http://localhost:1313/pt-br/tags/</loc>
-    <lastmod>2026-06-26T00:00:00+00:00</lastmod>
+    <lastmod>2026-07-03T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -185,7 +185,7 @@
                 />
   </url><url>
     <loc>http://localhost:1313/pt-br/tags/technicaldebt/</loc>
-    <lastmod>2026-06-26T00:00:00+00:00</lastmod>
+    <lastmod>2026-07-03T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -195,6 +195,19 @@
                 rel="alternate"
                 hreflang="pt-br"
                 href="http://localhost:1313/pt-br/tags/technicaldebt/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/pt-br/posts/a7-automate-understanding/</loc>
+    <lastmod>2026-06-26T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/posts/a7-automate-understanding/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="http://localhost:1313/pt-br/posts/a7-automate-understanding/"
                 />
   </url><url>
     <loc>http://localhost:1313/pt-br/posts/a6-when-system-works/</loc>
