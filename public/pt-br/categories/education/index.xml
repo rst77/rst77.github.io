@@ -10,23 +10,23 @@
     <atom:link href="http://localhost:1313/pt-br/categories/education/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Novo Desafio: Doutorado em Ciência da Computação</title>
-      <link>http://localhost:1313/pt-br/posts/new-challenge/</link>
+      <link>http://localhost:1313/pt-br/posts/202607/new-challenge/</link>
       <pubDate>Wed, 08 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/pt-br/posts/new-challenge/</guid>
+      <guid>http://localhost:1313/pt-br/posts/202607/new-challenge/</guid>
       <description>&lt;p&gt;Alguns sonhos demoram a acontecer. Mas, quando acontecem, chegam com um sabor especial.&lt;/p&gt;&#xA;&lt;p&gt;Inicio agora uma nova jornada acadêmica: ingresso no Doutorado em Ciência da Computação na Universidade Estadual de Maringá (UEM).&lt;/p&gt;&#xA;&lt;p&gt;É uma etapa que me anima profundamente e, ao mesmo tempo, me desafia a seguir aprendendo, pesquisando e contribuindo para a área que escolhi trilhar.&lt;/p&gt;&#xA;&lt;p&gt;Que venha essa nova fase!&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/form.png&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Aula Magna na Universidade Columbia do Paraguai</title>
-      <link>http://localhost:1313/pt-br/posts/aula-magna-ucpy/</link>
+      <link>http://localhost:1313/pt-br/posts/202606/aula-magna-ucpy/</link>
       <pubDate>Wed, 10 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/pt-br/posts/aula-magna-ucpy/</guid>
+      <guid>http://localhost:1313/pt-br/posts/202606/aula-magna-ucpy/</guid>
       <description>&lt;p&gt;No dia 10 de junho de 2026, tive a honra de ministrar a Aula Magna na Universidad Columbia del Paraguay, compartilhando uma reflexão sobre o futuro do engenheiro de software na era da IA.&lt;/p&gt;&#xA;&lt;p&gt;Foi um grande prazer trocar experiências com estudantes e profissionais de tecnologia em um momento tão importante para a nossa indústria.&lt;/p&gt;&#xA;&lt;p&gt;Meu agradecimento ao Reitor José Alfredo Souberlich Roman, da Universidad Columbia del Paraguay, e ao OUGPY | Oracle User Group Paraguay pelo convite, pela excelente organização e pela calorosa recepção.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Defesa da dissertação de mestrado</title>
-      <link>http://localhost:1313/pt-br/posts/master-degree/</link>
+      <link>http://localhost:1313/pt-br/posts/202604/master-degree/</link>
       <pubDate>Wed, 29 Apr 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/pt-br/posts/master-degree/</guid>
+      <guid>http://localhost:1313/pt-br/posts/202604/master-degree/</guid>
       <description>&lt;p&gt;Hoje vivi um momento muito especial: a defesa da minha dissertação de mestrado.&lt;/p&gt;&#xA;&lt;p&gt;Entrar no mundo acadêmico e científico perto dos 50 anos foi uma experiência encantadora, desafiadora e profundamente transformadora. Ao longo desta jornada, aprendi muito com cada professor, com meus colegas, com a banca examinadora e, acima de tudo, com a oportunidade de conduzir uma pesquisa que me permitiu olhar para a prática profissional com maior método, profundidade e curiosidade científica.&lt;/p&gt;</description>
     </item>
   </channel>

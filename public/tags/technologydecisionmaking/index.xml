@@ -10,23 +10,23 @@
     <atom:link href="http://localhost:1313/tags/technologydecisionmaking/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Series: The Legacy Roadmap - A conversation between academia and industry on legacy system modernization</title>
-      <link>http://localhost:1313/posts/legacy-roadmap/</link>
+      <link>http://localhost:1313/posts/legacy-roadmap/legacy-roadmap/</link>
       <pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/legacy-roadmap/</guid>
+      <guid>http://localhost:1313/posts/legacy-roadmap/legacy-roadmap/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/ml/roadmap.png&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;On &lt;strong&gt;April 29, 2026&lt;/strong&gt;, my master’s dissertation was approved by the academic committee. The work is titled &lt;strong&gt;“Legacy Roadmap: A Sociotechnical Framework for Decision-Making in Legacy System Modernization in Latin America.”&lt;/strong&gt; Now, I want to do something I consider as important as completing the research itself: turning part of this knowledge into a more accessible conversation for those who live technology in practice.&lt;/p&gt;&#xA;&lt;p&gt;Starting on &lt;strong&gt;05/15/2026&lt;/strong&gt;, I will publish a weekly series of articles based on the dissertation. The idea is not simply to summarize the academic work, because that would be of limited use to those dealing with the industry’s day-to-day reality. The goal is to translate its main findings into more direct language, connecting research, professional practice, architecture, modernization, risk, and decision-making.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Evidence is necessary. In software engineering, it is also difficult</title>
-      <link>http://localhost:1313/posts/evidence-is-necessary/</link>
+      <link>http://localhost:1313/posts/202605/evidence-is-necessary/</link>
       <pubDate>Mon, 04 May 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/evidence-is-necessary/</guid>
+      <guid>http://localhost:1313/posts/202605/evidence-is-necessary/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/202605/ev.png&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;In the previous article, I argued that software engineering has normalized important decisions made on grounds that are far too fragile. &lt;strong&gt;Hype, market pressure, personal conviction, sophisticated language, and adoption anxiety&lt;/strong&gt; still occupy too much space in a field that likes to present itself as engineering. But there is an easy — and dangerous — answer to this criticism: “then just follow the evidence.” It would be great if it were that simple. It is not. And perhaps one of the greatest forms of maturity we can develop in software engineering is precisely to recognize this tension: &lt;strong&gt;we need more evidence, but producing, interpreting, and applying evidence in software is much more difficult than we usually admit&lt;/strong&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>The Quiet Normalization of Unfounded Decisions in Software Engineering</title>
-      <link>http://localhost:1313/posts/the-quiet-normalization/</link>
+      <link>http://localhost:1313/posts/202604/the-quiet-normalization/</link>
       <pubDate>Fri, 24 Apr 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/the-quiet-normalization/</guid>
+      <guid>http://localhost:1313/posts/202604/the-quiet-normalization/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/202604/qn.jpg&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;One of the most curious — and perhaps most uncomfortable — things about software engineering is that we still make many important decisions on grounds that are far too fragile.&lt;/p&gt;&#xA;&lt;p&gt;Of course, we rarely call this an “unfounded decision.”&lt;/p&gt;&#xA;&lt;p&gt;We prefer better names:&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Strategy.&lt;/strong&gt;&lt;br&gt;&#xA;&lt;strong&gt;Transformation.&lt;/strong&gt;&lt;br&gt;&#xA;&lt;strong&gt;Modernization.&lt;/strong&gt;&lt;br&gt;&#xA;&lt;strong&gt;Best practice.&lt;/strong&gt;&lt;br&gt;&#xA;&lt;strong&gt;Vision for the future.&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;But, quite often, beneath these elegant labels, there is something less noble: imitation, enthusiasm, market pressure, personal preference, or the comfortable belief that what sounds modern must also be correct.&lt;/p&gt;</description>
     </item>
   </channel>

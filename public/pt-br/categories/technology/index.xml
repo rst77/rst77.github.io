@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Technology on RenatoTeixeira.com</title>
+    <link>http://localhost:1313/pt-br/categories/technology/</link>
+    <description>Recent content in Technology on RenatoTeixeira.com</description>
+    <generator>Hugo</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Sat, 01 Aug 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/pt-br/categories/technology/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A História do Java</title>
+      <link>http://localhost:1313/pt-br/posts/202608/the-java-story/</link>
+      <pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/pt-br/posts/202608/the-java-story/</guid>
+      <description>&lt;p&gt;Ver um documentário como este sendo disponibilizado me traz uma satisfação muito especial.&lt;/p&gt;&#xA;&lt;p&gt;Acompanho essa história desde o início. De certa forma, ela também faz parte da minha própria trajetória: foi esse movimento, essa evolução e essa transformação que ajudaram a construir a minha carreira.&lt;/p&gt;&#xA;&lt;p&gt;Olhar para trás e perceber tudo o que já foi realizado é motivo de orgulho. Mas olhar para frente é ainda mais inspirador, porque acredito que ainda há muito a ser feito.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

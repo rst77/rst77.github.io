@@ -1,0 +1,456 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+  <title>
+  Legacy is not age. It is dependency · RenatoTeixeira.com
+</title>
+  <meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="color-scheme" content="light dark">
+
+
+
+
+<meta name="author" content="Renato Teixeira">
+<meta name="description" content="This article challenges the simplistic idea that legacy systems are defined by age or outdated technology. It argues that legacy is better understood as dependency: the degree to which a system sustains business operations, concentrates critical knowledge, shapes organizational processes, and makes change risky. The article opens the series *The Legacy Roadmap* by reframing modernization as a sociotechnical decision, not merely a technology replacement.">
+<meta name="keywords" content="blog,developer,personal">
+
+
+
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="Legacy is not age. It is dependency">
+  <meta name="twitter:description" content="This article challenges the simplistic idea that legacy systems are defined by age or outdated technology. It argues that legacy is better understood as dependency: the degree to which a system sustains business operations, concentrates critical knowledge, shapes organizational processes, and makes change risky. The article opens the series *The Legacy Roadmap* by reframing modernization as a sociotechnical decision, not merely a technology replacement.">
+
+<meta property="og:url" content="http://localhost:1313/posts/legacy-roadmap/a1-legacy-is-not-age/">
+  <meta property="og:site_name" content="RenatoTeixeira.com">
+  <meta property="og:title" content="Legacy is not age. It is dependency">
+  <meta property="og:description" content="This article challenges the simplistic idea that legacy systems are defined by age or outdated technology. It argues that legacy is better understood as dependency: the degree to which a system sustains business operations, concentrates critical knowledge, shapes organizational processes, and makes change risky. The article opens the series *The Legacy Roadmap* by reframing modernization as a sociotechnical decision, not merely a technology replacement.">
+  <meta property="og:locale" content="en">
+  <meta property="og:type" content="article">
+    <meta property="article:section" content="posts">
+    <meta property="article:published_time" content="2026-05-15T00:00:00+00:00">
+    <meta property="article:modified_time" content="2026-05-15T00:00:00+00:00">
+    <meta property="article:tag" content="LegacyModernization">
+    <meta property="article:tag" content="SoftwareArchitecture">
+    <meta property="article:tag" content="DigitalTransformation">
+    <meta property="article:tag" content="TechnicalDebt">
+    <meta property="article:tag" content="SoftwareEngineering">
+      <meta property="og:see_also" content="http://localhost:1313/posts/legacy-roadmap/a8-modernizing-is-not-replacing-technology/">
+      <meta property="og:see_also" content="http://localhost:1313/posts/legacy-roadmap/a7-automate-understanding/">
+      <meta property="og:see_also" content="http://localhost:1313/posts/legacy-roadmap/a6-when-system-works/">
+      <meta property="og:see_also" content="http://localhost:1313/posts/legacy-roadmap/a5-postponed-modernization-is-a-decision/">
+      <meta property="og:see_also" content="http://localhost:1313/posts/legacy-roadmap/a4-when-software-becomes-organization/">
+      <meta property="og:see_also" content="http://localhost:1313/posts/legacy-roadmap/a3-the-risk-of-changing-is-visible/">
+      <meta property="og:see_also" content="http://localhost:1313/posts/legacy-roadmap/a2-survive-because-matter/">
+
+
+
+
+<link rel="canonical" href="http://localhost:1313/posts/legacy-roadmap/a1-legacy-is-not-age/">
+
+
+<link rel="preload" href="/fonts/fa-brands-400.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="/fonts/fa-regular-400.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="/fonts/fa-solid-900.woff2" as="font" type="font/woff2" crossorigin>
+
+
+  
+  
+  <link rel="stylesheet" href="/css/coder.css" media="screen">
+
+
+
+
+
+
+  
+    
+    
+    <link rel="stylesheet" href="/css/coder-dark.css" media="screen">
+  
+
+
+
+ 
+
+
+
+
+<link rel="icon" type="image/svg+xml" href="/images/favicon.svg" sizes="any">
+<link rel="icon" type="image/png" href="/images/favicon-32x32.png" sizes="32x32">
+<link rel="icon" type="image/png" href="/images/favicon-16x16.png" sizes="16x16">
+
+<link rel="apple-touch-icon" href="/images/apple-touch-icon.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
+
+<link rel="manifest" href="/site.webmanifest">
+<link rel="mask-icon" href="/images/safari-pinned-tab.svg" color="#5bbad5">
+
+
+
+
+
+
+
+
+
+
+</head>
+
+
+
+
+
+
+<body class="preload-transitions colorscheme-dark">
+  
+<div class="float-container">
+    <a id="dark-mode-toggle" class="colorscheme-toggle">
+        <i class="fa-solid fa-adjust fa-fw" aria-hidden="true"></i>
+    </a>
+</div>
+
+
+  <main class="wrapper">
+    <nav class="navigation">
+  <section class="container">
+    
+    <a class="navigation-title" href="http://localhost:1313/">
+      RenatoTeixeira.com
+    </a>
+    
+    
+      <input type="checkbox" id="menu-toggle" />
+      <label class="menu-button float-right" for="menu-toggle">
+        <i class="fa-solid fa-bars fa-fw" aria-hidden="true"></i>
+      </label>
+      <ul class="navigation-list">
+        
+          
+            <li class="navigation-item">
+              <a class="navigation-link " href="/about/">About</a>
+            </li>
+          
+            <li class="navigation-item">
+              <a class="navigation-link " href="/posts/">Blog</a>
+            </li>
+          
+        
+        
+          
+          
+          
+            
+              
+                <li class="navigation-item menu-separator">
+                  <span>|</span>
+                </li>
+                
+              
+              <li class="navigation-item">
+                <a href="/pt-br/posts/legacy-roadmap/a1-legacy-is-not-age/">🇧🇷</a>
+              </li>
+            
+          
+        
+      </ul>
+    
+  </section>
+</nav>
+
+
+    <div class="content">
+      
+  <section class="container post">
+    <article>
+      <header>
+        <div class="post-title">
+          <h1 class="title">
+            <a class="title-link" href="http://localhost:1313/posts/legacy-roadmap/a1-legacy-is-not-age/">
+              Legacy is not age. It is dependency
+            </a>
+          </h1>
+        </div>
+        <div class="post-meta">
+          <div class="date">
+            <span class="posted-on">
+              <i class="fa-solid fa-calendar" aria-hidden="true"></i>
+              <time datetime="2026-05-15T00:00:00Z">
+                May 15, 2026
+              </time>
+            </span>
+            <span class="reading-time">
+              <i class="fa-solid fa-clock" aria-hidden="true"></i>
+              7-minute read
+            </span>
+          </div>
+          <div class="authors">
+  <i class="fa-solid fa-user" aria-hidden="true"></i>
+    <a href="/authors/renato-teixeira/">Renato Teixeira</a></div>
+
+          <div class="categories">
+  <i class="fa-solid fa-folder" aria-hidden="true"></i>
+    <a href="/categories/modernization/">Modernization</a></div>
+
+          <div class="tags">
+  <i class="fa-solid fa-tag" aria-hidden="true"></i>
+    <span class="tag">
+      <a href="/tags/legacymodernization/">LegacyModernization</a>
+    </span>
+      <span class="separator">•</span>
+    <span class="tag">
+      <a href="/tags/softwarearchitecture/">SoftwareArchitecture</a>
+    </span>
+      <span class="separator">•</span>
+    <span class="tag">
+      <a href="/tags/digitaltransformation/">DigitalTransformation</a>
+    </span>
+      <span class="separator">•</span>
+    <span class="tag">
+      <a href="/tags/technicaldebt/">TechnicalDebt</a>
+    </span>
+      <span class="separator">•</span>
+    <span class="tag">
+      <a href="/tags/softwareengineering/">SoftwareEngineering</a>
+    </span></div>
+
+        </div>
+      </header>
+
+      
+
+
+      <div class="post-content">
+        
+        <p><img src="/images/ml/part1.png" alt="image"></p>
+<p><em>Series: The Legacy Roadmap — Part 1</em></p>
+<p>Read Part 2 <a href="/posts/a2-survive-because-matter" >Legacy systems survive because they still matter</a></p>
+<p>When we talk about legacy systems, it is common for the first image to be that of an old technology: an unpopular language, an outdated visual interface, a server that is difficult to maintain, a database that few professionals still master, or an application that seems to have crossed several generations of architecture. This association is understandable, but incomplete. A system does not become legacy only because it is old. Age may be a signal, but it is not the essence of the problem. There are old systems that remain stable, well understood, well documented, and economically sustainable. Likewise, there are relatively recent systems that are already born difficult to evolve, strongly coupled, poorly understood, and dangerously central to the operation.</p>
+<p>Legacy begins to appear when the organization depends on a system in such a way that modifying it becomes as risky as keeping it. This is the first provocation of the series: <strong>legacy is not age. It is dependency.</strong></p>
+<h2 id="the-trap-of-confusing-legacy-with-old-technology">
+  The trap of confusing legacy with old technology
+  <a class="heading-link" href="#the-trap-of-confusing-legacy-with-old-technology">
+    <i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"></i>
+    <span class="sr-only">Link to heading</span>
+  </a>
+</h2>
+<p>For a long time, the conversation about legacy systems was dominated by an essentially technical reading. A system was called legacy when it used an old technology, when its architecture seemed outdated, or when its interface no longer corresponded to current user expectations. These signals matter. They may indicate obsolescence, hiring difficulty, increased cost, integration restriction, and limitation of evolution. But they do not explain, by themselves, why some organizations continue to sustain these systems for years or decades.</p>
+<p>The most interesting question is not only: “what technology does this system use?”. The most important question is: <strong>what happens to the organization if this system stops, changes, or disappears?</strong> It is at this point that the concept of legacy gains another depth. A system may be technologically outdated, but not structurally critical. Another may use a modern technology and, even so, concentrate so many business dependencies, integrations, operational exceptions, and tacit knowledge that changing it becomes an institutional risk. <strong>The problem is not only in the code. It is in the relationship between the code and the organization.</strong></p>
+<h2 id="when-the-system-stops-being-an-application-and-becomes-business-infrastructure">
+  When the system stops being an application and becomes business infrastructure
+  <a class="heading-link" href="#when-the-system-stops-being-an-application-and-becomes-business-infrastructure">
+    <i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"></i>
+    <span class="sr-only">Link to heading</span>
+  </a>
+</h2>
+<p>In many companies, certain systems stop being merely support tools. They start sustaining the operation. They process critical transactions, organize commercial flows, enable customer service, control billing, record regulatory obligations, integrate partners, and carry business rules that may no longer even be documented. Over time, the company learns to operate around this system. Processes are adapted. Exceptions become routine. People create shortcuts. Business areas organize their workflows considering technical limitations that, initially, should have been temporary. Integrations are built on top of integrations. Spreadsheets, scripts, manual routines, and informal procedures start completing what the system does not explicitly do.</p>
+<p>After years, the question “how does the system work?” can no longer be answered only by looking at the architecture. It is necessary to look at the organization. In these cases, the system does not only support the business. <strong>It participates in the way the business exists.</strong> The boundary between process and software becomes blurred. The code starts carrying old decisions, implicit agreements, commercial exceptions, regulatory adaptations, emergency solutions, and choices that perhaps no one can fully explain anymore. This is one of the most delicate points of modernization: when the system is changed, it is not only an application that is changed. A network of technical, operational, and human dependencies is changed.</p>
+<h2 id="the-paradox-of-the-system-that-works">
+  The paradox of the system that works
+  <a class="heading-link" href="#the-paradox-of-the-system-that-works">
+    <i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"></i>
+    <span class="sr-only">Link to heading</span>
+  </a>
+</h2>
+<p>There is an uncomfortable reason why many legacy systems remain alive: <strong>they work</strong>. They work despite the limitations. They work despite the difficult architecture. They work despite the lack of documentation. They work despite the old interface. They work because they have been adjusted over time, because teams have learned their behaviors, because business areas have developed mechanisms of coexistence, and because, in many cases, the organization knows how to deal better with known defects than with the unknown risks of a replacement.</p>
+<p>This point is often underestimated. In practice, legacy does not survive only because of negligence. <strong>It survives because it delivers value.</strong> It sustains revenue. It avoids interruptions. It preserves business rules. It keeps the operation moving. It carries accumulated knowledge. It guarantees predictability in environments where predictability is, many times, more important than technological elegance. This does not mean that it should remain untouched. It only means that treating it as “old software that needs to be replaced” is a dangerous simplification. Before deciding to modernize, it is necessary to understand what is being preserved.</p>
+<h2 id="dependency-is-harder-to-measure-than-obsolescence">
+  Dependency is harder to measure than obsolescence
+  <a class="heading-link" href="#dependency-is-harder-to-measure-than-obsolescence">
+    <i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"></i>
+    <span class="sr-only">Link to heading</span>
+  </a>
+</h2>
+<p>Technical obsolescence is usually visible. It is possible to list unsupported versions, discontinued technologies, known vulnerabilities, scarcity of professionals, infrastructure costs, and performance limitations. Organizational dependency is more subtle. It appears in questions such as: which areas stop if this system becomes unavailable? Which business decisions depend on rules implemented in this system? How many processes were adapted to its limitations? How many integrations depend on undocumented behaviors? Who really understands the complete functioning of the application? What is in the code, what is in people’s heads, and what exists only in daily practice? What part of the operation exists because this system shaped it over time?</p>
+<p>These questions move the analysis from the technological inventory to the sociotechnical diagnosis. It is not enough to know whether the technology is old. It is necessary to understand the degree of coupling between system, people, processes, and decisions. <strong>A system becomes legacy when its change requires much more than technical effort.</strong> It becomes legacy when the organization needs to negotiate with its own history in order to evolve.</p>
+<h2 id="modernization-begins-with-redefining-the-problem">
+  Modernization begins with redefining the problem
+  <a class="heading-link" href="#modernization-begins-with-redefining-the-problem">
+    <i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"></i>
+    <span class="sr-only">Link to heading</span>
+  </a>
+</h2>
+<p>Many modernization initiatives begin with an apparently objective question: “to which technology should we migrate?”. But, in deeply dependent systems, this may be the wrong question for the beginning of the conversation. Before talking about cloud, microservices, APIs, rewriting, refactoring, AI, automation, or platform replacement, the organization needs to answer previous questions: what does this system represent for the business? What dependencies does it concentrate? What risks are associated with its continuity? What risks are associated with its change? What knowledge needs to be recovered before any intervention? What must be preserved, what can be replaced, and what still needs to be understood?</p>
+<p>Modernization fails when it tries to solve with technology a problem that has not yet been correctly defined. If legacy is treated only as technological age, the natural answer will be to change technology. But, if legacy is understood as sociotechnical dependency, the answer needs to begin with diagnosis, understanding, reduction of uncertainty, and governance of change.</p>
+<h2 id="the-first-step-is-to-stop-calling-everything-old">
+  The first step is to stop calling everything old
+  <a class="heading-link" href="#the-first-step-is-to-stop-calling-everything-old">
+    <i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"></i>
+    <span class="sr-only">Link to heading</span>
+  </a>
+</h2>
+<p>Calling a system old may be technically correct, but it is rarely enough to guide a strategic decision. Old in relation to what? To the language? To the architecture? To the interface? To the operational model? To the ability to integrate? To the ease of hiring? To the organization’s risk tolerance? The word “legacy” needs to be used with more precision. Not every old system is an urgent problem. Not every modern system is free from becoming legacy. What matters is the combination of operational centrality, accumulated knowledge, difficulty of change, risk of interruption, and degree of entanglement with the organization.</p>
+<p>This distinction changes the conversation. Instead of asking only “when are we going to replace this system?”, perhaps the more mature question is: <strong>what dependencies do we need to understand before deciding what to do with it?</strong> Because modernizing without understanding dependencies may only replace a known problem with a new one, more expensive and less predictable.</p>
+<h2 id="closing">
+  Closing
+  <a class="heading-link" href="#closing">
+    <i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"></i>
+    <span class="sr-only">Link to heading</span>
+  </a>
+</h2>
+<p>The first article in this series begins with this shift in perspective: legacy systems should not be defined only by the age of the technology, but by the dependency they create and sustain. A legacy system may be old, but its age is only one part of the story. The central point is its structural function in the organization. It may be the silent foundation of critical processes, the informal repository of business rules, the living memory of accumulated decisions, and the invisible link between areas, people, and operations.</p>
+<p>That is why modernizing legacy systems requires more than choosing a new architecture. It requires understanding what keeps the organization running today, which risks have been normalized over time, and which dependencies need to be made explicit before any change can be safe.</p>
+<p>In the next article of the series, I will explore a direct consequence of this idea: <strong>legacy systems survive because they still matter</strong>.</p>
+<p>And perhaps that is exactly why modernizing them is so difficult.</p>
+
+      </div>
+
+
+      <footer>
+        
+
+<section class="see-also">
+  
+    
+    
+    
+      <h3 id="see-also-in-modernization">
+        See also in Modernization
+        <a class="heading-link" href="#see-also-in-modernization">
+          <i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"></i>
+          <span class="sr-only">Link to heading</span>
+        </a>
+      </h3>
+      <nav>
+        <ul>
+        
+        
+          
+            <li>
+              <a href="/posts/legacy-roadmap/a8-modernizing-is-not-replacing-technology/">Modernizing is not replacing technology. It is governing continuity</a>
+            </li>
+          
+        
+          
+            <li>
+              <a href="/posts/legacy-roadmap/a7-automate-understanding/">Before automating change, automate understanding</a>
+            </li>
+          
+        
+          
+            <li>
+              <a href="/posts/legacy-roadmap/a6-when-system-works/">When the system only works because someone still remembers</a>
+            </li>
+          
+        
+          
+            <li>
+              <a href="/posts/legacy-roadmap/a5-postponed-modernization-is-a-decision/">Postponed modernization is also a decision</a>
+            </li>
+          
+        
+          
+            <li>
+              <a href="/posts/legacy-roadmap/a4-when-software-becomes-organization/">When software becomes part of the organization</a>
+            </li>
+          
+        
+          
+            <li>
+              <a href="/posts/legacy-roadmap/a3-the-risk-of-changing-is-visible/">The risk of changing is visible. The risk of not changing is not always visible</a>
+            </li>
+          
+        
+        </ul>
+      </nav>
+    
+  
+</section>
+
+
+        
+        
+        
+        
+        
+        
+        
+      </footer>
+    </article>
+
+    
+  </section>
+
+    </div>
+
+    <footer class="footer">
+  <section class="container">
+    ©
+    
+      1977 -
+    
+    2026
+     Renato Teixeira 
+    ·
+    
+    Powered by <a href="https://gohugo.io/" target="_blank" rel="noopener">Hugo</a> & <a href="https://github.com/luizdepra/hugo-coder/" target="_blank" rel="noopener">Coder</a>.
+    
+  </section>
+</footer>
+
+  </main>
+
+  
+
+  
+  
+  <script src="/js/coder.js"></script>
+  
+
+  
+
+  
+
+  
+      <script async src="https://www.googletagmanager.com/gtag/js?id=G-8LNJPPKGJ1"></script>
+      <script>
+        var doNotTrack = false;
+        if ( true ) {
+          var dnt = (navigator.doNotTrack || window.doNotTrack || navigator.msDoNotTrack);
+          var doNotTrack = (dnt == "1" || dnt == "yes");
+        }
+        if (!doNotTrack) {
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+          gtag('config', 'G-8LNJPPKGJ1');
+        }
+      </script>
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+</body>
+
+</html>

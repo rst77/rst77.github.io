@@ -1,0 +1,468 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+  <title>
+  Evidência é necessária. Na engenharia de software, também é difícil. · RenatoTeixeira.com
+</title>
+  <meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="color-scheme" content="light dark">
+
+
+
+
+<meta name="author" content="Renato Teixeira">
+<meta name="description" content="Uma reflexão crítica sobre por que a engenharia de software precisa de mais evidência, menos hype e melhor julgamento por trás das decisões que moldam arquitetura, modernização e evolução de sistemas a longo prazo.">
+<meta name="keywords" content="blog,desenvolvedor,pessoal">
+
+
+
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="Evidência é necessária. Na engenharia de software, também é difícil.">
+  <meta name="twitter:description" content="Uma reflexão crítica sobre por que a engenharia de software precisa de mais evidência, menos hype e melhor julgamento por trás das decisões que moldam arquitetura, modernização e evolução de sistemas a longo prazo.">
+
+<meta property="og:url" content="http://localhost:1313/pt-br/posts/202605/evidence-is-necessary/">
+  <meta property="og:site_name" content="RenatoTeixeira.com">
+  <meta property="og:title" content="Evidência é necessária. Na engenharia de software, também é difícil.">
+  <meta property="og:description" content="Uma reflexão crítica sobre por que a engenharia de software precisa de mais evidência, menos hype e melhor julgamento por trás das decisões que moldam arquitetura, modernização e evolução de sistemas a longo prazo.">
+  <meta property="og:locale" content="pt_br">
+  <meta property="og:type" content="article">
+    <meta property="article:section" content="posts">
+    <meta property="article:published_time" content="2026-05-04T00:00:00+00:00">
+    <meta property="article:modified_time" content="2026-05-04T00:00:00+00:00">
+    <meta property="article:tag" content="LegacyModernization">
+    <meta property="article:tag" content="SoftwareArchitecture">
+    <meta property="article:tag" content="TechnologyDecisionMaking">
+    <meta property="article:tag" content="EvidenceBasedSoftwareEngineering">
+    <meta property="article:tag" content="SoftwareEngineering">
+      <meta property="og:see_also" content="http://localhost:1313/pt-br/posts/legacy-roadmap/a8-modernizing-is-not-replacing-technology/">
+      <meta property="og:see_also" content="http://localhost:1313/pt-br/posts/legacy-roadmap/a7-automate-understanding/">
+      <meta property="og:see_also" content="http://localhost:1313/pt-br/posts/legacy-roadmap/a6-when-system-works/">
+      <meta property="og:see_also" content="http://localhost:1313/pt-br/posts/legacy-roadmap/a5-postponed-modernization-is-a-decision/">
+      <meta property="og:see_also" content="http://localhost:1313/pt-br/posts/legacy-roadmap/a4-when-software-becomes-organization/">
+      <meta property="og:see_also" content="http://localhost:1313/pt-br/posts/legacy-roadmap/a3-the-risk-of-changing-is-visible/">
+      <meta property="og:see_also" content="http://localhost:1313/pt-br/posts/legacy-roadmap/a2-survive-because-matter/">
+
+
+
+
+<link rel="canonical" href="http://localhost:1313/pt-br/posts/202605/evidence-is-necessary/">
+
+
+<link rel="preload" href="/fonts/fa-brands-400.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="/fonts/fa-regular-400.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="/fonts/fa-solid-900.woff2" as="font" type="font/woff2" crossorigin>
+
+
+  
+  
+  <link rel="stylesheet" href="/css/coder.css" media="screen">
+
+
+
+
+
+
+  
+    
+    
+    <link rel="stylesheet" href="/css/coder-dark.css" media="screen">
+  
+
+
+
+ 
+
+
+
+
+<link rel="icon" type="image/svg+xml" href="/images/favicon.svg" sizes="any">
+<link rel="icon" type="image/png" href="/images/favicon-32x32.png" sizes="32x32">
+<link rel="icon" type="image/png" href="/images/favicon-16x16.png" sizes="16x16">
+
+<link rel="apple-touch-icon" href="/images/apple-touch-icon.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
+
+<link rel="manifest" href="/site.webmanifest">
+<link rel="mask-icon" href="/images/safari-pinned-tab.svg" color="#5bbad5">
+
+
+
+
+
+
+
+
+
+
+</head>
+
+
+
+
+
+
+<body class="preload-transitions colorscheme-dark">
+  
+<div class="float-container">
+    <a id="dark-mode-toggle" class="colorscheme-toggle">
+        <i class="fa-solid fa-adjust fa-fw" aria-hidden="true"></i>
+    </a>
+</div>
+
+
+  <main class="wrapper">
+    <nav class="navigation">
+  <section class="container">
+    
+    <a class="navigation-title" href="http://localhost:1313/pt-br/">
+      RenatoTeixeira.com
+    </a>
+    
+    
+      <input type="checkbox" id="menu-toggle" />
+      <label class="menu-button float-right" for="menu-toggle">
+        <i class="fa-solid fa-bars fa-fw" aria-hidden="true"></i>
+      </label>
+      <ul class="navigation-list">
+        
+          
+            <li class="navigation-item">
+              <a class="navigation-link " href="/pt-br/about/">Sobre</a>
+            </li>
+          
+            <li class="navigation-item">
+              <a class="navigation-link " href="/pt-br/posts/">Blog</a>
+            </li>
+          
+        
+        
+          
+          
+          
+            
+              
+                <li class="navigation-item menu-separator">
+                  <span>|</span>
+                </li>
+                
+              
+              <li class="navigation-item">
+                <a href="/posts/202605/evidence-is-necessary/">🇬🇧</a>
+              </li>
+            
+          
+        
+      </ul>
+    
+  </section>
+</nav>
+
+
+    <div class="content">
+      
+  <section class="container post">
+    <article>
+      <header>
+        <div class="post-title">
+          <h1 class="title">
+            <a class="title-link" href="http://localhost:1313/pt-br/posts/202605/evidence-is-necessary/">
+              Evidência é necessária. Na engenharia de software, também é difícil.
+            </a>
+          </h1>
+        </div>
+        <div class="post-meta">
+          <div class="date">
+            <span class="posted-on">
+              <i class="fa-solid fa-calendar" aria-hidden="true"></i>
+              <time datetime="2026-05-04T00:00:00Z">
+                maio 4, 2026
+              </time>
+            </span>
+            <span class="reading-time">
+              <i class="fa-solid fa-clock" aria-hidden="true"></i>
+              10 minutos de leitura
+            </span>
+          </div>
+          <div class="authors">
+  <i class="fa-solid fa-user" aria-hidden="true"></i>
+    <a href="/pt-br/authors/renato-teixeira/">Renato Teixeira</a></div>
+
+          <div class="categories">
+  <i class="fa-solid fa-folder" aria-hidden="true"></i>
+    <a href="/pt-br/categories/modernization/">Modernization</a></div>
+
+          <div class="tags">
+  <i class="fa-solid fa-tag" aria-hidden="true"></i>
+    <span class="tag">
+      <a href="/pt-br/tags/legacymodernization/">LegacyModernization</a>
+    </span>
+      <span class="separator">•</span>
+    <span class="tag">
+      <a href="/pt-br/tags/softwarearchitecture/">SoftwareArchitecture</a>
+    </span>
+      <span class="separator">•</span>
+    <span class="tag">
+      <a href="/pt-br/tags/technologydecisionmaking/">TechnologyDecisionMaking</a>
+    </span>
+      <span class="separator">•</span>
+    <span class="tag">
+      <a href="/pt-br/tags/evidencebasedsoftwareengineering/">EvidenceBasedSoftwareEngineering</a>
+    </span>
+      <span class="separator">•</span>
+    <span class="tag">
+      <a href="/pt-br/tags/softwareengineering/">SoftwareEngineering</a>
+    </span></div>
+
+        </div>
+      </header>
+
+      
+
+
+      <div class="post-content">
+        
+        <p><img src="/images/202605/ev.png" alt="image"></p>
+<p>No artigo anterior, defendi que a engenharia de software normalizou decisões importantes tomadas sobre bases frágeis demais. <strong>Hype, pressão de mercado, convicção pessoal, linguagem sofisticada e ansiedade por adoção</strong> ainda ocupam espaço demais em um campo que gosta de se apresentar como engenharia. Mas existe uma resposta fácil — e perigosa — para essa crítica: “então basta seguir a evidência”. Seria ótimo se fosse tão simples. Não é. E talvez uma das maiores maturidades que possamos desenvolver em engenharia de software seja justamente reconhecer essa tensão: <strong>precisamos de mais evidência, mas produzir, interpretar e aplicar evidência em software é muito mais difícil do que normalmente admitimos</strong>.</p>
+<p>Essa dificuldade não torna a evidência menos importante. <strong>Torna a nossa responsabilidade maior.</strong> A ideia de uma engenharia de software baseada em evidências nasce de uma analogia com a medicina baseada em evidências. Na medicina, um médico não decide apenas com base em intuição: ele deve combinar a melhor evidência disponível, sua experiência clínica e os valores e circunstâncias do paciente. Esse ponto é fundamental, porque o médico não se relaciona com a evidência de forma abstrata. Ele está diante de um paciente específico, com sintomas específicos, histórico específico, riscos específicos e valores próprios. A evidência importa, mas precisa ser interpretada à luz da realidade daquele paciente.</p>
+<p>Quando um médico conversa com outro médico, eles podem discutir estudos, tratamentos, efeitos, riscos e protocolos. Mas a decisão clínica não termina na conversa entre especialistas. Ela volta ao paciente. Em software, a situação é menos limpa. Quando decidimos adotar uma tecnologia, mudar uma arquitetura, introduzir um método de desenvolvimento ou modernizar um sistema legado, raramente existe um “paciente” único diante de nós. <strong>O paciente está distribuído:</strong> aparece nos desenvolvedores que terão que manter a solução, nos operadores que responderão pelos incidentes, nos clientes que sofrerão indisponibilidade, nas áreas de negócio que dependem do sistema, nos executivos que assumem o risco, nos orçamentos que serão consumidos e nos sistemas futuros que herdarão as consequências da decisão.</p>
+<p>Na medicina, o médico integra evidência à condição do paciente. Na engenharia de software, precisamos integrar evidência a um ecossistema de stakeholders, restrições, interesses, dependências e riscos. E isso muda tudo. Porque, se o paciente é distribuído, <strong>o risco também é distribuído. O custo é distribuído. A responsabilidade é distribuída. As consequências são distribuídas.</strong> Por isso, em software, não basta perguntar: <strong>“essa técnica funciona?”</strong> A pergunta real costuma ser mais desconfortável: <strong>“funciona para quem, em qual contexto, com qual equipe, sob quais restrições, durante quanto tempo e com quais efeitos colaterais?”</strong> Essa é uma pergunta muito mais difícil — e muito mais honesta.</p>
+<h2 id="o-primeiro-problema-software-depende-demais-de-habilidade-humana">
+  O primeiro problema: software depende demais de habilidade humana
+  <a class="heading-link" href="#o-primeiro-problema-software-depende-demais-de-habilidade-humana">
+    <i class="fa-solid fa-link" aria-hidden="true" title="Link para o cabeçalho"></i>
+    <span class="sr-only">Link para o cabeçalho</span>
+  </a>
+</h2>
+<p>Uma das dificuldades centrais da evidência em engenharia de software é que métodos, práticas e ferramentas raramente operam sozinhos. <strong>Eles dependem de pessoas.</strong> E pessoas não são variáveis simples. Pense em práticas como code review, TDD, pair programming, DevOps, arquitetura de microsserviços, observabilidade, refatoração, engenharia de plataformas ou modernização incremental. Nenhuma delas “funciona” no abstrato. Elas funcionam — ou falham — quando executadas por pessoas específicas, com níveis específicos de experiência, em equipes específicas, dentro de culturas específicas, sob pressões específicas.</p>
+<p>Isso significa que a mesma prática pode gerar resultados muito diferentes em contextos diferentes. Um time maduro pode usar microsserviços para aumentar autonomia, escalabilidade e velocidade de evolução. Outro time pode usar microsserviços para criar um monólito distribuído, mais caro, mais frágil e mais difícil de operar. <strong>A prática é a mesma. O resultado não é.</strong> O problema não está apenas na técnica. Está na combinação entre técnica, habilidade, contexto e execução. É aqui que muita discussão técnica se torna ingênua: perguntamos se determinada prática “é boa” ou “é ruim”, como se estivéssemos avaliando uma substância química com propriedades estáveis.</p>
+<p>Mas práticas de engenharia de software não se comportam assim. <strong>Uma prática pode ser poderosa em mãos maduras e perigosa em mãos despreparadas.</strong> Pode ser adequada em uma organização e desastrosa em outra. Pode resolver um problema local e criar um problema sistêmico. A habilidade humana não é detalhe; é parte do fenômeno. E isso torna a evidência mais difícil de produzir. Também torna a certeza mais suspeita.</p>
+<h2 id="o-segundo-problema-o-ciclo-de-vida-esconde-as-consequências">
+  O segundo problema: o ciclo de vida esconde as consequências
+  <a class="heading-link" href="#o-segundo-problema-o-ciclo-de-vida-esconde-as-consequ%c3%aancias">
+    <i class="fa-solid fa-link" aria-hidden="true" title="Link para o cabeçalho"></i>
+    <span class="sr-only">Link para o cabeçalho</span>
+  </a>
+</h2>
+<p>O segundo grande desafio é que, em software, muitas decisões só revelam suas consequências reais ao longo do tempo. Uma arquitetura pode parecer elegante no início. Um framework pode acelerar os primeiros meses. Um processo pode melhorar indicadores locais. Uma migração pode produzir ganhos imediatos. Uma ferramenta pode impressionar em uma prova de conceito. Mas <strong>software não vive em prova de conceito</strong>. Software vive em manutenção, integração, incidente, mudança de requisito, troca de equipe, orçamento reduzido, auditoria e operação contínua. É aí que muitas decisões mostram seu verdadeiro custo.</p>
+<p>Esse é um ponto crítico: <strong>uma técnica pode produzir um bom resultado imediato e ainda assim piorar o resultado final do sistema ao longo do ciclo de vida</strong>. O contrário também pode acontecer: uma decisão pode parecer mais lenta no início, mas preservar melhor a capacidade de evolução futura. Essa distância entre efeito imediato e consequência de longo prazo torna a evidência em software especialmente difícil. Como isolar o impacto de uma decisão arquitetural tomada hoje sobre a confiabilidade de um sistema daqui a dois anos? Como saber se o sucesso veio da ferramenta, da equipe, do contexto, da liderança, do investimento, da maturidade operacional ou simplesmente de uma combinação feliz de fatores?</p>
+<p>Em software, causalidade raramente aparece limpa. <strong>Ela vem misturada.</strong> E, quando a consequência finalmente aparece, muitas vezes já esquecemos a cadeia de decisões que a produziu. É por isso que tantas organizações aprendem mal com a própria experiência: elas lembram do resultado, mas não compreendem a dinâmica que levou até ele.</p>
+<h2 id="o-terceiro-problema-o-contexto-não-é-acessório">
+  O terceiro problema: o contexto não é acessório
+  <a class="heading-link" href="#o-terceiro-problema-o-contexto-n%c3%a3o-%c3%a9-acess%c3%b3rio">
+    <i class="fa-solid fa-link" aria-hidden="true" title="Link para o cabeçalho"></i>
+    <span class="sr-only">Link para o cabeçalho</span>
+  </a>
+</h2>
+<p>Existe uma frase implícita em muitas discussões técnicas que deveríamos abandonar: <strong>“funcionou lá, então deve funcionar aqui.”</strong> Essa frase é sedutora. Também é perigosa. Em engenharia de software, <strong>contexto não é cenário; contexto é parte da decisão</strong>. Uma prática que funcionou em uma big tech com times altamente especializados, autonomia organizacional, infraestrutura madura e cultura de engenharia consolidada pode não funcionar da mesma forma em uma empresa tradicional, com sistemas legados críticos, orçamento restrito, dependência de fornecedores e baixa tolerância a incidentes.</p>
+<p>Uma estratégia que fez sentido em um produto digital nativo pode ser inadequada para uma instituição financeira com décadas de integrações, restrições regulatórias e conhecimento de negócio distribuído em sistemas antigos. Uma tecnologia que brilhou em um laboratório pode falhar silenciosamente na operação. Isso não significa que não possamos aprender com outros contextos. Podemos e devemos. Mas <strong>aprender não é copiar. Aprender é traduzir.</strong> E tradução exige entendimento.</p>
+<p>O problema é que a indústria frequentemente confunde evidência com história de sucesso. Uma empresa apresenta um case. Um fornecedor transforma em narrativa. Um evento transforma em referência. Um mercado transforma em tendência. E, de repente, uma experiência altamente contextualizada vira prescrição universal. <strong>Isso não é evidência robusta. É storytelling com boa iluminação.</strong></p>
+<h2 id="o-quarto-problema-compartilhamos-melhor-sucessos-do-que-fracassos">
+  O quarto problema: compartilhamos melhor sucessos do que fracassos
+  <a class="heading-link" href="#o-quarto-problema-compartilhamos-melhor-sucessos-do-que-fracassos">
+    <i class="fa-solid fa-link" aria-hidden="true" title="Link para o cabeçalho"></i>
+    <span class="sr-only">Link para o cabeçalho</span>
+  </a>
+</h2>
+<p>Aqui existe uma diferença cultural importante. Na medicina, há mecanismos mais desenvolvidos para que eventos adversos, efeitos colaterais e falhas alimentem o corpo de conhecimento coletivo. A ideia não é apenas celebrar o tratamento que funcionou, mas aprender também com aquilo que produziu consequências inesperadas. Em software, fazemos o contrário com frequência: <strong>publicamos os sucessos, celebramos as migrações bem-sucedidas, mostramos a arquitetura final, apresentamos os ganhos e transformamos a jornada em palestra.</strong></p>
+<p>Mas os efeitos colaterais raramente aparecem com a mesma clareza. Poucas organizações contam em público que uma adoção tecnológica aumentou a complexidade operacional. Poucas explicam que a migração para uma nova arquitetura criou dependências invisíveis. Poucas admitem que uma ferramenta prometida como aceleradora passou a ser mais uma camada de lock-in. Poucas compartilham que uma modernização “bem-sucedida” transferiu custo para a manutenção futura. Não porque as pessoas sejam desonestas necessariamente, mas porque <strong>o mercado recompensa narrativas de sucesso</strong>. Fracassos são tratados como fraqueza competitiva, não como contribuição para o aprendizado coletivo.</p>
+<p>E isso empobrece a evidência disponível. Como campo, aprendemos demais com apresentações polidas e de menos com os efeitos colaterais reais das nossas decisões. Talvez a engenharia de software ainda precise aprender uma coisa simples: <strong>não existe maturidade coletiva sem memória compartilhada dos erros</strong>.</p>
+<h2 id="o-quinto-problema-evidência-não-substitui-julgamento">
+  O quinto problema: evidência não substitui julgamento
+  <a class="heading-link" href="#o-quinto-problema-evid%c3%aancia-n%c3%a3o-substitui-julgamento">
+    <i class="fa-solid fa-link" aria-hidden="true" title="Link para o cabeçalho"></i>
+    <span class="sr-only">Link para o cabeçalho</span>
+  </a>
+</h2>
+<p>Existe outro risco: transformar a defesa da evidência em uma nova forma de ingenuidade. <strong>Evidência não é oráculo.</strong> Ela não decide por nós, não elimina ambiguidade, não remove trade-offs, não torna contexto irrelevante e não transforma engenharia em receita. Uma decisão baseada em evidências não é uma decisão automática; é uma decisão mais responsável. A evidência ajuda a reduzir a arbitrariedade, qualificar a conversa, comparar alternativas, expor incertezas e separar conhecimento de preferência. Mas ainda precisamos julgar.</p>
+<p>E julgar bem exige aceitar que algumas decisões continuarão sendo tomadas sob incerteza. Isso não é falha. É a natureza do campo. A diferença é que existe uma distância enorme entre <strong>decidir sob incerteza</strong> e <strong>decidir sem fundamento</strong>. A primeira é inevitável. A segunda é negligência disfarçada de pragmatismo.</p>
+<h2 id="o-que-isso-significa-para-quem-está-começando">
+  O que isso significa para quem está começando
+  <a class="heading-link" href="#o-que-isso-significa-para-quem-est%c3%a1-come%c3%a7ando">
+    <i class="fa-solid fa-link" aria-hidden="true" title="Link para o cabeçalho"></i>
+    <span class="sr-only">Link para o cabeçalho</span>
+  </a>
+</h2>
+<p>Para iniciantes na área, essa discussão pode parecer abstrata. Não é. Ela aparece todos os dias em decisões simples: qual framework aprender, qual prática adotar no time, qual arquitetura defender, qual ferramenta recomendar, qual tendência seguir, qual legado criticar, qual solução considerar moderna. O conselho mais importante talvez seja este: <strong>desconfie de respostas muito rápidas para problemas muito contextuais</strong>.</p>
+<p>Quando alguém disser que uma prática é obviamente melhor, pergunte: <strong>melhor em que contexto?</strong> Quando alguém disser que uma tecnologia é o futuro, pergunte: <strong>o futuro de qual problema?</strong> Quando alguém disser que todo mundo está adotando, pergunte: <strong>com quais resultados?</strong> Quando alguém disser que isso é padrão de mercado, pergunte: <strong>com base em que evidência?</strong> Essas perguntas não tornam você menos prático. Tornam você menos manipulável. E, em uma indústria movida por narrativas fortes, isso é uma competência técnica importante.</p>
+<h2 id="a-dificuldade-da-evidência-não-é-desculpa">
+  A dificuldade da evidência não é desculpa
+  <a class="heading-link" href="#a-dificuldade-da-evid%c3%aancia-n%c3%a3o-%c3%a9-desculpa">
+    <i class="fa-solid fa-link" aria-hidden="true" title="Link para o cabeçalho"></i>
+    <span class="sr-only">Link para o cabeçalho</span>
+  </a>
+</h2>
+<p>O fato de evidência ser difícil em software não justifica decidir de qualquer jeito. Pelo contrário. Justamente porque evidência é difícil, deveríamos ser <strong>mais cuidadosos, mais explícitos sobre nossas premissas, mais honestos sobre nossas incertezas, mais críticos em relação a modismos, mais atentos aos efeitos de longo prazo, mais dispostos a aprender com falhas e mais rigorosos ao generalizar casos de sucesso</strong>.</p>
+<p>A alternativa à evidência imperfeita não deveria ser a convicção performática. Deveria ser uma prática de decisão mais humilde, mais estruturada e mais consciente. Talvez a maturidade em engenharia de software não esteja em fingir que sabemos com certeza o que funciona. Talvez esteja em <strong>construir melhores formas de perguntar, observar, comparar e decidir — mesmo quando a certeza continua parcial</strong>.</p>
+<p>Porque evidência em software é difícil. Mas decisões importantes sem evidência custam caro. E, no fim, talvez esse seja o ponto central:</p>
+<blockquote>
+<p><strong>Uma engenharia madura não é aquela que elimina a incerteza.</strong><br>
+<strong>É aquela que se recusa a usar a incerteza como desculpa para decidir mal.</strong></p>
+</blockquote>
+<br>
+<hr>
+<br>
+<p>Este artigo é baseado em <em>Evidence-Based Software Engineering</em>, de Barbara A. Kitchenham, Tore Dybå e Magne Jørgensen, apresentado na ICSE 2004. O artigo propõe que decisões em engenharia de software devem integrar a melhor evidência de pesquisa disponível, a experiência prática e os valores humanos, ao mesmo tempo em que reconhece as dificuldades específicas de produzir e aplicar evidências em contextos de software.</p>
+<p>Referência: Kitchenham, B. A., Dybå, T., &amp; Jørgensen, M. (2004). <em>Evidence-Based Software Engineering</em>. Proceedings of the 26th International Conference on Software Engineering (ICSE 2004). <a href="https://www.simula.no/research/evidence-based-software-engineering"  class="external-link" target="_blank" rel="noopener">https://www.simula.no/research/evidence-based-software-engineering</a></p>
+
+      </div>
+
+
+      <footer>
+        
+
+<section class="see-also">
+  
+    
+    
+    
+      <h3 id="veja-também-em-modernization">
+        Veja também em Modernization
+        <a class="heading-link" href="#veja-tamb%c3%a9m-em-modernization">
+          <i class="fa-solid fa-link" aria-hidden="true" title="Link para o cabeçalho"></i>
+          <span class="sr-only">Link para o cabeçalho</span>
+        </a>
+      </h3>
+      <nav>
+        <ul>
+        
+        
+          
+            <li>
+              <a href="/pt-br/posts/legacy-roadmap/a8-modernizing-is-not-replacing-technology/">Modernizar não é trocar tecnologia. É governar a continuidade</a>
+            </li>
+          
+        
+          
+            <li>
+              <a href="/pt-br/posts/legacy-roadmap/a7-automate-understanding/">Antes de automatizar a mudança, automatize o entendimento</a>
+            </li>
+          
+        
+          
+            <li>
+              <a href="/pt-br/posts/legacy-roadmap/a6-when-system-works/">Quando o sistema só funciona porque alguém ainda lembra</a>
+            </li>
+          
+        
+          
+            <li>
+              <a href="/pt-br/posts/legacy-roadmap/a5-postponed-modernization-is-a-decision/">Modernização adiada também é uma decisão</a>
+            </li>
+          
+        
+          
+            <li>
+              <a href="/pt-br/posts/legacy-roadmap/a4-when-software-becomes-organization/">Quando o software vira parte da organização</a>
+            </li>
+          
+        
+          
+            <li>
+              <a href="/pt-br/posts/legacy-roadmap/a3-the-risk-of-changing-is-visible/">O risco de mudar é visível. O risco de não mudar nem sempre é visível</a>
+            </li>
+          
+        
+        </ul>
+      </nav>
+    
+  
+</section>
+
+
+        
+        
+        
+        
+        
+        
+        
+      </footer>
+    </article>
+
+    
+  </section>
+
+    </div>
+
+    <footer class="footer">
+  <section class="container">
+    ©
+    
+      1977 -
+    
+    2026
+     Renato Teixeira 
+    ·
+    
+    Promovido por <a href="https://gohugo.io/" target="_blank" rel="noopener">Hugo</a> & <a href="https://github.com/luizdepra/hugo-coder/" target="_blank" rel="noopener">Coder</a>.
+    
+  </section>
+</footer>
+
+  </main>
+
+  
+
+  
+  
+  <script src="/js/coder.js"></script>
+  
+
+  
+
+  
+
+  
+      <script async src="https://www.googletagmanager.com/gtag/js?id=G-8LNJPPKGJ1"></script>
+      <script>
+        var doNotTrack = false;
+        if ( true ) {
+          var dnt = (navigator.doNotTrack || window.doNotTrack || navigator.msDoNotTrack);
+          var doNotTrack = (dnt == "1" || dnt == "yes");
+        }
+        if (!doNotTrack) {
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+          gtag('config', 'G-8LNJPPKGJ1');
+        }
+      </script>
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+</body>
+
+</html>

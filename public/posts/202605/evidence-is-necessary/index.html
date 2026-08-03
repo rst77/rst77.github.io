@@ -1,0 +1,468 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+  <title>
+  Evidence is necessary. In software engineering, it is also difficult · RenatoTeixeira.com
+</title>
+  <meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="color-scheme" content="light dark">
+
+
+
+
+<meta name="author" content="Renato Teixeira">
+<meta name="description" content="A reflection on the challenges and responsibilities of using evidence in software engineering.">
+<meta name="keywords" content="blog,developer,personal">
+
+
+
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="Evidence is necessary. In software engineering, it is also difficult">
+  <meta name="twitter:description" content="A reflection on the challenges and responsibilities of using evidence in software engineering.">
+
+<meta property="og:url" content="http://localhost:1313/posts/202605/evidence-is-necessary/">
+  <meta property="og:site_name" content="RenatoTeixeira.com">
+  <meta property="og:title" content="Evidence is necessary. In software engineering, it is also difficult">
+  <meta property="og:description" content="A reflection on the challenges and responsibilities of using evidence in software engineering.">
+  <meta property="og:locale" content="en">
+  <meta property="og:type" content="article">
+    <meta property="article:section" content="posts">
+    <meta property="article:published_time" content="2026-05-04T00:00:00+00:00">
+    <meta property="article:modified_time" content="2026-05-04T00:00:00+00:00">
+    <meta property="article:tag" content="LegacyModernization">
+    <meta property="article:tag" content="SoftwareArchitecture">
+    <meta property="article:tag" content="TechnologyDecisionMaking">
+    <meta property="article:tag" content="EvidenceBasedSoftwareEngineering">
+    <meta property="article:tag" content="SoftwareEngineering">
+      <meta property="og:see_also" content="http://localhost:1313/posts/legacy-roadmap/a8-modernizing-is-not-replacing-technology/">
+      <meta property="og:see_also" content="http://localhost:1313/posts/legacy-roadmap/a7-automate-understanding/">
+      <meta property="og:see_also" content="http://localhost:1313/posts/legacy-roadmap/a6-when-system-works/">
+      <meta property="og:see_also" content="http://localhost:1313/posts/legacy-roadmap/a5-postponed-modernization-is-a-decision/">
+      <meta property="og:see_also" content="http://localhost:1313/posts/legacy-roadmap/a4-when-software-becomes-organization/">
+      <meta property="og:see_also" content="http://localhost:1313/posts/legacy-roadmap/a3-the-risk-of-changing-is-visible/">
+      <meta property="og:see_also" content="http://localhost:1313/posts/legacy-roadmap/a2-survive-because-matter/">
+
+
+
+
+<link rel="canonical" href="http://localhost:1313/posts/202605/evidence-is-necessary/">
+
+
+<link rel="preload" href="/fonts/fa-brands-400.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="/fonts/fa-regular-400.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="/fonts/fa-solid-900.woff2" as="font" type="font/woff2" crossorigin>
+
+
+  
+  
+  <link rel="stylesheet" href="/css/coder.css" media="screen">
+
+
+
+
+
+
+  
+    
+    
+    <link rel="stylesheet" href="/css/coder-dark.css" media="screen">
+  
+
+
+
+ 
+
+
+
+
+<link rel="icon" type="image/svg+xml" href="/images/favicon.svg" sizes="any">
+<link rel="icon" type="image/png" href="/images/favicon-32x32.png" sizes="32x32">
+<link rel="icon" type="image/png" href="/images/favicon-16x16.png" sizes="16x16">
+
+<link rel="apple-touch-icon" href="/images/apple-touch-icon.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
+
+<link rel="manifest" href="/site.webmanifest">
+<link rel="mask-icon" href="/images/safari-pinned-tab.svg" color="#5bbad5">
+
+
+
+
+
+
+
+
+
+
+</head>
+
+
+
+
+
+
+<body class="preload-transitions colorscheme-dark">
+  
+<div class="float-container">
+    <a id="dark-mode-toggle" class="colorscheme-toggle">
+        <i class="fa-solid fa-adjust fa-fw" aria-hidden="true"></i>
+    </a>
+</div>
+
+
+  <main class="wrapper">
+    <nav class="navigation">
+  <section class="container">
+    
+    <a class="navigation-title" href="http://localhost:1313/">
+      RenatoTeixeira.com
+    </a>
+    
+    
+      <input type="checkbox" id="menu-toggle" />
+      <label class="menu-button float-right" for="menu-toggle">
+        <i class="fa-solid fa-bars fa-fw" aria-hidden="true"></i>
+      </label>
+      <ul class="navigation-list">
+        
+          
+            <li class="navigation-item">
+              <a class="navigation-link " href="/about/">About</a>
+            </li>
+          
+            <li class="navigation-item">
+              <a class="navigation-link " href="/posts/">Blog</a>
+            </li>
+          
+        
+        
+          
+          
+          
+            
+              
+                <li class="navigation-item menu-separator">
+                  <span>|</span>
+                </li>
+                
+              
+              <li class="navigation-item">
+                <a href="/pt-br/posts/202605/evidence-is-necessary/">🇧🇷</a>
+              </li>
+            
+          
+        
+      </ul>
+    
+  </section>
+</nav>
+
+
+    <div class="content">
+      
+  <section class="container post">
+    <article>
+      <header>
+        <div class="post-title">
+          <h1 class="title">
+            <a class="title-link" href="http://localhost:1313/posts/202605/evidence-is-necessary/">
+              Evidence is necessary. In software engineering, it is also difficult
+            </a>
+          </h1>
+        </div>
+        <div class="post-meta">
+          <div class="date">
+            <span class="posted-on">
+              <i class="fa-solid fa-calendar" aria-hidden="true"></i>
+              <time datetime="2026-05-04T00:00:00Z">
+                May 4, 2026
+              </time>
+            </span>
+            <span class="reading-time">
+              <i class="fa-solid fa-clock" aria-hidden="true"></i>
+              10-minute read
+            </span>
+          </div>
+          <div class="authors">
+  <i class="fa-solid fa-user" aria-hidden="true"></i>
+    <a href="/authors/renato-teixeira/">Renato Teixeira</a></div>
+
+          <div class="categories">
+  <i class="fa-solid fa-folder" aria-hidden="true"></i>
+    <a href="/categories/modernization/">Modernization</a></div>
+
+          <div class="tags">
+  <i class="fa-solid fa-tag" aria-hidden="true"></i>
+    <span class="tag">
+      <a href="/tags/legacymodernization/">LegacyModernization</a>
+    </span>
+      <span class="separator">•</span>
+    <span class="tag">
+      <a href="/tags/softwarearchitecture/">SoftwareArchitecture</a>
+    </span>
+      <span class="separator">•</span>
+    <span class="tag">
+      <a href="/tags/technologydecisionmaking/">TechnologyDecisionMaking</a>
+    </span>
+      <span class="separator">•</span>
+    <span class="tag">
+      <a href="/tags/evidencebasedsoftwareengineering/">EvidenceBasedSoftwareEngineering</a>
+    </span>
+      <span class="separator">•</span>
+    <span class="tag">
+      <a href="/tags/softwareengineering/">SoftwareEngineering</a>
+    </span></div>
+
+        </div>
+      </header>
+
+      
+
+
+      <div class="post-content">
+        
+        <p><img src="/images/202605/ev.png" alt="image"></p>
+<p>In the previous article, I argued that software engineering has normalized important decisions made on grounds that are far too fragile. <strong>Hype, market pressure, personal conviction, sophisticated language, and adoption anxiety</strong> still occupy too much space in a field that likes to present itself as engineering. But there is an easy — and dangerous — answer to this criticism: “then just follow the evidence.” It would be great if it were that simple. It is not. And perhaps one of the greatest forms of maturity we can develop in software engineering is precisely to recognize this tension: <strong>we need more evidence, but producing, interpreting, and applying evidence in software is much more difficult than we usually admit</strong>.</p>
+<p>This difficulty does not make evidence less important. <strong>It makes our responsibility greater.</strong> The idea of evidence-based software engineering comes from an analogy with evidence-based medicine. In medicine, a doctor does not decide only based on intuition: they must combine the best available evidence, their clinical experience, and the patient’s values and circumstances. This point is fundamental, because the doctor does not relate to evidence in an abstract way. They are facing a specific patient, with specific symptoms, a specific history, specific risks, and their own values. Evidence matters, but it needs to be interpreted in light of that patient’s reality.</p>
+<p>When one doctor talks to another doctor, they can discuss studies, treatments, effects, risks, and protocols. But the clinical decision does not end in the conversation between specialists. It returns to the patient. In software, the situation is less clean. When we decide to adopt a technology, change an architecture, introduce a development method, or modernize a legacy system, there is rarely a single “patient” in front of us. <strong>The patient is distributed:</strong> it appears in the developers who will have to maintain the solution, in the operators who will respond to incidents, in the customers who will suffer downtime, in the business areas that depend on the system, in the executives who assume the risk, in the budgets that will be consumed, and in the future systems that will inherit the consequences of the decision.</p>
+<p>In medicine, the doctor integrates evidence with the patient’s condition. In software engineering, we need to integrate evidence with an ecosystem of stakeholders, constraints, interests, dependencies, and risks. And that changes everything. Because if the patient is distributed, <strong>the risk is also distributed. The cost is distributed. The responsibility is distributed. The consequences are distributed.</strong> That is why, in software, it is not enough to ask: <strong>“does this technique work?”</strong> The real question is usually more uncomfortable: <strong>“does it work for whom, in which context, with which team, under which constraints, for how long, and with which side effects?”</strong> That is a much more difficult question — and a much more honest one.</p>
+<h2 id="the-first-problem-software-depends-too-much-on-human-skill">
+  The first problem: software depends too much on human skill
+  <a class="heading-link" href="#the-first-problem-software-depends-too-much-on-human-skill">
+    <i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"></i>
+    <span class="sr-only">Link to heading</span>
+  </a>
+</h2>
+<p>One of the central difficulties of evidence in software engineering is that methods, practices, and tools rarely operate on their own. <strong>They depend on people.</strong> And people are not simple variables. Think about practices such as code review, TDD, pair programming, DevOps, microservices architecture, observability, refactoring, platform engineering, or incremental modernization. None of them “works” in the abstract. They work — or fail — when executed by specific people, with specific levels of experience, in specific teams, inside specific cultures, under specific pressures.</p>
+<p>This means that the same practice can generate very different results in different contexts. A mature team can use microservices to increase autonomy, scalability, and speed of evolution. Another team can use microservices to create a distributed monolith, more expensive, more fragile, and harder to operate. <strong>The practice is the same. The result is not.</strong> The problem is not only in the technique. It is in the combination of technique, skill, context, and execution. This is where much of the technical discussion becomes naive: we ask whether a certain practice “is good” or “is bad,” as if we were evaluating a chemical substance with stable properties.</p>
+<p>But software engineering practices do not behave that way. <strong>A practice can be powerful in mature hands and dangerous in unprepared hands.</strong> It can be appropriate in one organization and disastrous in another. It can solve a local problem and create a systemic problem. Human skill is not a detail; it is part of the phenomenon. And that makes evidence harder to produce. It also makes certainty more suspicious.</p>
+<h2 id="the-second-problem-the-lifecycle-hides-the-consequences">
+  The second problem: the lifecycle hides the consequences
+  <a class="heading-link" href="#the-second-problem-the-lifecycle-hides-the-consequences">
+    <i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"></i>
+    <span class="sr-only">Link to heading</span>
+  </a>
+</h2>
+<p>The second major challenge is that, in software, many decisions only reveal their real consequences over time. An architecture may look elegant at the beginning. A framework may accelerate the first few months. A process may improve local indicators. A migration may produce immediate gains. A tool may impress in a proof of concept. But <strong>software does not live in a proof of concept</strong>. Software lives in maintenance, integration, incident response, requirement changes, team turnover, reduced budgets, audits, and continuous operation. That is where many decisions show their true cost.</p>
+<p>This is a critical point: <strong>a technique can produce a good immediate result and still worsen the final outcome of the system over the lifecycle</strong>. The opposite can also happen: a decision may seem slower at the beginning, but better preserve the ability for future evolution. This distance between immediate effect and long-term consequence makes evidence in software especially difficult. How do we isolate the impact of an architectural decision made today on the reliability of a system two years from now? How do we know whether success came from the tool, the team, the context, the leadership, the investment, the operational maturity, or simply from a fortunate combination of factors?</p>
+<p>In software, causality rarely appears clean. <strong>It comes mixed.</strong> And when the consequence finally appears, we often have already forgotten the chain of decisions that produced it. That is why so many organizations learn poorly from their own experience: they remember the result, but they do not understand the dynamics that led to it.</p>
+<h2 id="the-third-problem-context-is-not-accessory">
+  The third problem: context is not accessory
+  <a class="heading-link" href="#the-third-problem-context-is-not-accessory">
+    <i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"></i>
+    <span class="sr-only">Link to heading</span>
+  </a>
+</h2>
+<p>There is an implicit phrase in many technical discussions that we should abandon: <strong>“it worked there, so it should work here.”</strong> That phrase is seductive. It is also dangerous. In software engineering, <strong>context is not scenery; context is part of the decision</strong>. A practice that worked in a big tech company with highly specialized teams, organizational autonomy, mature infrastructure, and a consolidated engineering culture may not work the same way in a traditional company with critical legacy systems, restricted budget, supplier dependency, and low tolerance for incidents.</p>
+<p>A strategy that made sense in a native digital product may be inadequate for a financial institution with decades of integrations, regulatory constraints, and business knowledge distributed across old systems. A technology that shined in a laboratory may silently fail in operation. This does not mean we cannot learn from other contexts. We can and should. But <strong>learning is not copying. Learning is translating.</strong> And translation requires understanding.</p>
+<p>The problem is that the industry often confuses evidence with a success story. A company presents a case. A vendor turns it into a narrative. An event turns it into a reference. A market turns it into a trend. And suddenly, a highly contextualized experience becomes a universal prescription. <strong>This is not robust evidence. It is storytelling with good lighting.</strong></p>
+<h2 id="the-fourth-problem-we-share-successes-better-than-failures">
+  The fourth problem: we share successes better than failures
+  <a class="heading-link" href="#the-fourth-problem-we-share-successes-better-than-failures">
+    <i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"></i>
+    <span class="sr-only">Link to heading</span>
+  </a>
+</h2>
+<p>There is an important cultural difference here. In medicine, there are more developed mechanisms for adverse events, side effects, and failures to feed the body of collective knowledge. The idea is not only to celebrate the treatment that worked, but also to learn from what produced unexpected consequences. In software, we often do the opposite: <strong>we publish successes, celebrate successful migrations, show the final architecture, present the gains, and turn the journey into a talk.</strong></p>
+<p>But the side effects rarely appear with the same clarity. Few organizations publicly say that a technology adoption increased operational complexity. Few explain that migrating to a new architecture created invisible dependencies. Few admit that a tool promised as an accelerator became another layer of lock-in. Few share that a “successful” modernization transferred cost to future maintenance. Not because people are necessarily dishonest, but because <strong>the market rewards success narratives</strong>. Failures are treated as competitive weakness, not as a contribution to collective learning.</p>
+<p>And this impoverishes the available evidence. As a field, we learn too much from polished presentations and too little from the real side effects of our decisions. Perhaps software engineering still needs to learn one simple thing: <strong>there is no collective maturity without shared memory of mistakes</strong>.</p>
+<h2 id="the-fifth-problem-evidence-does-not-replace-judgment">
+  The fifth problem: evidence does not replace judgment
+  <a class="heading-link" href="#the-fifth-problem-evidence-does-not-replace-judgment">
+    <i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"></i>
+    <span class="sr-only">Link to heading</span>
+  </a>
+</h2>
+<p>There is another risk: turning the defense of evidence into a new form of naivety. <strong>Evidence is not an oracle.</strong> It does not decide for us, it does not eliminate ambiguity, it does not remove trade-offs, it does not make context irrelevant, and it does not turn engineering into a recipe. An evidence-based decision is not an automatic decision; it is a more responsible decision. Evidence helps reduce arbitrariness, qualify the conversation, compare alternatives, expose uncertainties, and separate knowledge from preference. But we still need to judge.</p>
+<p>And judging well requires accepting that some decisions will continue to be made under uncertainty. This is not a failure. It is the nature of the field. The difference is that there is an enormous distance between <strong>deciding under uncertainty</strong> and <strong>deciding without foundation</strong>. The first is inevitable. The second is negligence disguised as pragmatism.</p>
+<h2 id="what-this-means-for-those-starting-in-the-field">
+  What this means for those starting in the field
+  <a class="heading-link" href="#what-this-means-for-those-starting-in-the-field">
+    <i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"></i>
+    <span class="sr-only">Link to heading</span>
+  </a>
+</h2>
+<p>For beginners in the field, this discussion may seem abstract. It is not. It appears every day in simple decisions: which framework to learn, which practice to adopt in the team, which architecture to defend, which tool to recommend, which trend to follow, which legacy system to criticize, which solution to consider modern. Perhaps the most important advice is this: <strong>be suspicious of answers that are too fast for problems that are too contextual</strong>.</p>
+<p>When someone says that a practice is obviously better, ask: <strong>better in which context?</strong> When someone says that a technology is the future, ask: <strong>the future of which problem?</strong> When someone says that everyone is adopting it, ask: <strong>with which results?</strong> When someone says this is the market standard, ask: <strong>based on what evidence?</strong> These questions do not make you less practical. They make you less manipulable. And in an industry driven by strong narratives, this is an important technical competence.</p>
+<h2 id="the-difficulty-of-evidence-is-not-an-excuse">
+  The difficulty of evidence is not an excuse
+  <a class="heading-link" href="#the-difficulty-of-evidence-is-not-an-excuse">
+    <i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"></i>
+    <span class="sr-only">Link to heading</span>
+  </a>
+</h2>
+<p>The fact that evidence is difficult in software does not justify deciding any way we want. On the contrary. Precisely because evidence is difficult, we should be <strong>more careful, more explicit about our assumptions, more honest about our uncertainties, more critical of fads, more attentive to long-term effects, more willing to learn from failures, and more rigorous when generalizing success stories</strong>.</p>
+<p>The alternative to imperfect evidence should not be performative conviction. It should be a more humble, more structured, and more conscious decision-making practice. Perhaps maturity in software engineering is not about pretending that we know with certainty what works. Perhaps it is about <strong>building better ways to ask, observe, compare, and decide — even when certainty remains partial</strong>.</p>
+<p>Because evidence in software is difficult. But important decisions without evidence are costly. And, in the end, perhaps this is the central point:</p>
+<blockquote>
+<p><strong>A mature engineering discipline is not one that eliminates uncertainty.</strong><br>
+<strong>It is one that refuses to use uncertainty as an excuse to decide poorly.</strong></p>
+</blockquote>
+<br>
+<hr>
+<br>
+<p>This article is based on <em>Evidence-Based Software Engineering</em>, by Barbara A. Kitchenham, Tore Dybå, and Magne Jørgensen, presented at ICSE 2004. The paper proposes that software engineering decisions should integrate the best available research evidence, practical experience, and human values, while also recognizing the specific difficulties of producing and applying evidence in software contexts.</p>
+<p>Reference: <a href="https://www.simula.no/research/evidence-based-software-engineering"  class="external-link" target="_blank" rel="noopener">https://www.simula.no/research/evidence-based-software-engineering</a></p>
+
+      </div>
+
+
+      <footer>
+        
+
+<section class="see-also">
+  
+    
+    
+    
+      <h3 id="see-also-in-modernization">
+        See also in Modernization
+        <a class="heading-link" href="#see-also-in-modernization">
+          <i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"></i>
+          <span class="sr-only">Link to heading</span>
+        </a>
+      </h3>
+      <nav>
+        <ul>
+        
+        
+          
+            <li>
+              <a href="/posts/legacy-roadmap/a8-modernizing-is-not-replacing-technology/">Modernizing is not replacing technology. It is governing continuity</a>
+            </li>
+          
+        
+          
+            <li>
+              <a href="/posts/legacy-roadmap/a7-automate-understanding/">Before automating change, automate understanding</a>
+            </li>
+          
+        
+          
+            <li>
+              <a href="/posts/legacy-roadmap/a6-when-system-works/">When the system only works because someone still remembers</a>
+            </li>
+          
+        
+          
+            <li>
+              <a href="/posts/legacy-roadmap/a5-postponed-modernization-is-a-decision/">Postponed modernization is also a decision</a>
+            </li>
+          
+        
+          
+            <li>
+              <a href="/posts/legacy-roadmap/a4-when-software-becomes-organization/">When software becomes part of the organization</a>
+            </li>
+          
+        
+          
+            <li>
+              <a href="/posts/legacy-roadmap/a3-the-risk-of-changing-is-visible/">The risk of changing is visible. The risk of not changing is not always visible</a>
+            </li>
+          
+        
+        </ul>
+      </nav>
+    
+  
+</section>
+
+
+        
+        
+        
+        
+        
+        
+        
+      </footer>
+    </article>
+
+    
+  </section>
+
+    </div>
+
+    <footer class="footer">
+  <section class="container">
+    ©
+    
+      1977 -
+    
+    2026
+     Renato Teixeira 
+    ·
+    
+    Powered by <a href="https://gohugo.io/" target="_blank" rel="noopener">Hugo</a> & <a href="https://github.com/luizdepra/hugo-coder/" target="_blank" rel="noopener">Coder</a>.
+    
+  </section>
+</footer>
+
+  </main>
+
+  
+
+  
+  
+  <script src="/js/coder.js"></script>
+  
+
+  
+
+  
+
+  
+      <script async src="https://www.googletagmanager.com/gtag/js?id=G-8LNJPPKGJ1"></script>
+      <script>
+        var doNotTrack = false;
+        if ( true ) {
+          var dnt = (navigator.doNotTrack || window.doNotTrack || navigator.msDoNotTrack);
+          var doNotTrack = (dnt == "1" || dnt == "yes");
+        }
+        if (!doNotTrack) {
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+          gtag('config', 'G-8LNJPPKGJ1');
+        }
+      </script>
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+</body>
+
+</html>

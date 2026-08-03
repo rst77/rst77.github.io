@@ -6,8 +6,64 @@
     <description>Recent content in Tags on RenatoTeixeira.com</description>
     <generator>Hugo</generator>
     <language>pt-br</language>
-    <lastBuildDate>Wed, 08 Jul 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 01 Aug 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/pt-br/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Community</title>
+      <link>http://localhost:1313/pt-br/tags/community/</link>
+      <pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/pt-br/tags/community/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ecosystem</title>
+      <link>http://localhost:1313/pt-br/tags/ecosystem/</link>
+      <pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/pt-br/tags/ecosystem/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>History</title>
+      <link>http://localhost:1313/pt-br/tags/history/</link>
+      <pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/pt-br/tags/history/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Java</title>
+      <link>http://localhost:1313/pt-br/tags/java/</link>
+      <pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/pt-br/tags/java/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>OpenSource</title>
+      <link>http://localhost:1313/pt-br/tags/opensource/</link>
+      <pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/pt-br/tags/opensource/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Programming</title>
+      <link>http://localhost:1313/pt-br/tags/programming/</link>
+      <pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/pt-br/tags/programming/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>SoftwareEngineering</title>
+      <link>http://localhost:1313/pt-br/tags/softwareengineering/</link>
+      <pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/pt-br/tags/softwareengineering/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Technology</title>
+      <link>http://localhost:1313/pt-br/tags/technology/</link>
+      <pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/pt-br/tags/technology/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Academia</title>
       <link>http://localhost:1313/pt-br/tags/academia/</link>
@@ -69,13 +125,6 @@
       <link>http://localhost:1313/pt-br/tags/softwarearchitecture/</link>
       <pubDate>Fri, 03 Jul 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/pt-br/tags/softwarearchitecture/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>SoftwareEngineering</title>
-      <link>http://localhost:1313/pt-br/tags/softwareengineering/</link>
-      <pubDate>Fri, 03 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/pt-br/tags/softwareengineering/</guid>
       <description></description>
     </item>
     <item>
