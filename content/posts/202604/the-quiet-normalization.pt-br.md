@@ -2,7 +2,7 @@
 authors = ["Renato Teixeira"]
 title = "A normalização silenciosa de decisões sem fundamento na engenharia de software"
 date = "2026-04-24"
-description = "Uma reflexão crítica sobre por que a engenharia de software precisa de mais evidência, menos hype e melhor julgamento por trás das decisões que moldam arquitetura, modernização e evolução de sistemas a longo prazo."
+description = "Uma reflexão crítica sobre por que a engenharia de software aceita decisões de arquitetura sem fundamentação empírica e os custos dessa prática."
 tags = [
     "LegacyModernization",
     "SoftwareArchitecture",

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>OUGPY on RenatoTeixeira.com</title>
-    <link>http://localhost:1313/pt-br/tags/ougpy/</link>
+    <link>https://www.renatoteixeira.com/pt-br/tags/ougpy/</link>
     <description>Recent content in OUGPY on RenatoTeixeira.com</description>
     <generator>Hugo</generator>
     <language>pt-br</language>
     <lastBuildDate>Wed, 10 Jun 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/pt-br/tags/ougpy/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.renatoteixeira.com/pt-br/tags/ougpy/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Aula Magna na Universidade Columbia do Paraguai</title>
-      <link>http://localhost:1313/pt-br/posts/202606/aula-magna-ucpy/</link>
+      <link>https://www.renatoteixeira.com/pt-br/posts/202606/aula-magna-ucpy/</link>
       <pubDate>Wed, 10 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/pt-br/posts/202606/aula-magna-ucpy/</guid>
+      <guid>https://www.renatoteixeira.com/pt-br/posts/202606/aula-magna-ucpy/</guid>
       <description>&lt;p&gt;No dia 10 de junho de 2026, tive a honra de ministrar a Aula Magna na Universidad Columbia del Paraguay, compartilhando uma reflexão sobre o futuro do engenheiro de software na era da IA.&lt;/p&gt;&#xA;&lt;p&gt;Foi um grande prazer trocar experiências com estudantes e profissionais de tecnologia em um momento tão importante para a nossa indústria.&lt;/p&gt;&#xA;&lt;p&gt;Meu agradecimento ao Reitor José Alfredo Souberlich Roman, da Universidad Columbia del Paraguay, e ao OUGPY | Oracle User Group Paraguay pelo convite, pela excelente organização e pela calorosa recepção.&lt;/p&gt;</description>
     </item>
   </channel>

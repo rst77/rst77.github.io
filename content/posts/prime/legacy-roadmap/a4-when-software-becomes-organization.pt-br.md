@@ -2,7 +2,7 @@
 authors = ["Renato Teixeira"]
 title = "Quando o software vira parte da organização"
 date = "2026-06-05"
-description = "Quando um sistema legado deixa de ser apenas um aplicativo e começa a moldar processos, decisões e rotinas, a modernização se torna uma intervenção organizacional. Entender essa dinâmica é essencial para navegar em transformações que vão além do código."
+description = "Parte 4 da série O Mapa do Legado: examinando como o software legado se enraíza nas rotinas organizacionais e molda os processos de negócio."
 tags = [
     "LegacyModernization",
     "SoftwareArchitecture",
@@ -16,7 +16,7 @@ categories = [
 series = ["Modernization"]
 +++
 
-![image](/images/ml/part4.jpg)
+![Quando o software vira parte da organização](/images/ml/part4.jpg)
 
 *Série: O Mapa do Legado — Parte 4*
 

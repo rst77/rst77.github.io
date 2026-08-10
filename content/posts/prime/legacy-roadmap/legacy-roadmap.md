@@ -16,7 +16,7 @@ categories = [
 series = ["Modernization"]
 +++
 
-![image](/images/ml/roadmap.png)
+![O Mapa do Legado - Arcabouço Sociotécnico para Tomada de Decisão](/images/ml/roadmap.png)
 
 
 On **April 29, 2026**, my master’s dissertation was approved by the academic committee. The work is titled **“Legacy Roadmap: A Sociotechnical Framework for Decision-Making in Legacy System Modernization in Latin America.”** Now, I want to do something I consider as important as completing the research itself: turning part of this knowledge into a more accessible conversation for those who live technology in practice.

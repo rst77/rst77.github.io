@@ -2,7 +2,7 @@
 authors = ["Renato Teixeira"]
 title = "O Legado Não Acontece por Acaso: O Que Lehman Ainda Nos Ensina Sobre Evolução de Software"
 date = "2026-04-14"
-description = "Uma análise estratégica das Leis de Evolução de Software de Lehman, ressignificando sistemas legados não como acidentes, mas como resultado inevitável de adaptação bem-sucedida que exige disciplina estrutural contínua."
+description = "Análise estratégica das Leis de Evolução de Software de Lehman, explicando por que o débito técnico de legados se acumula sem governança contínua."
 tags = [
     "LegacyModernization",
     "EnterpriseArchitecture",

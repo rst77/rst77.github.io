@@ -16,7 +16,7 @@ categories = [
 series = ["Modernization"]
 +++
 
-![image](/images/ml/part7.jpg)
+![Antes de automatizar a mudança automatize o entendimento](/images/ml/part7.jpg)
 
 *Série: O Mapa do Legado — Parte 7*
 

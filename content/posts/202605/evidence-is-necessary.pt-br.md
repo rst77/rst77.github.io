@@ -2,7 +2,7 @@
 authors = ["Renato Teixeira"]
 title = "Evidência é necessária. Na engenharia de software, também é difícil."
 date = "2026-05-04"
-description = "Uma reflexão crítica sobre por que a engenharia de software precisa de mais evidência, menos hype e melhor julgamento por trás das decisões que moldam arquitetura, modernização e evolução de sistemas a longo prazo."
+description = "Reflexão crítica sobre Engenharia de Software Baseada em Evidências e o desafio de aplicar pesquisas científicas em decisões tecnológicas reais."
 tags = [
     "LegacyModernization",
     "SoftwareArchitecture",
@@ -16,7 +16,7 @@ categories = [
 series = ["Modernization"]
 +++
 
-![image](/images/202605/ev.png)
+![Conceito de Engenharia de Software Baseada em Evidências](/images/202605/ev.png)
 
 No artigo anterior, defendi que a engenharia de software normalizou decisões importantes tomadas sobre bases frágeis demais. **Hype, pressão de mercado, convicção pessoal, linguagem sofisticada e ansiedade por adoção** ainda ocupam espaço demais em um campo que gosta de se apresentar como engenharia. Mas existe uma resposta fácil — e perigosa — para essa crítica: “então basta seguir a evidência”. Seria ótimo se fosse tão simples. Não é. E talvez uma das maiores maturidades que possamos desenvolver em engenharia de software seja justamente reconhecer essa tensão: **precisamos de mais evidência, mas produzir, interpretar e aplicar evidência em software é muito mais difícil do que normalmente admitimos**.
 

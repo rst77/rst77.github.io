@@ -2,7 +2,7 @@
 authors = ["Renato Teixeira"]
 title = "The Java Story"
 date = "2026-08-01"
-description = "A reflection on the Java journey"
+description = "A strategic reflection on 30 years of Java, exploring its evolution, enterprise ecosystem dominance, and lessons for software longevity."
 tags = [
     "Java",
     "Programming",

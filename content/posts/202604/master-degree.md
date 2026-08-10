@@ -2,7 +2,7 @@
 authors = ["Renato Teixeira"]
 title = "Master's Dissertation"
 date = "2026-04-29"
-description = ""
+description = "Renato Teixeira defends his Master's dissertation on Legacy Roadmap: A Sociotechnical Framework for Legacy System Modernization in Latin America at UTFPR."
 tags = [
     "LegacyModernization",
     "EnterpriseArchitecture",
@@ -25,7 +25,8 @@ I close this chapter with deep gratitude to everyone who was part of this path, 
 
 And after this journey… who knows, maybe in a few years I will be back here to share the next milestone: a PhD graduation.
 
-![image](/images/master/foto0r.jpg)
-![image](/images/master/foto1r.jpg)
-![image](/images/master/foto2r.jpg)
-![image](/images/master/foto3r.jpg)
+![Defesa da dissertação de mestrado](/images/master/foto0r.jpg)
+![Apresentação da pesquisa sobre modernização de legados](/images/master/foto1r.jpg)
+![Banca examinadora da dissertação de mestrado](/images/master/foto2r.jpg)
+![Renato Teixeira e professores da banca](/images/master/foto3r.jpg)
+

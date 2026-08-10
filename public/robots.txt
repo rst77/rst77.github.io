@@ -1,0 +1,14 @@
+User-agent: *
+Allow: /
+
+# Disallow low-value taxonomy and term listing pages to preserve crawl budget
+Disallow: /tags/
+Disallow: /pt-br/tags/
+Disallow: /categories/
+Disallow: /pt-br/categories/
+Disallow: /series/
+Disallow: /pt-br/series/
+Disallow: /authors/
+Disallow: /pt-br/authors/
+
+Sitemap: https://www.renatoteixeira.com/sitemap.xml

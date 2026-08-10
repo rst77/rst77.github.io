@@ -2,7 +2,7 @@
 authors = ["Renato Teixeira"]
 title = "O Futuro dos Ativos Digitais: Insights do Evento da Cavapy & Excelsis"
 date = "2026-06-09"
-description = ""
+description = "Insights e reflexões do fórum Cavapy & Excelsis no Paraguai sobre o futuro dos ativos digitais, inovação em fintechs e adoção de tecnologia blockchain."
 tags = [
     "DigitalAssets",
     "Blockchain",
@@ -25,6 +25,7 @@ Nesse contexto, a Oracle desempenha um papel fundamental ao fornecer a infraestr
 
 Agradeço aos organizadores e ao Giuliano Aversano pelo convite e pela oportunidade de compartilhar perspectivas sobre um tema tão relevante para o futuro dos mercados digitais.
 
-![image](/images/202606/cvpy1.jpg)
-![image](/images/202606/cvpy2.jpg)
-![image](/images/202606/cvpy3.jpg)
+![Painel sobre o futuro dos ativos digitais e blockchain no evento Cavapy & Excelsis](/images/202606/cvpy1.jpg)
+![Renato Teixeira discursando no evento Cavapy sobre inovação financeira em fintechs](/images/202606/cvpy2.jpg)
+![Participantes e palestrantes do fórum de ativos digitais no Paraguai](/images/202606/cvpy3.jpg)
+

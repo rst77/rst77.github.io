@@ -2,7 +2,7 @@
 authors = ["Renato Teixeira"]
 title = "Evidence is necessary. In software engineering, it is also difficult"
 date = "2026-05-04"
-description = "A reflection on the challenges and responsibilities of using evidence in software engineering."
+description = "A critical reflection on evidence-based software engineering and the responsibility of applying academic research to real-world technology decisions."
 tags = [
     "LegacyModernization",
     "SoftwareArchitecture",
@@ -16,7 +16,8 @@ categories = [
 series = ["Modernization"]
 +++
 
-![image](/images/202605/ev.png)
+![Conceito de Engenharia de Software Baseada em Evidências](/images/202605/ev.png)
+
 
 In the previous article, I argued that software engineering has normalized important decisions made on grounds that are far too fragile. **Hype, market pressure, personal conviction, sophisticated language, and adoption anxiety** still occupy too much space in a field that likes to present itself as engineering. But there is an easy — and dangerous — answer to this criticism: “then just follow the evidence.” It would be great if it were that simple. It is not. And perhaps one of the greatest forms of maturity we can develop in software engineering is precisely to recognize this tension: **we need more evidence, but producing, interpreting, and applying evidence in software is much more difficult than we usually admit**.
 

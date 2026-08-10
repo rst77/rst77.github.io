@@ -2,7 +2,7 @@
 authors = ["Renato Teixeira"]
 title = "Aula Magna na Universidade Columbia do Paraguai"
 date = "2026-06-10"
-description = ""
+description = "Renato Teixeira profere a Aula Magna de abertura do ano letivo na Universidad Columbia del Paraguay, abordando o futuro do engenheiro de software na era da IA."
 tags = [
     "ArtificialIntelligence",
     "EnterpriseArchitecture",
@@ -25,6 +25,7 @@ Meu agradecimento ao Reitor José Alfredo Souberlich Roman, da Universidad Colum
 
 Obrigado a todos que participaram e contribuíram para uma conversa tão enriquecedora.
 
-![image](/images/202606/ucpy1.jpg)
-![image](/images/202606/ucpy2.jpg)
-![image](/images/202606/ucpy3.jpg)
+![Palestra Aula Magna sobre o futuro da engenharia de software na era da IA na UCPY](/images/202606/ucpy1.jpg)
+![Renato Teixeira apresentando palestra na Universidad Columbia del Paraguay](/images/202606/ucpy2.jpg)
+![Estudantes e profissionais participando da Aula Magna na UCPY](/images/202606/ucpy3.jpg)
+

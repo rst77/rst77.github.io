@@ -2,7 +2,7 @@
 authors = ["Renato Teixeira"]
 title = "Novo Desafio: Doutorado em Ciência da Computação"
 date = "2026-07-08"
-description = ""
+description = "Renato Teixeira inicia o Doutorado em Ciência da Computação na UEM, aprofundando pesquisas em modernização de sistemas legados de missão crítica."
 tags = [
     "ComputerScience",
     "Academia",
@@ -25,5 +25,6 @@ Inicio agora uma nova jornada acadêmica: ingresso no Doutorado em Ciência da C
 
 Que venha essa nova fase!
 
-![image](/images/form.png)
+![Comprovante de aprovação no Doutorado em Ciência da Computação na UEM](/images/form.png)
+
 

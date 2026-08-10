@@ -2,7 +2,7 @@
 authors = ["Renato Teixeira"]
 title = "Legacy systems survive because they still matter"
 date = "2026-05-22"
-description = "If legacy systems are defined by the dependency they create and sustain, then we need to face an uncomfortable conclusion: **many legacy systems survive because they still matter**. They do not remain only because of delay, neglect, conservatism, or technical incapacity. Many times, they remain because they still deliver value, sustain critical processes, preserve business rules, guarantee predictability, and carry part of the organization’s operational memory."
+description = "Part 2 of The Legacy Roadmap series: exploring why legacy systems survive because they continue delivering critical business value and operational memory."
 tags = [
     "LegacyModernization",
     "SoftwareArchitecture",
@@ -16,7 +16,8 @@ categories = [
 series = ["Modernization"]
 +++
 
-![image](/images/ml/part2.png)
+![Sistemas legados sobrevivem porque ainda importam - Mapa do Legado Parte 2](/images/ml/part2.png)
+
 
 *Series: The Legacy Roadmap — Part 2*
 

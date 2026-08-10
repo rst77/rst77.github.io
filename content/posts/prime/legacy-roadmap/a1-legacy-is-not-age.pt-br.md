@@ -2,7 +2,7 @@
 authors = ["Renato Teixeira"]
 title = "Legado não é idade. É dependência."
 date = "2026-05-15"
-description = "Este artigo desafia a ideia simplista de que sistemas legados são definidos por idade ou tecnologia desatualizada. Ele argumenta que legado é melhor entendido como dependência: o grau em que um sistema sustenta as operações de negócios, concentra conhecimento crítico, molda processos organizacionais e torna a mudança arriscada. O artigo abre a série *The Legacy Roadmap* ao reformular a modernização como uma decisão sociotécnica, não meramente uma substituição de tecnologia."
+description = "Parte 1 da série O Mapa do Legado: desafiando o mito de que legado é definido por idade e demonstrando que legado é fundamentalmente dependência."
 tags = [
     "LegacyModernization",
     "SoftwareArchitecture",
@@ -16,7 +16,8 @@ categories = [
 series = ["Modernization"]
 +++
 
-![image](/images/ml/part1.png)
+![Legado não é idade é dependência - Mapa do Legado Parte 1](/images/ml/part1.png)
+
 
 *Série: O Mapa do Legado — Parte 1*
 

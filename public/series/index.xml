@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Series on RenatoTeixeira.com</title>
-    <link>http://localhost:1313/series/</link>
+    <link>https://www.renatoteixeira.com/series/</link>
     <description>Recent content in Series on RenatoTeixeira.com</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Sat, 01 Aug 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/series/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.renatoteixeira.com/series/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>TechChronicles</title>
-      <link>http://localhost:1313/series/techchronicles/</link>
+      <link>https://www.renatoteixeira.com/series/techchronicles/</link>
       <pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/series/techchronicles/</guid>
+      <guid>https://www.renatoteixeira.com/series/techchronicles/</guid>
       <description></description>
     </item>
     <item>
       <title>Education</title>
-      <link>http://localhost:1313/series/education/</link>
+      <link>https://www.renatoteixeira.com/series/education/</link>
       <pubDate>Wed, 08 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/series/education/</guid>
+      <guid>https://www.renatoteixeira.com/series/education/</guid>
       <description></description>
     </item>
     <item>
       <title>Modernization</title>
-      <link>http://localhost:1313/series/modernization/</link>
+      <link>https://www.renatoteixeira.com/series/modernization/</link>
       <pubDate>Fri, 03 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/series/modernization/</guid>
+      <guid>https://www.renatoteixeira.com/series/modernization/</guid>
       <description></description>
     </item>
     <item>
       <title>Speach</title>
-      <link>http://localhost:1313/series/speach/</link>
+      <link>https://www.renatoteixeira.com/series/speach/</link>
       <pubDate>Tue, 09 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/series/speach/</guid>
+      <guid>https://www.renatoteixeira.com/series/speach/</guid>
       <description></description>
     </item>
   </channel>

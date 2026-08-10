@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Education on RenatoTeixeira.com</title>
-    <link>http://localhost:1313/pt-br/tags/education/</link>
+    <link>https://www.renatoteixeira.com/pt-br/tags/education/</link>
     <description>Recent content in Education on RenatoTeixeira.com</description>
     <generator>Hugo</generator>
     <language>pt-br</language>
     <lastBuildDate>Wed, 08 Jul 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/pt-br/tags/education/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.renatoteixeira.com/pt-br/tags/education/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Novo Desafio: Doutorado em Ciência da Computação</title>
-      <link>http://localhost:1313/pt-br/posts/202607/new-challenge/</link>
+      <link>https://www.renatoteixeira.com/pt-br/posts/202607/new-challenge/</link>
       <pubDate>Wed, 08 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/pt-br/posts/202607/new-challenge/</guid>
-      <description>&lt;p&gt;Alguns sonhos demoram a acontecer. Mas, quando acontecem, chegam com um sabor especial.&lt;/p&gt;&#xA;&lt;p&gt;Inicio agora uma nova jornada acadêmica: ingresso no Doutorado em Ciência da Computação na Universidade Estadual de Maringá (UEM).&lt;/p&gt;&#xA;&lt;p&gt;É uma etapa que me anima profundamente e, ao mesmo tempo, me desafia a seguir aprendendo, pesquisando e contribuindo para a área que escolhi trilhar.&lt;/p&gt;&#xA;&lt;p&gt;Que venha essa nova fase!&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/form.png&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;</description>
+      <guid>https://www.renatoteixeira.com/pt-br/posts/202607/new-challenge/</guid>
+      <description>&lt;p&gt;Alguns sonhos demoram a acontecer. Mas, quando acontecem, chegam com um sabor especial.&lt;/p&gt;&#xA;&lt;p&gt;Inicio agora uma nova jornada acadêmica: ingresso no Doutorado em Ciência da Computação na Universidade Estadual de Maringá (UEM).&lt;/p&gt;&#xA;&lt;p&gt;É uma etapa que me anima profundamente e, ao mesmo tempo, me desafia a seguir aprendendo, pesquisando e contribuindo para a área que escolhi trilhar.&lt;/p&gt;&#xA;&lt;p&gt;Que venha essa nova fase!&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://www.renatoteixeira.com/images/form.png&#34; alt=&#34;Comprovante de aprovação no Doutorado em Ciência da Computação na UEM&#34;&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

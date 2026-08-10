@@ -1,9 +1,10 @@
-baseURL = "http://www.renatoteixeira.com"
+baseURL = "https://www.renatoteixeira.com/"
 title = "RenatoTeixeira.com"
 theme = "hugo-coder"
 languageCode = "en"
 defaultContentLanguage = "en"
 enableEmoji = true
+enableRobotsTXT = true
 
 [pagination]
 pagerSize = 12

@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Paraguay on RenatoTeixeira.com</title>
-    <link>http://localhost:1313/tags/paraguay/</link>
+    <link>https://www.renatoteixeira.com/tags/paraguay/</link>
     <description>Recent content in Paraguay on RenatoTeixeira.com</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Wed, 10 Jun 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/paraguay/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.renatoteixeira.com/tags/paraguay/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Aula Magna at Universidad Columbia del Paraguay</title>
-      <link>http://localhost:1313/posts/202606/aula-magna-ucpy/</link>
+      <link>https://www.renatoteixeira.com/posts/202606/aula-magna-ucpy/</link>
       <pubDate>Wed, 10 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/202606/aula-magna-ucpy/</guid>
+      <guid>https://www.renatoteixeira.com/posts/202606/aula-magna-ucpy/</guid>
       <description>&lt;p&gt;On June 10, 2026, I had the honor of delivering the Aula Magna at Universidad Columbia del Paraguay, sharing a reflection on the future of the software engineer in the age of AI.&lt;/p&gt;&#xA;&lt;p&gt;It was a great pleasure to exchange experiences with technology students and professionals at such an important moment for our industry.&lt;/p&gt;&#xA;&lt;p&gt;My thanks to Dean José Alfredo Souberlich Roman, Universidad Columbia del Paraguay, and OUGPY | Oracle User Group Paraguay for the invitation, the excellent organization, and the warm welcome.&lt;/p&gt;</description>
     </item>
     <item>
       <title>The Future of Digital Assets: Insights from the Cavapy &amp; Excelsis Event</title>
-      <link>http://localhost:1313/posts/202606/digital-assets-cavapy/</link>
+      <link>https://www.renatoteixeira.com/posts/202606/digital-assets-cavapy/</link>
       <pubDate>Tue, 09 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/202606/digital-assets-cavapy/</guid>
+      <guid>https://www.renatoteixeira.com/posts/202606/digital-assets-cavapy/</guid>
       <description>&lt;p&gt;I had the satisfaction of participating in an event promoted by Cavapy and Excelsis S.A, where we talked about the evolution of the digital asset market and the transformations that are redefining the financial sector.&lt;/p&gt;&#xA;&lt;p&gt;As this market matures, it becomes increasingly important to have platforms capable of delivering scalability, security, governance, and regulatory compliance.&lt;/p&gt;&#xA;&lt;p&gt;In this context, Oracle plays a critical role in providing the infrastructure and services needed for institutions to innovate with confidence, accelerating the adoption of new technologies and business models.&lt;/p&gt;</description>
     </item>
   </channel>

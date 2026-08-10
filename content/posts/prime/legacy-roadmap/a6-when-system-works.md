@@ -2,7 +2,7 @@
 authors = ["Renato Teixeira"]
 title = "When the system only works because someone still remembers"
 date = "2026-06-19"
-description = "In many organizations, an essential part of how a legacy system works is not in the documentation, not in the diagrams, not in a well-organized repository, and often not even clearly expressed in the code. It is in the heads of a few people."
+description = "Part 6 of The Legacy Roadmap series: addressing the operational risk of systems that function only through tacit knowledge in employees’ heads."
 tags = [
     "LegacyModernization",
     "SoftwareArchitecture",
@@ -16,7 +16,7 @@ categories = [
 series = ["Modernization"]
 +++
 
-![image](/images/ml/part6.jpg)
+![Quando o sistema só funciona porque alguém ainda lembra](/images/ml/part6.jpg)
 
 *Series: The Legacy Roadmap — Part 6*
 
