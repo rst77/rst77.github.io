@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Fintech on RenatoTeixeira.com</title>
-    <link>https://www.renatoteixeira.com/pt-br/tags/fintech/</link>
+    <link>http://localhost:1313/pt-br/tags/fintech/</link>
     <description>Recent content in Fintech on RenatoTeixeira.com</description>
     <generator>Hugo</generator>
     <language>pt-br</language>
     <lastBuildDate>Tue, 09 Jun 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://www.renatoteixeira.com/pt-br/tags/fintech/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/pt-br/tags/fintech/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>O Futuro dos Ativos Digitais: Insights do Evento da Cavapy &amp; Excelsis</title>
-      <link>https://www.renatoteixeira.com/pt-br/posts/202606/digital-assets-cavapy/</link>
+      <link>http://localhost:1313/pt-br/posts/202606/digital-assets-cavapy/</link>
       <pubDate>Tue, 09 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>https://www.renatoteixeira.com/pt-br/posts/202606/digital-assets-cavapy/</guid>
+      <guid>http://localhost:1313/pt-br/posts/202606/digital-assets-cavapy/</guid>
       <description>&lt;p&gt;Tive a satisfação de participar de um evento promovido pela Cavapy e Excelsis S.A., onde conversamos sobre a evolução do mercado de ativos digitais e as transformações que estão redefinindo o setor financeiro.&lt;/p&gt;&#xA;&lt;p&gt;À medida que esse mercado amadurece, torna-se cada vez mais importante contar com plataformas capazes de entregar escalabilidade, segurança, governança e conformidade regulatória.&lt;/p&gt;&#xA;&lt;p&gt;Nesse contexto, a Oracle desempenha um papel fundamental ao fornecer a infraestrutura e os serviços necessários para que as instituições inovem com confiança, acelerando a adoção de novas tecnologias e modelos de negócios.&lt;/p&gt;</description>
     </item>
   </channel>

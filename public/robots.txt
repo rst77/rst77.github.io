@@ -11,4 +11,4 @@ Disallow: /pt-br/series/
 Disallow: /authors/
 Disallow: /pt-br/authors/
 
-Sitemap: https://www.renatoteixeira.com/sitemap.xml
+Sitemap: http://localhost:1313/sitemap.xml

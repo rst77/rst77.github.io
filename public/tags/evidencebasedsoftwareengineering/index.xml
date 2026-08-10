@@ -2,32 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>EvidenceBasedSoftwareEngineering on RenatoTeixeira.com</title>
-    <link>https://www.renatoteixeira.com/tags/evidencebasedsoftwareengineering/</link>
+    <link>http://localhost:1313/tags/evidencebasedsoftwareengineering/</link>
     <description>Recent content in EvidenceBasedSoftwareEngineering on RenatoTeixeira.com</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Mon, 11 May 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://www.renatoteixeira.com/tags/evidencebasedsoftwareengineering/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/evidencebasedsoftwareengineering/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Series: The Legacy Roadmap - A conversation between academia and industry on legacy system modernization</title>
-      <link>https://www.renatoteixeira.com/posts/prime/legacy-roadmap/legacy-roadmap/</link>
+      <link>http://localhost:1313/posts/prime/legacy-roadmap/legacy-roadmap/</link>
       <pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
-      <guid>https://www.renatoteixeira.com/posts/prime/legacy-roadmap/legacy-roadmap/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://www.renatoteixeira.com/images/ml/roadmap.png&#34; alt=&#34;O Mapa do Legado - Arcabouço Sociotécnico para Tomada de Decisão&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;On &lt;strong&gt;April 29, 2026&lt;/strong&gt;, my master’s dissertation was approved by the academic committee. The work is titled &lt;strong&gt;“Legacy Roadmap: A Sociotechnical Framework for Decision-Making in Legacy System Modernization in Latin America.”&lt;/strong&gt; Now, I want to do something I consider as important as completing the research itself: turning part of this knowledge into a more accessible conversation for those who live technology in practice.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/posts/prime/legacy-roadmap/legacy-roadmap/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/ml/roadmap.png&#34; alt=&#34;O Mapa do Legado - Arcabouço Sociotécnico para Tomada de Decisão&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;On &lt;strong&gt;April 29, 2026&lt;/strong&gt;, my master’s dissertation was approved by the academic committee. The work is titled &lt;strong&gt;“Legacy Roadmap: A Sociotechnical Framework for Decision-Making in Legacy System Modernization in Latin America.”&lt;/strong&gt; Now, I want to do something I consider as important as completing the research itself: turning part of this knowledge into a more accessible conversation for those who live technology in practice.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Evidence is necessary. In software engineering, it is also difficult</title>
-      <link>https://www.renatoteixeira.com/posts/202605/evidence-is-necessary/</link>
+      <link>http://localhost:1313/posts/202605/evidence-is-necessary/</link>
       <pubDate>Mon, 04 May 2026 00:00:00 +0000</pubDate>
-      <guid>https://www.renatoteixeira.com/posts/202605/evidence-is-necessary/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://www.renatoteixeira.com/images/202605/ev.png&#34; alt=&#34;Conceito de Engenharia de Software Baseada em Evidências&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;In the previous article, I argued that software engineering has normalized important decisions made on grounds that are far too fragile. &lt;strong&gt;Hype, market pressure, personal conviction, sophisticated language, and adoption anxiety&lt;/strong&gt; still occupy too much space in a field that likes to present itself as engineering. But there is an easy — and dangerous — answer to this criticism: “then just follow the evidence.” It would be great if it were that simple. It is not. And perhaps one of the greatest forms of maturity we can develop in software engineering is precisely to recognize this tension: &lt;strong&gt;we need more evidence, but producing, interpreting, and applying evidence in software is much more difficult than we usually admit&lt;/strong&gt;.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/posts/202605/evidence-is-necessary/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/202605/ev.png&#34; alt=&#34;Conceito de Engenharia de Software Baseada em Evidências&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;In the previous article, I argued that software engineering has normalized important decisions made on grounds that are far too fragile. &lt;strong&gt;Hype, market pressure, personal conviction, sophisticated language, and adoption anxiety&lt;/strong&gt; still occupy too much space in a field that likes to present itself as engineering. But there is an easy — and dangerous — answer to this criticism: “then just follow the evidence.” It would be great if it were that simple. It is not. And perhaps one of the greatest forms of maturity we can develop in software engineering is precisely to recognize this tension: &lt;strong&gt;we need more evidence, but producing, interpreting, and applying evidence in software is much more difficult than we usually admit&lt;/strong&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>The Quiet Normalization of Unfounded Decisions in Software Engineering</title>
-      <link>https://www.renatoteixeira.com/posts/202604/the-quiet-normalization/</link>
+      <link>http://localhost:1313/posts/202604/the-quiet-normalization/</link>
       <pubDate>Fri, 24 Apr 2026 00:00:00 +0000</pubDate>
-      <guid>https://www.renatoteixeira.com/posts/202604/the-quiet-normalization/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://www.renatoteixeira.com/images/202604/qn.jpg&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;One of the most curious — and perhaps most uncomfortable — things about software engineering is that we still make many important decisions on grounds that are far too fragile.&lt;/p&gt;&#xA;&lt;p&gt;Of course, we rarely call this an “unfounded decision.”&lt;/p&gt;&#xA;&lt;p&gt;We prefer better names:&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Strategy.&lt;/strong&gt;&lt;br&gt;&#xA;&lt;strong&gt;Transformation.&lt;/strong&gt;&lt;br&gt;&#xA;&lt;strong&gt;Modernization.&lt;/strong&gt;&lt;br&gt;&#xA;&lt;strong&gt;Best practice.&lt;/strong&gt;&lt;br&gt;&#xA;&lt;strong&gt;Vision for the future.&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;But, quite often, beneath these elegant labels, there is something less noble: imitation, enthusiasm, market pressure, personal preference, or the comfortable belief that what sounds modern must also be correct.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/posts/202604/the-quiet-normalization/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/202604/qn.jpg&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;One of the most curious — and perhaps most uncomfortable — things about software engineering is that we still make many important decisions on grounds that are far too fragile.&lt;/p&gt;&#xA;&lt;p&gt;Of course, we rarely call this an “unfounded decision.”&lt;/p&gt;&#xA;&lt;p&gt;We prefer better names:&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Strategy.&lt;/strong&gt;&lt;br&gt;&#xA;&lt;strong&gt;Transformation.&lt;/strong&gt;&lt;br&gt;&#xA;&lt;strong&gt;Modernization.&lt;/strong&gt;&lt;br&gt;&#xA;&lt;strong&gt;Best practice.&lt;/strong&gt;&lt;br&gt;&#xA;&lt;strong&gt;Vision for the future.&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;But, quite often, beneath these elegant labels, there is something less noble: imitation, enthusiasm, market pressure, personal preference, or the comfortable belief that what sounds modern must also be correct.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ecosystem on RenatoTeixeira.com</title>
-    <link>https://www.renatoteixeira.com/tags/ecosystem/</link>
+    <link>http://localhost:1313/tags/ecosystem/</link>
     <description>Recent content in Ecosystem on RenatoTeixeira.com</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Sat, 01 Aug 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://www.renatoteixeira.com/tags/ecosystem/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/ecosystem/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Java Story</title>
-      <link>https://www.renatoteixeira.com/posts/202608/the-java-story/</link>
+      <link>http://localhost:1313/posts/202608/the-java-story/</link>
       <pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
-      <guid>https://www.renatoteixeira.com/posts/202608/the-java-story/</guid>
+      <guid>http://localhost:1313/posts/202608/the-java-story/</guid>
       <description>&lt;p&gt;Seeing a documentary like this being made available brings me a very special sense of satisfaction.&lt;/p&gt;&#xA;&lt;p&gt;I have followed this story from the very beginning. In many ways, it is also part of my own journey: it was this movement, this evolution, and this transformation that helped shape my career.&lt;/p&gt;&#xA;&lt;p&gt;Looking back and seeing everything that has already been achieved is a source of pride. But looking ahead is even more inspiring, because I believe there is still so much more to be done.&lt;/p&gt;</description>
     </item>
   </channel>

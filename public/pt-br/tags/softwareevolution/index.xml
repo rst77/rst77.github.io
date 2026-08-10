@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>SoftwareEvolution on RenatoTeixeira.com</title>
-    <link>https://www.renatoteixeira.com/pt-br/tags/softwareevolution/</link>
+    <link>http://localhost:1313/pt-br/tags/softwareevolution/</link>
     <description>Recent content in SoftwareEvolution on RenatoTeixeira.com</description>
     <generator>Hugo</generator>
     <language>pt-br</language>
     <lastBuildDate>Wed, 29 Apr 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://www.renatoteixeira.com/pt-br/tags/softwareevolution/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/pt-br/tags/softwareevolution/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Defesa da dissertação de mestrado</title>
-      <link>https://www.renatoteixeira.com/pt-br/posts/202604/master-degree/</link>
+      <link>http://localhost:1313/pt-br/posts/202604/master-degree/</link>
       <pubDate>Wed, 29 Apr 2026 00:00:00 +0000</pubDate>
-      <guid>https://www.renatoteixeira.com/pt-br/posts/202604/master-degree/</guid>
+      <guid>http://localhost:1313/pt-br/posts/202604/master-degree/</guid>
       <description>&lt;p&gt;Hoje vivi um momento muito especial: a defesa da minha dissertação de mestrado.&lt;/p&gt;&#xA;&lt;p&gt;Entrar no mundo acadêmico e científico perto dos 50 anos foi uma experiência encantadora, desafiadora e profundamente transformadora. Ao longo desta jornada, aprendi muito com cada professor, com meus colegas, com a banca examinadora e, acima de tudo, com a oportunidade de conduzir uma pesquisa que me permitiu olhar para a prática profissional com maior método, profundidade e curiosidade científica.&lt;/p&gt;</description>
     </item>
     <item>
       <title>O Legado Não Acontece por Acaso: O Que Lehman Ainda Nos Ensina Sobre Evolução de Software</title>
-      <link>https://www.renatoteixeira.com/pt-br/posts/202604/legacy-does-no-happen-by-accident/</link>
+      <link>http://localhost:1313/pt-br/posts/202604/legacy-does-no-happen-by-accident/</link>
       <pubDate>Tue, 14 Apr 2026 00:00:00 +0000</pubDate>
-      <guid>https://www.renatoteixeira.com/pt-br/posts/202604/legacy-does-no-happen-by-accident/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://www.renatoteixeira.com/images/202604/lehman.jpg&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;O legado não emerge como uma falha isolada, nem como uma simples consequência da idade. Na maioria dos sistemas importantes, ele é o resultado de uma adaptação contínua sob pressões reais: novos requisitos, restrições operacionais, decisões acumuladas e a necessidade constante de permanecer útil em um ambiente em mudança.&lt;/p&gt;&#xA;&lt;p&gt;É por isso que o artigo de &lt;strong&gt;Meir Lehman (1980)&lt;/strong&gt; permanece tão valioso para mim. Ele não trata o software como um artefato estático, mas como algo moldado por uma evolução contínua. E por essa razão, acredito que ele merece ser muito mais conhecido por aqueles que trabalham na prática cotidiana da TI.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/pt-br/posts/202604/legacy-does-no-happen-by-accident/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/202604/lehman.jpg&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;O legado não emerge como uma falha isolada, nem como uma simples consequência da idade. Na maioria dos sistemas importantes, ele é o resultado de uma adaptação contínua sob pressões reais: novos requisitos, restrições operacionais, decisões acumuladas e a necessidade constante de permanecer útil em um ambiente em mudança.&lt;/p&gt;&#xA;&lt;p&gt;É por isso que o artigo de &lt;strong&gt;Meir Lehman (1980)&lt;/strong&gt; permanece tão valioso para mim. Ele não trata o software como um artefato estático, mas como algo moldado por uma evolução contínua. E por essa razão, acredito que ele merece ser muito mais conhecido por aqueles que trabalham na prática cotidiana da TI.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

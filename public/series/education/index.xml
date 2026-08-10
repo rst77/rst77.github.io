@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Education on RenatoTeixeira.com</title>
-    <link>https://www.renatoteixeira.com/series/education/</link>
+    <link>http://localhost:1313/series/education/</link>
     <description>Recent content in Education on RenatoTeixeira.com</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Wed, 08 Jul 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://www.renatoteixeira.com/series/education/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/series/education/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>New Challenge: PhD in Computer Science</title>
-      <link>https://www.renatoteixeira.com/posts/202607/new-challenge/</link>
+      <link>http://localhost:1313/posts/202607/new-challenge/</link>
       <pubDate>Wed, 08 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>https://www.renatoteixeira.com/posts/202607/new-challenge/</guid>
+      <guid>http://localhost:1313/posts/202607/new-challenge/</guid>
       <description>&lt;p&gt;Some dreams take time to come true. But when they do, they have a special flavor.&lt;/p&gt;&#xA;&lt;p&gt;I am now starting a new academic journey: entering the PhD program in Computer Science at the State University of Maringá (UEM).&lt;/p&gt;&#xA;&lt;p&gt;It is a phase that deeply excites me and, at the same time, challenges me to keep learning, researching, and contributing to the field I chose to pursue.&lt;/p&gt;&#xA;&lt;p&gt;Bring on this new phase!&lt;/p&gt;</description>
     </item>
     <item>
       <title>Aula Magna at Universidad Columbia del Paraguay</title>
-      <link>https://www.renatoteixeira.com/posts/202606/aula-magna-ucpy/</link>
+      <link>http://localhost:1313/posts/202606/aula-magna-ucpy/</link>
       <pubDate>Wed, 10 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>https://www.renatoteixeira.com/posts/202606/aula-magna-ucpy/</guid>
+      <guid>http://localhost:1313/posts/202606/aula-magna-ucpy/</guid>
       <description>&lt;p&gt;On June 10, 2026, I had the honor of delivering the Aula Magna at Universidad Columbia del Paraguay, sharing a reflection on the future of the software engineer in the age of AI.&lt;/p&gt;&#xA;&lt;p&gt;It was a great pleasure to exchange experiences with technology students and professionals at such an important moment for our industry.&lt;/p&gt;&#xA;&lt;p&gt;My thanks to Dean José Alfredo Souberlich Roman, Universidad Columbia del Paraguay, and OUGPY | Oracle User Group Paraguay for the invitation, the excellent organization, and the warm welcome.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Master&#39;s Dissertation</title>
-      <link>https://www.renatoteixeira.com/posts/202604/master-degree/</link>
+      <link>http://localhost:1313/posts/202604/master-degree/</link>
       <pubDate>Wed, 29 Apr 2026 00:00:00 +0000</pubDate>
-      <guid>https://www.renatoteixeira.com/posts/202604/master-degree/</guid>
+      <guid>http://localhost:1313/posts/202604/master-degree/</guid>
       <description>&lt;p&gt;Today I experienced a very special moment: the defense of my master’s dissertation.&lt;/p&gt;&#xA;&lt;p&gt;Entering the academic and scientific world close to the age of 50 was an enchanting, challenging, and deeply transformative experience. Throughout this journey, I learned so much from every professor, from my colleagues, from the examination committee, and, above all, from the opportunity to conduct research that allowed me to look at professional practice with greater method, depth, and scientific curiosity.&lt;/p&gt;</description>
     </item>
   </channel>

@@ -2,248 +2,248 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on RenatoTeixeira.com</title>
-    <link>https://www.renatoteixeira.com/pt-br/tags/</link>
+    <link>http://localhost:1313/pt-br/tags/</link>
     <description>Recent content in Tags on RenatoTeixeira.com</description>
     <generator>Hugo</generator>
     <language>pt-br</language>
     <lastBuildDate>Sat, 01 Aug 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://www.renatoteixeira.com/pt-br/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/pt-br/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Community</title>
-      <link>https://www.renatoteixeira.com/pt-br/tags/community/</link>
+      <link>http://localhost:1313/pt-br/tags/community/</link>
       <pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
-      <guid>https://www.renatoteixeira.com/pt-br/tags/community/</guid>
+      <guid>http://localhost:1313/pt-br/tags/community/</guid>
       <description></description>
     </item>
     <item>
       <title>Ecosystem</title>
-      <link>https://www.renatoteixeira.com/pt-br/tags/ecosystem/</link>
+      <link>http://localhost:1313/pt-br/tags/ecosystem/</link>
       <pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
-      <guid>https://www.renatoteixeira.com/pt-br/tags/ecosystem/</guid>
+      <guid>http://localhost:1313/pt-br/tags/ecosystem/</guid>
       <description></description>
     </item>
     <item>
       <title>History</title>
-      <link>https://www.renatoteixeira.com/pt-br/tags/history/</link>
+      <link>http://localhost:1313/pt-br/tags/history/</link>
       <pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
-      <guid>https://www.renatoteixeira.com/pt-br/tags/history/</guid>
+      <guid>http://localhost:1313/pt-br/tags/history/</guid>
       <description></description>
     </item>
     <item>
       <title>Java</title>
-      <link>https://www.renatoteixeira.com/pt-br/tags/java/</link>
+      <link>http://localhost:1313/pt-br/tags/java/</link>
       <pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
-      <guid>https://www.renatoteixeira.com/pt-br/tags/java/</guid>
+      <guid>http://localhost:1313/pt-br/tags/java/</guid>
       <description></description>
     </item>
     <item>
       <title>OpenSource</title>
-      <link>https://www.renatoteixeira.com/pt-br/tags/opensource/</link>
+      <link>http://localhost:1313/pt-br/tags/opensource/</link>
       <pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
-      <guid>https://www.renatoteixeira.com/pt-br/tags/opensource/</guid>
+      <guid>http://localhost:1313/pt-br/tags/opensource/</guid>
       <description></description>
     </item>
     <item>
       <title>Programming</title>
-      <link>https://www.renatoteixeira.com/pt-br/tags/programming/</link>
+      <link>http://localhost:1313/pt-br/tags/programming/</link>
       <pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
-      <guid>https://www.renatoteixeira.com/pt-br/tags/programming/</guid>
+      <guid>http://localhost:1313/pt-br/tags/programming/</guid>
       <description></description>
     </item>
     <item>
       <title>SoftwareEngineering</title>
-      <link>https://www.renatoteixeira.com/pt-br/tags/softwareengineering/</link>
+      <link>http://localhost:1313/pt-br/tags/softwareengineering/</link>
       <pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
-      <guid>https://www.renatoteixeira.com/pt-br/tags/softwareengineering/</guid>
+      <guid>http://localhost:1313/pt-br/tags/softwareengineering/</guid>
       <description></description>
     </item>
     <item>
       <title>Technology</title>
-      <link>https://www.renatoteixeira.com/pt-br/tags/technology/</link>
+      <link>http://localhost:1313/pt-br/tags/technology/</link>
       <pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
-      <guid>https://www.renatoteixeira.com/pt-br/tags/technology/</guid>
+      <guid>http://localhost:1313/pt-br/tags/technology/</guid>
       <description></description>
     </item>
     <item>
       <title>Academia</title>
-      <link>https://www.renatoteixeira.com/pt-br/tags/academia/</link>
+      <link>http://localhost:1313/pt-br/tags/academia/</link>
       <pubDate>Wed, 08 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>https://www.renatoteixeira.com/pt-br/tags/academia/</guid>
+      <guid>http://localhost:1313/pt-br/tags/academia/</guid>
       <description></description>
     </item>
     <item>
       <title>Brazil</title>
-      <link>https://www.renatoteixeira.com/pt-br/tags/brazil/</link>
+      <link>http://localhost:1313/pt-br/tags/brazil/</link>
       <pubDate>Wed, 08 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>https://www.renatoteixeira.com/pt-br/tags/brazil/</guid>
+      <guid>http://localhost:1313/pt-br/tags/brazil/</guid>
       <description></description>
     </item>
     <item>
       <title>ComputerScience</title>
-      <link>https://www.renatoteixeira.com/pt-br/tags/computerscience/</link>
+      <link>http://localhost:1313/pt-br/tags/computerscience/</link>
       <pubDate>Wed, 08 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>https://www.renatoteixeira.com/pt-br/tags/computerscience/</guid>
+      <guid>http://localhost:1313/pt-br/tags/computerscience/</guid>
       <description></description>
     </item>
     <item>
       <title>Education</title>
-      <link>https://www.renatoteixeira.com/pt-br/tags/education/</link>
+      <link>http://localhost:1313/pt-br/tags/education/</link>
       <pubDate>Wed, 08 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>https://www.renatoteixeira.com/pt-br/tags/education/</guid>
+      <guid>http://localhost:1313/pt-br/tags/education/</guid>
       <description></description>
     </item>
     <item>
       <title>PhD</title>
-      <link>https://www.renatoteixeira.com/pt-br/tags/phd/</link>
+      <link>http://localhost:1313/pt-br/tags/phd/</link>
       <pubDate>Wed, 08 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>https://www.renatoteixeira.com/pt-br/tags/phd/</guid>
+      <guid>http://localhost:1313/pt-br/tags/phd/</guid>
       <description></description>
     </item>
     <item>
       <title>UEM</title>
-      <link>https://www.renatoteixeira.com/pt-br/tags/uem/</link>
+      <link>http://localhost:1313/pt-br/tags/uem/</link>
       <pubDate>Wed, 08 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>https://www.renatoteixeira.com/pt-br/tags/uem/</guid>
+      <guid>http://localhost:1313/pt-br/tags/uem/</guid>
       <description></description>
     </item>
     <item>
       <title>DigitalTransformation</title>
-      <link>https://www.renatoteixeira.com/pt-br/tags/digitaltransformation/</link>
+      <link>http://localhost:1313/pt-br/tags/digitaltransformation/</link>
       <pubDate>Fri, 03 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>https://www.renatoteixeira.com/pt-br/tags/digitaltransformation/</guid>
+      <guid>http://localhost:1313/pt-br/tags/digitaltransformation/</guid>
       <description></description>
     </item>
     <item>
       <title>LegacyModernization</title>
-      <link>https://www.renatoteixeira.com/pt-br/tags/legacymodernization/</link>
+      <link>http://localhost:1313/pt-br/tags/legacymodernization/</link>
       <pubDate>Fri, 03 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>https://www.renatoteixeira.com/pt-br/tags/legacymodernization/</guid>
+      <guid>http://localhost:1313/pt-br/tags/legacymodernization/</guid>
       <description></description>
     </item>
     <item>
       <title>SoftwareArchitecture</title>
-      <link>https://www.renatoteixeira.com/pt-br/tags/softwarearchitecture/</link>
+      <link>http://localhost:1313/pt-br/tags/softwarearchitecture/</link>
       <pubDate>Fri, 03 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>https://www.renatoteixeira.com/pt-br/tags/softwarearchitecture/</guid>
+      <guid>http://localhost:1313/pt-br/tags/softwarearchitecture/</guid>
       <description></description>
     </item>
     <item>
       <title>TechnicalDebt</title>
-      <link>https://www.renatoteixeira.com/pt-br/tags/technicaldebt/</link>
+      <link>http://localhost:1313/pt-br/tags/technicaldebt/</link>
       <pubDate>Fri, 03 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>https://www.renatoteixeira.com/pt-br/tags/technicaldebt/</guid>
+      <guid>http://localhost:1313/pt-br/tags/technicaldebt/</guid>
       <description></description>
     </item>
     <item>
       <title>ArtificialIntelligence</title>
-      <link>https://www.renatoteixeira.com/pt-br/tags/artificialintelligence/</link>
+      <link>http://localhost:1313/pt-br/tags/artificialintelligence/</link>
       <pubDate>Wed, 10 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>https://www.renatoteixeira.com/pt-br/tags/artificialintelligence/</guid>
+      <guid>http://localhost:1313/pt-br/tags/artificialintelligence/</guid>
       <description></description>
     </item>
     <item>
       <title>CloudComputing</title>
-      <link>https://www.renatoteixeira.com/pt-br/tags/cloudcomputing/</link>
+      <link>http://localhost:1313/pt-br/tags/cloudcomputing/</link>
       <pubDate>Wed, 10 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>https://www.renatoteixeira.com/pt-br/tags/cloudcomputing/</guid>
+      <guid>http://localhost:1313/pt-br/tags/cloudcomputing/</guid>
       <description></description>
     </item>
     <item>
       <title>EnterpriseArchitecture</title>
-      <link>https://www.renatoteixeira.com/pt-br/tags/enterprisearchitecture/</link>
+      <link>http://localhost:1313/pt-br/tags/enterprisearchitecture/</link>
       <pubDate>Wed, 10 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>https://www.renatoteixeira.com/pt-br/tags/enterprisearchitecture/</guid>
+      <guid>http://localhost:1313/pt-br/tags/enterprisearchitecture/</guid>
       <description></description>
     </item>
     <item>
       <title>OUGPY</title>
-      <link>https://www.renatoteixeira.com/pt-br/tags/ougpy/</link>
+      <link>http://localhost:1313/pt-br/tags/ougpy/</link>
       <pubDate>Wed, 10 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>https://www.renatoteixeira.com/pt-br/tags/ougpy/</guid>
+      <guid>http://localhost:1313/pt-br/tags/ougpy/</guid>
       <description></description>
     </item>
     <item>
       <title>Paraguay</title>
-      <link>https://www.renatoteixeira.com/pt-br/tags/paraguay/</link>
+      <link>http://localhost:1313/pt-br/tags/paraguay/</link>
       <pubDate>Wed, 10 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>https://www.renatoteixeira.com/pt-br/tags/paraguay/</guid>
+      <guid>http://localhost:1313/pt-br/tags/paraguay/</guid>
       <description></description>
     </item>
     <item>
       <title>Blockchain</title>
-      <link>https://www.renatoteixeira.com/pt-br/tags/blockchain/</link>
+      <link>http://localhost:1313/pt-br/tags/blockchain/</link>
       <pubDate>Tue, 09 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>https://www.renatoteixeira.com/pt-br/tags/blockchain/</guid>
+      <guid>http://localhost:1313/pt-br/tags/blockchain/</guid>
       <description></description>
     </item>
     <item>
       <title>DigitalAssets</title>
-      <link>https://www.renatoteixeira.com/pt-br/tags/digitalassets/</link>
+      <link>http://localhost:1313/pt-br/tags/digitalassets/</link>
       <pubDate>Tue, 09 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>https://www.renatoteixeira.com/pt-br/tags/digitalassets/</guid>
+      <guid>http://localhost:1313/pt-br/tags/digitalassets/</guid>
       <description></description>
     </item>
     <item>
       <title>Fintech</title>
-      <link>https://www.renatoteixeira.com/pt-br/tags/fintech/</link>
+      <link>http://localhost:1313/pt-br/tags/fintech/</link>
       <pubDate>Tue, 09 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>https://www.renatoteixeira.com/pt-br/tags/fintech/</guid>
+      <guid>http://localhost:1313/pt-br/tags/fintech/</guid>
       <description></description>
     </item>
     <item>
       <title>Innovacion</title>
-      <link>https://www.renatoteixeira.com/pt-br/tags/innovacion/</link>
+      <link>http://localhost:1313/pt-br/tags/innovacion/</link>
       <pubDate>Tue, 09 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>https://www.renatoteixeira.com/pt-br/tags/innovacion/</guid>
+      <guid>http://localhost:1313/pt-br/tags/innovacion/</guid>
       <description></description>
     </item>
     <item>
       <title>EvidenceBasedSoftwareEngineering</title>
-      <link>https://www.renatoteixeira.com/pt-br/tags/evidencebasedsoftwareengineering/</link>
+      <link>http://localhost:1313/pt-br/tags/evidencebasedsoftwareengineering/</link>
       <pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
-      <guid>https://www.renatoteixeira.com/pt-br/tags/evidencebasedsoftwareengineering/</guid>
+      <guid>http://localhost:1313/pt-br/tags/evidencebasedsoftwareengineering/</guid>
       <description></description>
     </item>
     <item>
       <title>TechnologyDecisionMaking</title>
-      <link>https://www.renatoteixeira.com/pt-br/tags/technologydecisionmaking/</link>
+      <link>http://localhost:1313/pt-br/tags/technologydecisionmaking/</link>
       <pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
-      <guid>https://www.renatoteixeira.com/pt-br/tags/technologydecisionmaking/</guid>
+      <guid>http://localhost:1313/pt-br/tags/technologydecisionmaking/</guid>
       <description></description>
     </item>
     <item>
       <title>MeirLehman</title>
-      <link>https://www.renatoteixeira.com/pt-br/tags/meirlehman/</link>
+      <link>http://localhost:1313/pt-br/tags/meirlehman/</link>
       <pubDate>Wed, 29 Apr 2026 00:00:00 +0000</pubDate>
-      <guid>https://www.renatoteixeira.com/pt-br/tags/meirlehman/</guid>
+      <guid>http://localhost:1313/pt-br/tags/meirlehman/</guid>
       <description></description>
     </item>
     <item>
       <title>SoftwareEvolution</title>
-      <link>https://www.renatoteixeira.com/pt-br/tags/softwareevolution/</link>
+      <link>http://localhost:1313/pt-br/tags/softwareevolution/</link>
       <pubDate>Wed, 29 Apr 2026 00:00:00 +0000</pubDate>
-      <guid>https://www.renatoteixeira.com/pt-br/tags/softwareevolution/</guid>
+      <guid>http://localhost:1313/pt-br/tags/softwareevolution/</guid>
       <description></description>
     </item>
     <item>
       <title>SoftwareLifecycle</title>
-      <link>https://www.renatoteixeira.com/pt-br/tags/softwarelifecycle/</link>
+      <link>http://localhost:1313/pt-br/tags/softwarelifecycle/</link>
       <pubDate>Wed, 29 Apr 2026 00:00:00 +0000</pubDate>
-      <guid>https://www.renatoteixeira.com/pt-br/tags/softwarelifecycle/</guid>
+      <guid>http://localhost:1313/pt-br/tags/softwarelifecycle/</guid>
       <description></description>
     </item>
     <item>
       <title>MissionCriticalSystems</title>
-      <link>https://www.renatoteixeira.com/pt-br/tags/missioncriticalsystems/</link>
+      <link>http://localhost:1313/pt-br/tags/missioncriticalsystems/</link>
       <pubDate>Mon, 06 Apr 2026 00:00:00 +0000</pubDate>
-      <guid>https://www.renatoteixeira.com/pt-br/tags/missioncriticalsystems/</guid>
+      <guid>http://localhost:1313/pt-br/tags/missioncriticalsystems/</guid>
       <description></description>
     </item>
     <item>
       <title>Códigos curtos</title>
-      <link>https://www.renatoteixeira.com/pt-br/tags/shortcodes/</link>
+      <link>http://localhost:1313/pt-br/tags/shortcodes/</link>
       <pubDate>Wed, 04 Jan 2023 11:51:36 +0100</pubDate>
-      <guid>https://www.renatoteixeira.com/pt-br/tags/shortcodes/</guid>
+      <guid>http://localhost:1313/pt-br/tags/shortcodes/</guid>
       <description></description>
     </item>
   </channel>

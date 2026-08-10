@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on RenatoTeixeira.com</title>
-    <link>https://www.renatoteixeira.com/categories/</link>
+    <link>http://localhost:1313/categories/</link>
     <description>Recent content in Categories on RenatoTeixeira.com</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Sat, 01 Aug 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://www.renatoteixeira.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Technology</title>
-      <link>https://www.renatoteixeira.com/categories/technology/</link>
+      <link>http://localhost:1313/categories/technology/</link>
       <pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
-      <guid>https://www.renatoteixeira.com/categories/technology/</guid>
+      <guid>http://localhost:1313/categories/technology/</guid>
       <description></description>
     </item>
     <item>
       <title>Education</title>
-      <link>https://www.renatoteixeira.com/categories/education/</link>
+      <link>http://localhost:1313/categories/education/</link>
       <pubDate>Wed, 08 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>https://www.renatoteixeira.com/categories/education/</guid>
+      <guid>http://localhost:1313/categories/education/</guid>
       <description></description>
     </item>
     <item>
       <title>Modernization</title>
-      <link>https://www.renatoteixeira.com/categories/modernization/</link>
+      <link>http://localhost:1313/categories/modernization/</link>
       <pubDate>Fri, 03 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>https://www.renatoteixeira.com/categories/modernization/</guid>
+      <guid>http://localhost:1313/categories/modernization/</guid>
       <description></description>
     </item>
     <item>
       <title>Event</title>
-      <link>https://www.renatoteixeira.com/categories/event/</link>
+      <link>http://localhost:1313/categories/event/</link>
       <pubDate>Tue, 09 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>https://www.renatoteixeira.com/categories/event/</guid>
+      <guid>http://localhost:1313/categories/event/</guid>
       <description></description>
     </item>
   </channel>
