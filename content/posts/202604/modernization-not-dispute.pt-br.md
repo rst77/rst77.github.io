@@ -2,7 +2,7 @@
 authors = ["Renato Teixeira"]
 title = "Modernizar sistemas legados não é uma disputa entre o velho e o novo. É uma disciplina do discernimento"
 date = "2026-04-06"
-description = "Uma visão estratégica da modernização de legados como lucidez organizacional. Explora a responsabilidade e a maturidade necessárias para evoluir sistemas complexos além da simples substituição técnica."
+description = "Uma visão estratégica da modernização de sistemas legados como transformação sociotécnica, alinhando arquitetura, negócios e governança de TI."
 tags = [
     "LegacyModernization",
     "SoftwareArchitecture",

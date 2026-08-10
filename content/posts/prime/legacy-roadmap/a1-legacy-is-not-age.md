@@ -2,7 +2,7 @@
 authors = ["Renato Teixeira"]
 title = "Legacy is not age. It is dependency"
 date = "2026-05-15"
-description = "This article challenges the simplistic idea that legacy systems are defined by age or outdated technology. It argues that legacy is better understood as dependency: the degree to which a system sustains business operations, concentrates critical knowledge, shapes organizational processes, and makes change risky. The article opens the series *The Legacy Roadmap* by reframing modernization as a sociotechnical decision, not merely a technology replacement."
+description = "Part 1 of The Legacy Roadmap series: challenging the myth that legacy systems are defined by age, arguing instead that legacy is defined by dependency."
 tags = [
     "LegacyModernization",
     "SoftwareArchitecture",
@@ -16,7 +16,8 @@ categories = [
 series = ["Modernization"]
 +++
 
-![image](/images/ml/part1.png)
+![Legado não é idade é dependência - Mapa do Legado Parte 1](/images/ml/part1.png)
+
 
 *Series: The Legacy Roadmap — Part 1*
 

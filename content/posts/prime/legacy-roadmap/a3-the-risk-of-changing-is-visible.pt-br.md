@@ -2,7 +2,7 @@
 authors = ["Renato Teixeira"]
 title = "O risco de mudar é visível. O risco de não mudar nem sempre é visível"
 date = "2026-05-29"
-description = "Nos sistemas legados, o risco da mudança é visível. Mas o risco de permanecer muitas vezes é invisível. Essa assimetria distorce as decisões. A modernização responsável exige que ambos os riscos sejam tornados explícitos e que a escolha seja feita conscientemente."
+description = "Parte 3 da série O Mapa do Legado: contrastando o risco visível de mudar com o risco silencioso e invisível de manter sistemas legados estagnados."
 tags = [
     "LegacyModernization",
     "SoftwareArchitecture",

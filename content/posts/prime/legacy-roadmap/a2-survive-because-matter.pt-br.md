@@ -2,7 +2,7 @@
 authors = ["Renato Teixeira"]
 title = "Sistemas legados sobrevivem porque ainda importam"
 date = "2026-05-22"
-description = "Se sistemas legados são definidos pela dependência que criam e sustentam, então precisamos encarar uma conclusão desconfortável: **muitos sistemas legados sobrevivem porque ainda importam**. Eles não permanecem apenas por atraso, descuido, conservadorismo ou incapacidade técnica. Muitas vezes, permanecem porque ainda entregam valor, sustentam processos críticos, preservam regras de negócio, garantem previsibilidade e carregam parte da memória operacional da organização."
+description = "Parte 2 da série O Mapa do Legado: explicando por que sistemas legados sobrevivem por continuarem entregando valor e sustentando regras de negócio."
 tags = [
     "LegacyModernization",
     "SoftwareArchitecture",
@@ -16,7 +16,8 @@ categories = [
 series = ["Modernization"]
 +++
 
-![image](/images/ml/part2.png)
+![Sistemas legados sobrevivem porque ainda importam - Mapa do Legado Parte 2](/images/ml/part2.png)
+
 
 *Série: O Mapa do Legado — Parte 2*
 

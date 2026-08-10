@@ -2,7 +2,7 @@
 authors = ["Renato Teixeira"]
 title = "Quando o sistema só funciona porque alguém ainda lembra"
 date = "2026-06-19"
-description = "Em muitas organizações, uma parte essencial de como um sistema legado funciona não está na documentação, nem nos diagramas, e muitas vezes nem está claramente expressa no código. Está na cabeça de poucas pessoas."
+description = "Parte 6 da série O Mapa do Legado: abordando o risco operacional de sistemas que funcionam apenas através do conhecimento tácito da equipe."
 tags = [
     "LegacyModernization",
     "SoftwareArchitecture",
@@ -16,7 +16,7 @@ categories = [
 series = ["Modernization"]
 +++
 
-![image](/images/ml/part6.jpg)
+![Quando o sistema só funciona porque alguém ainda lembra](/images/ml/part6.jpg)
 
 *Série: O Mapa do Legado — Parte 6*
 

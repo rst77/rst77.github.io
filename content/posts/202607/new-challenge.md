@@ -2,7 +2,7 @@
 authors = ["Renato Teixeira"]
 title = "New Challenge: PhD in Computer Science"
 date = "2026-07-08"
-description = ""
+description = "Renato Teixeira starts a new academic journey with a PhD in Computer Science at UEM, expanding research on legacy system modernization."
 tags = [
     "ComputerScience",
     "Academia",
@@ -25,5 +25,6 @@ It is a phase that deeply excites me and, at the same time, challenges me to kee
 
 Bring on this new phase!
 
-![image](/images/form.png)
+![Comprovante de aprovação no Doutorado em Ciência da Computação na UEM](/images/form.png)
+
 

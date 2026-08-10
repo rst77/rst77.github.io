@@ -2,7 +2,7 @@
 authors = ["Renato Teixeira"]
 title = "Defesa da dissertação de mestrado"
 date = "2026-04-29"
-description = ""
+description = "Renato Teixeira defende dissertação de mestrado na UTFPR sobre o Mapa do Legado: Um Arcabouço Sociotécnico para Tomada de Decisão na Modernização de Sistemas Legados."
 tags = [
     "LegacyModernization",
     "EnterpriseArchitecture",
@@ -25,7 +25,8 @@ Encerro este capítulo com profunda gratidão a todos que fizeram parte deste ca
 
 E depois desta jornada… quem sabe, talvez em alguns anos eu esteja de volta aqui para compartilhar o próximo marco: uma graduação de doutorado.
 
-![image](/images/master/foto0r.jpg)
-![image](/images/master/foto1r.jpg)
-![image](/images/master/foto2r.jpg)
-![image](/images/master/foto3r.jpg)
+![Defesa da dissertação de mestrado](/images/master/foto0r.jpg)
+![Apresentação da pesquisa sobre modernização de legados](/images/master/foto1r.jpg)
+![Banca examinadora da dissertação de mestrado](/images/master/foto2r.jpg)
+![Renato Teixeira e professores da banca](/images/master/foto3r.jpg)
+

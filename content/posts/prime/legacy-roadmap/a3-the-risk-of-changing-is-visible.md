@@ -2,7 +2,7 @@
 authors = ["Renato Teixeira"]
 title = "The risk of changing is visible. The risk of not changing is not always visible"
 date = "2026-05-29"
-description = "In legacy systems, the risk of change is visible. But the risk of remaining is often invisible. This asymmetry distorts decisions. Responsible modernization requires making both risks explicit and choosing consciously."
+description = "Part 3 of The Legacy Roadmap series: contrasting the visible risk of change with the silent, invisible risk of maintaining stagnant legacy systems."
 tags = [
     "LegacyModernization",
     "SoftwareArchitecture",

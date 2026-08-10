@@ -2,7 +2,7 @@
 authors = ["Renato Teixeira"]
 title = "Legacy Does Not Happen by Accident: What Lehman Still Teaches Us About Software Evolution"
 date = "2026-04-14"
-description = "This text provides a strategic analysis of Lehman’s Laws of Software Evolution, reframing legacy systems not as accidents, but as the inevitable result of successful adaptation that requires continuous structural discipline."
+description = "Strategic analysis of Lehman’s Laws of Software Evolution, explaining why legacy technical debt accumulates systematically without continuous governance."
 tags = [
     "LegacyModernization",
     "EnterpriseArchitecture",

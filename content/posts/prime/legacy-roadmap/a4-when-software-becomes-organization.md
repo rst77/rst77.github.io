@@ -2,7 +2,7 @@
 authors = ["Renato Teixeira"]
 title = "When software becomes part of the organization"
 date = "2026-06-05"
-description = "When a legacy system stops being just an application and starts shaping processes, decisions, and routines, modernization becomes an organizational intervention. Understanding this dynamic is essential for navigating transformations that go beyond code."
+description = "Part 4 of The Legacy Roadmap series: examining how legacy software becomes embedded in organizational routines and shapes business processes."
 tags = [
     "LegacyModernization",
     "SoftwareArchitecture",
@@ -16,7 +16,7 @@ categories = [
 series = ["Modernization"]
 +++
 
-![image](/images/ml/part4.jpg)
+![Quando o software vira parte da organização](/images/ml/part4.jpg)
 
 
 *Series: The Legacy Roadmap — Part 4*

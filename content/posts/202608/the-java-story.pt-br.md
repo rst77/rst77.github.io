@@ -2,7 +2,7 @@
 authors = ["Renato Teixeira"]
 title = "A História do Java"
 date = "2026-08-01"
-description = "Uma reflexão sobre a jornada do Java"
+description = "Uma reflexão estratégica sobre os 30 anos do Java, sua evolução no ecossistema de sistemas legados e lições sobre longevidade de software."
 tags = [
     "Java",
     "Programming",

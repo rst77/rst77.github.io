@@ -16,7 +16,7 @@ categories = [
 series = ["Modernization"]
 +++
 
-![image](/images/ml/roadmap.png)
+![O Mapa do Legado - Arcabouço Sociotécnico para Tomada de Decisão](/images/ml/roadmap.png)
 
 No dia **29 de abril de 2026**, minha dissertação de mestrado foi aprovada pela academia. O trabalho se chama **“Mapa do Legado: Um Arcabouço Sociotécnico para a Tomada de Decisão na Modernização de Sistemas Legados na América Latina”**. Agora, quero fazer algo que considero tão importante quanto concluir a pesquisa: transformar parte desse conhecimento em uma conversa mais acessível para quem vive tecnologia na prática.
 

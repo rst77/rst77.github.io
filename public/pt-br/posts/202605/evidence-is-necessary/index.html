@@ -13,19 +13,19 @@
 
 
 <meta name="author" content="Renato Teixeira">
-<meta name="description" content="Uma reflexão crítica sobre por que a engenharia de software precisa de mais evidência, menos hype e melhor julgamento por trás das decisões que moldam arquitetura, modernização e evolução de sistemas a longo prazo.">
+<meta name="description" content="Reflexão crítica sobre Engenharia de Software Baseada em Evidências e o desafio de aplicar pesquisas científicas em decisões tecnológicas reais.">
 <meta name="keywords" content="blog,desenvolvedor,pessoal">
 
 
 
   <meta name="twitter:card" content="summary">
   <meta name="twitter:title" content="Evidência é necessária. Na engenharia de software, também é difícil.">
-  <meta name="twitter:description" content="Uma reflexão crítica sobre por que a engenharia de software precisa de mais evidência, menos hype e melhor julgamento por trás das decisões que moldam arquitetura, modernização e evolução de sistemas a longo prazo.">
+  <meta name="twitter:description" content="Reflexão crítica sobre Engenharia de Software Baseada em Evidências e o desafio de aplicar pesquisas científicas em decisões tecnológicas reais.">
 
 <meta property="og:url" content="http://localhost:1313/pt-br/posts/202605/evidence-is-necessary/">
   <meta property="og:site_name" content="RenatoTeixeira.com">
   <meta property="og:title" content="Evidência é necessária. Na engenharia de software, também é difícil.">
-  <meta property="og:description" content="Uma reflexão crítica sobre por que a engenharia de software precisa de mais evidência, menos hype e melhor julgamento por trás das decisões que moldam arquitetura, modernização e evolução de sistemas a longo prazo.">
+  <meta property="og:description" content="Reflexão crítica sobre Engenharia de Software Baseada em Evidências e o desafio de aplicar pesquisas científicas em decisões tecnológicas reais.">
   <meta property="og:locale" content="pt_br">
   <meta property="og:type" content="article">
     <meta property="article:section" content="posts">
@@ -36,13 +36,13 @@
     <meta property="article:tag" content="TechnologyDecisionMaking">
     <meta property="article:tag" content="EvidenceBasedSoftwareEngineering">
     <meta property="article:tag" content="SoftwareEngineering">
-      <meta property="og:see_also" content="http://localhost:1313/pt-br/posts/legacy-roadmap/a8-modernizing-is-not-replacing-technology/">
-      <meta property="og:see_also" content="http://localhost:1313/pt-br/posts/legacy-roadmap/a7-automate-understanding/">
-      <meta property="og:see_also" content="http://localhost:1313/pt-br/posts/legacy-roadmap/a6-when-system-works/">
-      <meta property="og:see_also" content="http://localhost:1313/pt-br/posts/legacy-roadmap/a5-postponed-modernization-is-a-decision/">
-      <meta property="og:see_also" content="http://localhost:1313/pt-br/posts/legacy-roadmap/a4-when-software-becomes-organization/">
-      <meta property="og:see_also" content="http://localhost:1313/pt-br/posts/legacy-roadmap/a3-the-risk-of-changing-is-visible/">
-      <meta property="og:see_also" content="http://localhost:1313/pt-br/posts/legacy-roadmap/a2-survive-because-matter/">
+      <meta property="og:see_also" content="http://localhost:1313/pt-br/posts/prime/legacy-roadmap/a8-modernizing-is-not-replacing-technology/">
+      <meta property="og:see_also" content="http://localhost:1313/pt-br/posts/prime/legacy-roadmap/a7-automate-understanding/">
+      <meta property="og:see_also" content="http://localhost:1313/pt-br/posts/prime/legacy-roadmap/a6-when-system-works/">
+      <meta property="og:see_also" content="http://localhost:1313/pt-br/posts/prime/legacy-roadmap/a5-postponed-modernization-is-a-decision/">
+      <meta property="og:see_also" content="http://localhost:1313/pt-br/posts/prime/legacy-roadmap/a4-when-software-becomes-organization/">
+      <meta property="og:see_also" content="http://localhost:1313/pt-br/posts/prime/legacy-roadmap/a3-the-risk-of-changing-is-visible/">
+      <meta property="og:see_also" content="http://localhost:1313/pt-br/posts/prime/legacy-roadmap/a2-survive-because-matter/">
 
 
 
@@ -223,7 +223,7 @@
 
       <div class="post-content">
         
-        <p><img src="/images/202605/ev.png" alt="image"></p>
+        <p><img src="/images/202605/ev.png" alt="Conceito de Engenharia de Software Baseada em Evidências"></p>
 <p>No artigo anterior, defendi que a engenharia de software normalizou decisões importantes tomadas sobre bases frágeis demais. <strong>Hype, pressão de mercado, convicção pessoal, linguagem sofisticada e ansiedade por adoção</strong> ainda ocupam espaço demais em um campo que gosta de se apresentar como engenharia. Mas existe uma resposta fácil — e perigosa — para essa crítica: “então basta seguir a evidência”. Seria ótimo se fosse tão simples. Não é. E talvez uma das maiores maturidades que possamos desenvolver em engenharia de software seja justamente reconhecer essa tensão: <strong>precisamos de mais evidência, mas produzir, interpretar e aplicar evidência em software é muito mais difícil do que normalmente admitimos</strong>.</p>
 <p>Essa dificuldade não torna a evidência menos importante. <strong>Torna a nossa responsabilidade maior.</strong> A ideia de uma engenharia de software baseada em evidências nasce de uma analogia com a medicina baseada em evidências. Na medicina, um médico não decide apenas com base em intuição: ele deve combinar a melhor evidência disponível, sua experiência clínica e os valores e circunstâncias do paciente. Esse ponto é fundamental, porque o médico não se relaciona com a evidência de forma abstrata. Ele está diante de um paciente específico, com sintomas específicos, histórico específico, riscos específicos e valores próprios. A evidência importa, mas precisa ser interpretada à luz da realidade daquele paciente.</p>
 <p>Quando um médico conversa com outro médico, eles podem discutir estudos, tratamentos, efeitos, riscos e protocolos. Mas a decisão clínica não termina na conversa entre especialistas. Ela volta ao paciente. Em software, a situação é menos limpa. Quando decidimos adotar uma tecnologia, mudar uma arquitetura, introduzir um método de desenvolvimento ou modernizar um sistema legado, raramente existe um “paciente” único diante de nós. <strong>O paciente está distribuído:</strong> aparece nos desenvolvedores que terão que manter a solução, nos operadores que responderão pelos incidentes, nos clientes que sofrerão indisponibilidade, nas áreas de negócio que dependem do sistema, nos executivos que assumem o risco, nos orçamentos que serão consumidos e nos sistemas futuros que herdarão as consequências da decisão.</p>
@@ -330,37 +330,37 @@
         
           
             <li>
-              <a href="/pt-br/posts/legacy-roadmap/a8-modernizing-is-not-replacing-technology/">Modernizar não é trocar tecnologia. É governar a continuidade</a>
+              <a href="/pt-br/posts/prime/legacy-roadmap/a8-modernizing-is-not-replacing-technology/">Modernizar não é trocar tecnologia. É governar a continuidade</a>
             </li>
           
         
           
             <li>
-              <a href="/pt-br/posts/legacy-roadmap/a7-automate-understanding/">Antes de automatizar a mudança, automatize o entendimento</a>
+              <a href="/pt-br/posts/prime/legacy-roadmap/a7-automate-understanding/">Antes de automatizar a mudança, automatize o entendimento</a>
             </li>
           
         
           
             <li>
-              <a href="/pt-br/posts/legacy-roadmap/a6-when-system-works/">Quando o sistema só funciona porque alguém ainda lembra</a>
+              <a href="/pt-br/posts/prime/legacy-roadmap/a6-when-system-works/">Quando o sistema só funciona porque alguém ainda lembra</a>
             </li>
           
         
           
             <li>
-              <a href="/pt-br/posts/legacy-roadmap/a5-postponed-modernization-is-a-decision/">Modernização adiada também é uma decisão</a>
+              <a href="/pt-br/posts/prime/legacy-roadmap/a5-postponed-modernization-is-a-decision/">Modernização adiada também é uma decisão</a>
             </li>
           
         
           
             <li>
-              <a href="/pt-br/posts/legacy-roadmap/a4-when-software-becomes-organization/">Quando o software vira parte da organização</a>
+              <a href="/pt-br/posts/prime/legacy-roadmap/a4-when-software-becomes-organization/">Quando o software vira parte da organização</a>
             </li>
           
         
           
             <li>
-              <a href="/pt-br/posts/legacy-roadmap/a3-the-risk-of-changing-is-visible/">O risco de mudar é visível. O risco de não mudar nem sempre é visível</a>
+              <a href="/pt-br/posts/prime/legacy-roadmap/a3-the-risk-of-changing-is-visible/">O risco de mudar é visível. O risco de não mudar nem sempre é visível</a>
             </li>
           
         

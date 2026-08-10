@@ -16,7 +16,7 @@ categories = [
 series = ["Modernization"]
 +++
 
-![image](/images/ml/part8.jpg)
+![Modernizar não é trocar tecnologia é governar a continuidade](/images/ml/part8.jpg)
 
 *Series: The Legacy Roadmap — Part 8*
 
