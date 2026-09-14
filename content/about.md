@@ -18,7 +18,8 @@ My career is built at the intersection of cloud strategy and software architectu
 
 ## Academic & Scientific Rigor
 My professional practice is supported by a robust and continuous educational foundation:
-* **Master of Computer Science (Software Engineering):** Research focused on legacy system modernization, evidence-based software engineering, and decision-making in complex enterprise environments.
+* **PhD Student in Computer Science:** Currently pursuing an Academic Doctorate (PhD) at the State University of Maringá (UEM), conducting research on the modernization of mission-critical legacy systems.
+* **Master of Computer Science (Software Engineering):** Earned degree at UTFPR (Federal University of Technology - Paraná), with research focused on legacy system modernization, evidence-based software engineering, and decision-making in complex enterprise environments.
 * **Data & Statistics Specialist:** I hold a postgraduate degree in **Applied Statistics and Probability** and an **MBA in Data Science**, allowing me to apply analytical rigor to architectural decision-making.
 * **Business Vision:** My technical background is complemented by an **MBA in Business Strategy**, ensuring that technological solutions drive organizational competitiveness.
 * **Bachelor’s in Big Data:** Degree in Big Data and Analytic Intelligence, solidifying my understanding of the information lifecycle.
