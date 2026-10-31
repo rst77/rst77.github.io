@@ -7,7 +7,7 @@ Currently, I serve as a **Distinguished Solution Engineer at Oracle**, supportin
 
 ## Contact
 
-- Email: renato@renatoteixeira.com
+- Email: contact@renatoteixeira.com
 - Country: Brazil
 
 ## Professional Expertise

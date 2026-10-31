@@ -5,7 +5,7 @@ Atualmente, atuo como **Distinguished Solution Engineer na Oracle**, onde apoio 
 
 ## Contato
 
-- Email: renato@renatoteixeira.com
+- Email: contact@renatoteixeira.com
 - País: Brasil
 
 
