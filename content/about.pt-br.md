@@ -13,7 +13,7 @@ Atualmente, atuo como **Distinguished Solution Engineer na Oracle**, onde apoio 
 Minha carreira é pautada pela intersecção entre estratégia de nuvem e arquitetura de software.
 * **Liderança Técnica:** Atuo diretamente com líderes de tecnologia para avaliar caminhos de modernização e adotar capacidades de nuvem nativa.
 * **Foco Estratégico:** Encaro a modernização não apenas como uma migração técnica, mas como uma disciplina que conecta arquitetura, economia da modernização e valor de negócio.
-* **Experiência Regional:** Possuo ampla vivência em mercados do Brasil, México, Argentina, Chile, Peru e Colômbia, atendendo setores de serviços financeiros, varejo e telecomunicações.
+* **Atuação Internacional:** Ao longo da minha trajetória, conduzi iniciativas estratégicas de arquitetura e modernização em diversos países — incluindo **Brasil, Estados Unidos, México, Argentina, Chile, Colômbia, Peru, Costa Rica e Paraguai** —, assessorando organizações de grande porte nos setores financeiro, de telecomunicações e varejo.
 
 ## Rigor Acadêmico e Científico
 Minha prática profissional é fundamentada por uma base educacional robusta e contínua:

@@ -14,7 +14,7 @@ Currently, I serve as a **Distinguished Solution Engineer at Oracle**, supportin
 My career is built at the intersection of cloud strategy and software architecture.
 * **Technical Leadership:** I engage with business and technology leaders to evaluate modernization paths and adopt cloud-native capabilities.
 * **Strategic Focus:** I treat modernization not as a technical migration, but as a discipline connecting software architecture, modernization economics, and business value.
-* **Regional Experience:** I have extensive experience supporting clients in Brazil, Mexico, Argentina, Chile, Peru, and Colombia, across financial services, retail, and telecommunications sectors.
+* **International Footprint:** Throughout my career, I have led strategic architecture and modernization initiatives across multiple countries—including **Brazil, the United States, Mexico, Argentina, Chile, Colombia, Peru, Costa Rica, and Paraguay**—advising large-scale enterprises in the financial services, telecommunications, and retail sectors.
 
 ## Academic & Scientific Rigor
 My professional practice is supported by a robust and continuous educational foundation:

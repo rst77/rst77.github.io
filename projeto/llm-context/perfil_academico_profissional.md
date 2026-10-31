@@ -33,7 +33,7 @@ Documento de referência para manter o contexto das informações acadêmicas e 
 
 - **Cargo Atual:** Distinguished Solution Engineer na Oracle
 - **Especialidade:** Modernização de Sistemas Legados e Arquitetura de Missão Crítica.
-- **Experiência:** Mais de 25 anos em ambientes tecnológicos complexos corporativos pela América Latina.
+- **Experiência:** Mais de 25 anos em ambientes tecnológicos complexos corporativos, com atuação internacional conduzindo iniciativas de arquitetura e modernização no Brasil, Estados Unidos, México, Argentina, Chile, Colômbia, Peru, Costa Rica e Paraguai (setores financeiro, telecomunicações e varejo).
 - **Docência:** Atuação anterior como professor universitário em cursos de pós-graduação (arquitetura de nuvem, Kubernetes, plataformas distribuídas).
 
 ---
